@@ -1,0 +1,5 @@
+# Yahan apne observations likho (har line ek baat). '#' wali lines ignore hoti hain.
+# Ye script likhte waqt Gemini ko diye jaate hain, isliye jo chal raha hai uska zyada banega.
+# Example:
+# counting wale gaane zyada chale, lullaby kam
+# pehle 10 second me hi character dikhao

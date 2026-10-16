@@ -1,0 +1,74 @@
+{
+  "channel_name": "Rangeela Rhymes",
+  "_note_channel": "Apne channel ka naam yahan likho. Characters bhi apne original rakho (kisi existing show/channel jaise nahi).",
+
+  "length": { "min_minutes": 6, "max_minutes": 8 },
+  "max_catchup": 3,
+  "videos_per_run": 1,
+
+  "characters": [
+    "Chintu: a small round orange baby elephant with big sparkly eyes and a blue scarf",
+    "Mithu: a tiny green parrot with a yellow tummy and a red cap"
+  ],
+  "style_prompt": "cute colorful 3D cartoon illustration for toddlers, soft studio lighting, bright pastel colors, simple clean background, big friendly eyes, smooth shapes, high quality, wide 16:9 composition, no text, no letters, no logos, no watermark",
+  "image_seed": 4242,
+
+  "formats": [
+    "counting song (1 to 10) with a repeating chorus",
+    "animal sounds call-and-response song",
+    "good-habit song (brushing teeth, washing hands, sharing, saying thank you)",
+    "tiny story rhyme with a gentle moral",
+    "colors and shapes song",
+    "action song (clap, jump, spin, stretch) kids can copy",
+    "slow soothing lullaby for bedtime",
+    "seasons, weather and festival fun song"
+  ],
+
+  "topics": [
+    "Chintu ko baarish me khelna pasand hai",
+    "Mithu ki gindti 1 se 10",
+    "Fal aur sabziyon ke rang",
+    "Subah subah daant brush karna",
+    "Gaadi chali gaadi chali (original, vehicles song)",
+    "Chidiya ghar ke bahar",
+    "Dadi ka gaon aur khet",
+    "Chaand aur taare raat me",
+    "Haath dhona ke fayde",
+    "Mere khilone, mere dost",
+    "Jungle ke jaanwar aur unki awaaz",
+    "Pyaari titli aur phool",
+    "Bhaiya behen ka pyaar",
+    "School chalo school chalo",
+    "Garmi ki chhutti me aam"
+  ],
+
+  "gemini_models": ["gemini-2.5-flash-lite", "gemini-2.5-flash", "gemini-3.1-flash-lite"],
+  "fallback_llms": [
+    { "name": "groq", "base_url": "https://api.groq.com/openai/v1", "model": "llama-3.3-70b-versatile", "key_env": "GROQ_API_KEY" },
+    { "name": "openrouter", "base_url": "https://openrouter.ai/api/v1", "model": "meta-llama/llama-3.3-70b-instruct:free", "key_env": "OPENROUTER_API_KEY" }
+  ],
+
+  "tts": {
+    "voices": { "hi": "hi-IN-SwaraNeural", "en": "en-IN-NeerjaNeural" },
+    "rate": "-8%",
+    "pitch": "+6Hz",
+    "gtts_tld": "co.in"
+  },
+
+  "image": {
+    "min_interval_anon_sec": 16,
+    "min_interval_key_sec": 3,
+    "cache_max_files": 300
+  },
+
+  "blocked_terms": [
+    "cocomelon", "peppa", "baby shark", "pinkfong", "nunu", "ryan's", "blippi", "chuchu", "little baby bum",
+    "kidsone", "bluey", "disney", "pixar", "marvel", "mickey", "doraemon", "chhota bheem", "motu patlu",
+    "paw patrol", "super simple", "lellobee", "mothergoose club", "twinkle twinkle", "wheels on the bus",
+    "johny johny", "johnny johnny", "humpty dumpty", "jack and jill", "machli jal ki rani", "lakdi ki kathi"
+  ],
+
+  "trend_queries": ["hindi nursery rhymes", "kids rhymes hindi english", "toddler songs hindi"],
+
+  "release_keep_days": 14
+}
