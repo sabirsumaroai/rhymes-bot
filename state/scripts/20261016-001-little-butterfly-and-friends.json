@@ -1,0 +1,105 @@
+{
+ "id": "20261016-001-little-butterfly-and-friends",
+ "topic": "Pyaari titli aur phool",
+ "format": "counting song (1 to 10) with a repeating chorus",
+ "title_hi": "नन्ही तितली और चिनटू-मिथू",
+ "title_en": "Little Butterfly and Friends",
+ "thumb_text_hi": "तितली गिने आओ",
+ "thumb_text_en": "Count The Butterflies",
+ "description": "Chintu aur Mithu ke saath pyari titliyan ginein. Bachon ke liye ek mazedaar counting song.",
+ "tags": [
+  "nursery rhymes",
+  "hindi rhymes",
+  "kids counting song",
+  "learning for toddlers",
+  "chintu mithu songs",
+  "kids songs",
+  "butterfly song",
+  "educational video",
+  "hindi for kids",
+  "counting 1-10",
+  "animated kids rhymes",
+  "rangeela rhymes"
+ ],
+ "learning": "Counting numbers 1 to 10 with colors and nature observation.",
+ "scenes": [
+  {
+   "text": "प्यारी तितली उड़ती जाए,\nफूलों संग ये खेल रचाए।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A tiny green parrot with a red cap and a round orange baby elephant with a blue scarf dancing in a bright sunny flower garden, 3D cartoon style."
+  },
+  {
+   "text": "One little butterfly on a red rose,\nLanding softly on Chintu's nose.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A small butterfly sitting on the nose of a cute round orange elephant, bright garden background."
+  },
+  {
+   "text": "Two pretty butterflies fly so high,\nPainting colors in the blue sky.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Two colorful butterflies fluttering in a clear blue sky, soft sunlight."
+  },
+  {
+   "text": "प्यारी तितली उड़ती जाए,\nफूलों संग ये खेल रचाए।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu the orange elephant and Mithu the green parrot clapping hands under a flowering tree."
+  },
+  {
+   "text": "Three orange butterflies land on green leaves,\nMithu the parrot happily believes.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Three orange butterflies sitting on bright green leaves, Mithu the green parrot looking at them with joy."
+  },
+  {
+   "text": "Four blue butterflies dance in the sun,\nHaving lots of playing fun.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Four blue butterflies dancing in circles in a lush meadow."
+  },
+  {
+   "text": "प्यारी तितली उड़ती जाए,\nफूलों संग ये खेल रचाए।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant laughing while butterflies fly around his blue scarf."
+  },
+  {
+   "text": "पाँच तितली बैठी डाल पर,\nछह उड़ती हैं नीले अंबर पर।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Five butterflies resting on a wooden branch, six butterflies soaring in the distance."
+  },
+  {
+   "text": "Seven tiny wings go flap flap flap,\nMithu sits down for a little nap.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Seven butterflies with small wings flying above a sleeping green parrot with a red cap."
+  },
+  {
+   "text": "प्यारी तितली उड़ती जाए,\nफूलों संग ये खेल रचाए।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu elephant pointing at a trail of butterflies in a flower field."
+  },
+  {
+   "text": "आठ तितलियाँ गोल-गोल घूमें,\nनौ तितलियाँ सब फूलों को चूमें।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Eight butterflies flying in a circle, nine butterflies landing on bright yellow flowers."
+  },
+  {
+   "text": "Ten butterflies count one to ten,\nLet's count them all again and again.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Ten butterflies of different colors arranged in a line, happy elephant and parrot standing nearby."
+  },
+  {
+   "text": "प्यारी तितली उड़ती जाए,\nफूलों संग ये खेल रचाए।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot waving goodbye to a flock of butterflies in a sunset garden."
+  }
+ ]
+}
