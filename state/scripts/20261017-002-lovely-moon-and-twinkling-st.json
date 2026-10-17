@@ -1,0 +1,207 @@
+{
+ "id": "20261017-002-lovely-moon-and-twinkling-st",
+ "topic": "Chaand aur taare raat me",
+ "format": "animal sounds call-and-response song",
+ "title_hi": "प्यारा चाँद और चंचल तारे",
+ "title_en": "Lovely Moon and Twinkling Stars",
+ "thumb_text_hi": "चाँद मामा आए",
+ "thumb_text_en": "Moon and Stars",
+ "description": "Chintu aur Mithu raat mein taaron ke saath khel rahe hain. Is gaane se bachhe raat ke nazaron aur jaanwaron ki awaazon ke baare mein seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "nursery rhymes",
+  "kids songs",
+  "Hindi rhymes",
+  "Chintu elephant",
+  "Mithu parrot",
+  "lullaby",
+  "bedtime songs",
+  "chaand aur taare",
+  "toddler learning",
+  "kids music",
+  "Indian kids channel"
+ ],
+ "learning": "Learning about the night sky, counting stars, and identifying animal sounds.",
+ "scenes": [
+  {
+   "text": "चमके चाँद और प्यारे तारे,\nरात हुई है सबेरे के प्यारे।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange baby elephant with a blue scarf and a small green parrot with a yellow tummy looking up at a big smiling crescent moon in a starry night sky."
+  },
+  {
+   "text": "Twinkle moon and shining stars,\nNight time is here, just like ours.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Close up of the orange baby elephant and green parrot pointing at a group of bright sparkling stars in the dark blue night sky."
+  },
+  {
+   "text": "चिंटू हाथी बोले छू-छू-छू,\nतारे गिने एक और दो।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange baby elephant trunk raised making a sound, with two bright yellow stars floating in the air above him."
+  },
+  {
+   "text": "Chintu elephant says choo-choo-choo,\nCounting stars, one and two.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The baby elephant smiling while the green parrot counts stars with its wing."
+  },
+  {
+   "text": "चमके चाँद और प्यारे तारे,\nरात हुई है सबेरे के प्यारे।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot sitting on a soft fluffy cloud looking at the glowing moon."
+  },
+  {
+   "text": "Twinkle moon and shining stars,\nNight time is here, just like ours.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Wide shot of the moon and stars illuminating a peaceful cartoon meadow at night."
+  },
+  {
+   "text": "मिठू तोता बोले चीं-चीं-चीं,\nतारे गिने तीन और चार वहीं।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A tiny green parrot with a red cap perched on a branch, four twinkling stars appearing around it."
+  },
+  {
+   "text": "Mithu parrot says chee-chee-chee,\nCounting stars, three and four for me.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot flapping its wings happily next to four bright glowing stars in the sky."
+  },
+  {
+   "text": "चिंटू हाथी घूमे गोल-गोल,\nतारे गिने पाँच और छह, बोलो बोल।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange elephant spinning in circles on a soft patch of grass under six glowing stars."
+  },
+  {
+   "text": "Chintu elephant spins around,\nFive and six stars on the ground.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant looking at six star reflections in a small pond."
+  },
+  {
+   "text": "चमके चाँद और प्यारे तारे,\nरात हुई है सबेरे के प्यारे।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot hugging under the bright crescent moon."
+  },
+  {
+   "text": "Twinkle moon and shining stars,\nNight time is here, just like ours.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The moon smiling down at the elephant and parrot in a peaceful garden."
+  },
+  {
+   "text": "मिठू तोता उड़े आसमान,\nतारे गिने सात और आठ महान।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The green parrot flying towards eight sparkling stars in the night sky."
+  },
+  {
+   "text": "Mithu parrot flies so high,\nSeven and eight stars in the sky.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot soaring through the air with eight stars glimmering in the background."
+  },
+  {
+   "text": "चिंटू हाथी करे सु-सु-सु,\nतारे गिने नौ और दस, हँसे तू।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant resting peacefully with ten stars shining brightly above its head."
+  },
+  {
+   "text": "Chintu elephant makes a snoozing sound,\nNine and ten stars all around.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant and green parrot lying down under a blanket of ten sparkling stars."
+  },
+  {
+   "text": "चमके चाँद और प्यारे तारे,\nरात हुई है सबेरे के प्यारे।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A peaceful night scene with the orange elephant and parrot sleeping together."
+  },
+  {
+   "text": "Twinkle moon and shining stars,\nNight time is here, just like ours.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A soft purple night sky with a gentle glowing moon and many small stars."
+  },
+  {
+   "text": "चिंटू हाथी चुप है आज,\nतारे गाते प्यारा सा साज।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant closing its eyes as musical notes float from the stars."
+  },
+  {
+   "text": "Chintu elephant is quiet now,\nStars are singing, take a bow.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot tucked in close to the elephant, both looking very sleepy."
+  },
+  {
+   "text": "मिठू तोता सो गया है,\nसारा जहाँ खो गया है।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot tucked under its wing in the elephant's ear, fast asleep."
+  },
+  {
+   "text": "Mithu parrot is fast asleep,\nThe world is in a slumber deep.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The forest at night with soft blue shadows and twinkling stars."
+  },
+  {
+   "text": "चमके चाँद और प्यारे तारे,\nरात हुई है सबेरे के प्यारे।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A wide angle shot of the moon watching over the sleeping friends."
+  },
+  {
+   "text": "Twinkle moon and shining stars,\nNight time is here, just like ours.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The moon glowing softly over the sleeping orange elephant and green parrot."
+  },
+  {
+   "text": "नींद आई है मीठी-मीठी,\nतारे बोले चलो अब छुट्टी।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The stars twinkling as if saying goodnight to the sleeping friends."
+  },
+  {
+   "text": "Sweet dreams are coming now,\nStars say sleep, take a bow.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A soft glowing light surrounding the elephant and parrot in their sleep."
+  },
+  {
+   "text": "चिंटू और मिठू सोए,\nख्वाबों में वो अब खोए।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot in dreamland with colorful clouds around them."
+  },
+  {
+   "text": "Chintu and Mithu dreaming deep,\nIn their bed, fast asleep.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The friends sleeping comfortably on a giant leaf under the moonlight."
+  },
+  {
+   "text": "चमके चाँद और प्यारे तारे,\nरात हुई है सबेरे के प्यारे।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The final scene showing the moon winking at the camera."
+  },
+  {
+   "text": "Twinkle moon and shining stars,\nNight time is here, just like ours.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The moon and stars glowing in the quiet night sky above the sleeping characters."
+  }
+ ]
+}
