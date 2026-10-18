@@ -1,0 +1,183 @@
+{
+ "id": "20261018-003-at-grandma-s-farm",
+ "topic": "Dadi ka gaon aur khet",
+ "format": "good-habit song (brushing teeth, washing hands, sharing, saying thank you)",
+ "title_hi": "दादी के खेत में",
+ "title_en": "At Grandma's Farm",
+ "thumb_text_hi": "दादी का प्यारा गाँव",
+ "thumb_text_en": "Grandma's Fun Farm",
+ "description": "Chintu aur Mithu ke saath seekho khet mein kaise mil-baant kar phal khate hain. Is gaane se bachhe share karna aur mil-jul kar rehna seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Songs",
+  "Hindi Nursery Rhymes",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Dadi ka Gaon",
+  "Farm Song for Kids",
+  "Sharing Habit",
+  "Moral Stories for Kids",
+  "Animated Rhymes",
+  "Indian Toddler Songs",
+  "Learning Values"
+ ],
+ "learning": "Sharing and cooperation while eating fresh fruits at the farm.",
+ "scenes": [
+  {
+   "text": "दादी के खेत में हम हैं जाते,\nमिल-बांट कर हम फल हैं खाते।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange baby elephant with a blue scarf and a tiny green parrot with a yellow tummy and red cap running happily in a sunny green farm."
+  },
+  {
+   "text": "We go to Grandma's farm so green,\nThe happiest friends you have ever seen.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A lush green countryside field with colorful flowers and a small wooden cottage in the background."
+  },
+  {
+   "text": "सबको मिलकर है रहना,\nसबको अच्छा सच है कहना।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu the elephant and Mithu the parrot sitting together under a big shady tree."
+  },
+  {
+   "text": "दादी के खेत में हम हैं जाते,\nमिल-बांट कर हम फल हैं खाते।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu dancing joyfully in a circle near some fruit trees."
+  },
+  {
+   "text": "One sweet apple for you and me,\nSharing is sweet, as you can see.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu holding a bright red apple and offering a piece to Chintu."
+  },
+  {
+   "text": "Fruit is tasty, fruit is bright,\nSharing makes it pure delight.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A basket filled with fresh apples, mangoes, and grapes on a wooden table."
+  },
+  {
+   "text": "दादी के खेत में हम हैं जाते,\nमिल-बांट कर हम फल हैं खाते।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu high-fiving each other in the middle of a sunflower patch."
+  },
+  {
+   "text": "नन्हे हाथी ने केला तोड़ा,\nमिलकर बाँटने का नाता जोड़ा।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu the elephant picking a yellow banana from a small tree with his trunk."
+  },
+  {
+   "text": "Parrot chirps and starts to sing,\nSharing brings such a happy thing.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the parrot flying with wings spread wide, chirping happily in the blue sky."
+  },
+  {
+   "text": "दादी के खेत में हम हैं जाते,\nमिल-बांट कर हम फल हैं खाते।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu sitting together, smiling as they share a plate of cut fruits."
+  },
+  {
+   "text": "प्यार बाँटने से बढ़ता है,\nहर कोई खुश खुश रहता है।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A golden sunset over the farm with the silhouettes of Chintu and Mithu playing."
+  },
+  {
+   "text": "Sharing love makes hearts grow wide,\nAlways keep the joy inside.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A bright rainbow appearing over the green farm fields."
+  },
+  {
+   "text": "दादी के खेत में हम हैं जाते,\nमिल-बांट कर हम फल हैं खाते।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu waving goodbye to the farm as the scene fades."
+  },
+  {
+   "text": "Sharing is a good habit, see,\nGood for you and good for me.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of Chintu and Mithu giving a thumbs up to the camera."
+  },
+  {
+   "text": "दादी के खेत में हम हैं जाते,\nमिल-बांट कर हम फल हैं खाते।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Wide shot of the beautiful farm with rolling hills and blooming flowers."
+  },
+  {
+   "text": "सबका साथ है सबसे प्यारा,\nखुशियों का है ये सहारा।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu laughing together under a bright yellow sun."
+  },
+  {
+   "text": "Friends are here to laugh and play,\nSharing brightens up the day.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu holding a bunch of flowers and Mithu sitting on his shoulder."
+  },
+  {
+   "text": "दादी के खेत में हम हैं जाते,\nमिल-बांट कर हम फल हैं खाते।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu running towards a small farmhouse porch."
+  },
+  {
+   "text": "प्यारे दोस्त हैं साथ हमेशा,\nखेत में है नया सवेरा।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The sun rising behind the farmhouse, casting a warm golden glow."
+  },
+  {
+   "text": "Helping hands and hearts so kind,\nLeaving all our cares behind.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu helping Mithu reach a high branch to pick a fruit."
+  },
+  {
+   "text": "दादी के खेत में हम हैं जाते,\nमिल-बांट कर हम फल हैं खाते।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu eating together, looking happy and full."
+  },
+  {
+   "text": "साथ मिलकर हम बढ़ते जाएं,\nखुशी से हम गीत गाएं।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu marching together on a dirt path."
+  },
+  {
+   "text": "Every friend is special too,\nSharing helps us grow like you.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A beautiful view of the orchard with rows of fruit trees."
+  },
+  {
+   "text": "दादी के खेत में हम हैं जाते,\nमिल-बांट कर हम फल हैं खाते।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu sitting in the middle of a field of soft green grass."
+  },
+  {
+   "text": "मिलकर रहो और खुश हो जाओ,\nप्यार की महक हर जगह फैलाओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A butterfly landing on Chintu's blue scarf while Mithu watches."
+  },
+  {
+   "text": "Always share and always care,\nJoy is found here everywhere.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu looking at the clear blue sky, feeling peaceful."
+  }
+ ]
+}
