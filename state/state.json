@@ -9,7 +9,36 @@
   "Chaand aur taare raat me",
   "Dadi ka gaon aur khet"
  ],
- "ideas": [],
+ "ideas": [
+  {
+   "topic": "Colors of the Rainbow Fruits",
+   "format": "Colors"
+  },
+  {
+   "topic": "The Magic Washing Hands Dance",
+   "format": "Habits"
+  },
+  {
+   "topic": "Counting Little Ants on a Leaf",
+   "format": "Counting"
+  },
+  {
+   "topic": "Blue Elephant's Big Giggle",
+   "format": "Story"
+  },
+  {
+   "topic": "Jump, Spin, and Freeze!",
+   "format": "Action"
+  },
+  {
+   "topic": "Where do the Little Chicks Sleep?",
+   "format": "Lullaby"
+  },
+  {
+   "topic": "Traffic Light Friends",
+   "format": "Safety/Learning"
+  }
+ ],
  "missed": 0,
  "runs": 3,
  "last_run": "2026-10-18T03:20:21+00:00",
