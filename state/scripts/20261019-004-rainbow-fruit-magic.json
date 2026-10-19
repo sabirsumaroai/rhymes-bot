@@ -1,0 +1,207 @@
+{
+ "id": "20261019-004-rainbow-fruit-magic",
+ "topic": "Colors of the Rainbow Fruits",
+ "format": "Colors",
+ "title_hi": "इंद्रधनुषी फलों का जादू",
+ "title_en": "Rainbow Fruit Magic",
+ "thumb_text_hi": "रंग-बिरंगे फल",
+ "thumb_text_en": "Yummy Fruit Colors",
+ "description": "Chintu aur Mithu ke saath milkar bacchon ko rang aur phal pehchanne sikhayein. Yeh gaana bachon ko healthy khane ke liye bhi motivate karega.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Hindi Rhymes",
+  "Kids Learning",
+  "Colors for Toddlers",
+  "Fruit Song",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Preschool Songs",
+  "Healthy Eating",
+  "Bachon ke Gaane",
+  "Learning Colors",
+  "Rainbow Fruits"
+ ],
+ "learning": "Teaching colors and names of fruits through playful interaction.",
+ "scenes": [
+  {
+   "text": "लाल सेब और पीला आम,\nरंगों का देखो प्यारा नाम।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange elephant with a blue scarf and a small green parrot with a yellow tummy standing in a bright sunny orchard."
+  },
+  {
+   "text": "Red apple and yellow mango so sweet,\nEating fruits is a healthy treat.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Close up of a shiny red apple and a juicy yellow mango sitting on a wooden picnic table."
+  },
+  {
+   "text": "Chintu uthaye lal seb gol,\nKhushi se bole, bol re bol.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange round elephant holding a red apple with his trunk, looking happy."
+  },
+  {
+   "text": "Mithu laaye peela aam,\nKhaane ka hai kitna kaam.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The small green parrot with a yellow tummy and red cap carrying a yellow mango in his claws."
+  },
+  {
+   "text": "लाल सेब और पीला आम,\nरंगों का देखो प्यारा नाम।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot dancing together in a garden full of flowers."
+  },
+  {
+   "text": "Red apple and yellow mango so sweet,\nEating fruits is a healthy treat.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Bright sunshine hitting a basket of colorful fruits in a green grassy field."
+  },
+  {
+   "text": "Neela jamun, jamuni rang,\nKhaye sabhi milke ek sang.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A bowl filled with dark purple jamuns, the elephant and parrot sitting beside it."
+  },
+  {
+   "text": "Purple berries round and small,\nHealthy snacks for one and all.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A close up of purple berries arranged in a neat little pile on a leaf."
+  },
+  {
+   "text": "Hara amrood, rang hai pyara,\nSabko lagta sabse nyara.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The green parrot perched on a branch next to a large green guava."
+  },
+  {
+   "text": "Green guava is yummy and bright,\nEating it brings us such delight.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A crisp green guava sitting on a clean white surface with sunbeams."
+  },
+  {
+   "text": "लाल सेब और पीला आम,\nरंगों का देखो प्यारा नाम।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant wearing his scarf, laughing while looking at a fruit basket."
+  },
+  {
+   "text": "Red apple and yellow mango so sweet,\nEating fruits is a healthy treat.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Wide shot of the orchard with colorful fruit trees under a blue sky."
+  },
+  {
+   "text": "Narangi santra, ras se bhara,\nChintu ko yeh lage bada pyaara.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange elephant peeking behind a juicy orange fruit."
+  },
+  {
+   "text": "Orange is juicy and very nice,\nTake a bite, one or twice.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A slice of orange showing its juicy segments in high detail."
+  },
+  {
+   "text": "Ek do teen, phal hain kitne,\nGin lo saare, lagte ache.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot pointing his wing at three different fruits to count them."
+  },
+  {
+   "text": "One two three, count them all,\nBig fruits and fruits so small.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot and elephant standing next to a stack of fruits arranged by size."
+  },
+  {
+   "text": "लाल सेब और पीला आम,\nरंगों का देखो प्यारा नाम।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot high-fiving in the fruit garden."
+  },
+  {
+   "text": "Red apple and yellow mango so sweet,\nEating fruits is a healthy treat.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A beautiful view of the forest floor covered in colorful fallen leaves and fruits."
+  },
+  {
+   "text": "Mithu gaaye meethe gaane,\nPhal khane ke maze hain jaane.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The green parrot singing with his beak open on a small tree branch."
+  },
+  {
+   "text": "Chintu naache, ghoom ghoom,\nPhalon ki khushboo chhoom chhoom.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The round orange elephant spinning around happily in the garden."
+  },
+  {
+   "text": "Healthy food makes us strong,\nJoin us in this happy song.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A muscular toy shape reflecting strength, placed near a bowl of mixed fruit."
+  },
+  {
+   "text": "Eat your fruits every day,\nKeep the grumpy blues away.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot smiling broadly, looking very energized."
+  },
+  {
+   "text": "लाल सेब और पीला आम,\nरंगों का देखो प्यारा नाम।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Both characters sitting together on a grassy patch enjoying a fruit platter."
+  },
+  {
+   "text": "Red apple and yellow mango so sweet,\nEating fruits is a healthy treat.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A clear blue sky above the garden with a faint rainbow arching over the trees."
+  },
+  {
+   "text": "Rang-birangi duniya saari,\nPhal hai hum sabki zimmedari.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant holding a rainbow-colored umbrella made of fruit shapes."
+  },
+  {
+   "text": "Colors bright for me and you,\nFruits are tasty, healthy too.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A colorful fruit platter arranged to look like a rainbow arc."
+  },
+  {
+   "text": "Chintu bole, bye-bye dost,\nHum toh chale, karke roast.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange elephant waving his trunk goodbye to the camera."
+  },
+  {
+   "text": "Mithu bole, phir milenge,\nNaye phal hum phir khilenge.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The green parrot flapping his wings and flying slowly away from the scene."
+  },
+  {
+   "text": "लाल सेब और पीला आम,\nरंगों का देखो प्यारा नाम।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot standing side by side as the sun sets in the background."
+  },
+  {
+   "text": "Red apple and yellow mango so sweet,\nEating fruits is a healthy treat.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The characters walking into the sunset as the scene fades to soft colors."
+  }
+ ]
+}
