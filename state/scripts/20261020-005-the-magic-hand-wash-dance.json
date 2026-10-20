@@ -1,0 +1,123 @@
+{
+ "id": "20261020-005-the-magic-hand-wash-dance",
+ "topic": "The Magic Washing Hands Dance",
+ "format": "Habits",
+ "title_hi": "हाथ धोने का जादू",
+ "title_en": "The Magic Hand Wash Dance",
+ "thumb_text_hi": "जादुई हाथ धोना",
+ "thumb_text_en": "Magic Hand Wash",
+ "description": "Chintu hathi aur Mithu tota sikhayenge ki kaise mazedaar tarike se haath dhote hain. Yeh pyara gaana bachhon ko swachhta ki aadat daalne mein madad karega.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Songs",
+  "Hand Wash Song",
+  "Hindi Rhymes",
+  "Nursery Rhymes",
+  "Healthy Habits",
+  "Clean Hands",
+  "Toddler Learning",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Kids Hygiene",
+  "Fun Education"
+ ],
+ "learning": "Teaches proper handwashing steps and the importance of hygiene for toddlers.",
+ "scenes": [
+  {
+   "text": "चलो करें जादू, हाथ धोएं सब मिलके\nपानी और साबुन, नाचे झूम-झूम के",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange elephant with a blue scarf and a tiny green parrot with a red cap standing by a colorful sink, splashing water playfully."
+  },
+  {
+   "text": "Scrub the fingers, one by one\nMaking bubbles is so much fun",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of small orange elephant hands rubbing fingers together creating large soap bubbles."
+  },
+  {
+   "text": "साफ़ करें अब अपनी हथेलियाँ\nगुनगुनाएं प्यारी-प्यारी बोलियाँ",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A happy tiny green parrot with a red cap clapping its wings near the elephant's palm."
+  },
+  {
+   "text": "चलो करें जादू, हाथ धोएं सब मिलके\nपानी और साबुन, नाचे झूम-झूम के",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Both characters dancing joyfully in a bright clean bathroom with bubble patterns on the tiles."
+  },
+  {
+   "text": "Count to five, one, two, three\nClean hands are good for you and me",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant holding up three fingers while the parrot counts along."
+  },
+  {
+   "text": "अंगूठे को भी रगड़ें तुम धीरे\nकीटाणु भागेंगे सब दूर किनारे",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange elephant carefully scrubbing its thumb with a smile."
+  },
+  {
+   "text": "चलो करें जादू, हाथ धोएं सब मिलके\nपानी और साबुन, नाचे झूम-झूम के",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The parrot hovering in the air above the sink while the elephant turns the tap handle."
+  },
+  {
+   "text": "Wash the backs, side to side\nIn the water, germs will hide",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot showing the elephant how to wash the back of its hands."
+  },
+  {
+   "text": "नल को अब बंद करें भाई\nतौलिये से करो साफ़ सुथराई",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant using a soft yellow towel to dry its trunk and hands."
+  },
+  {
+   "text": "चलो करें जादू, हाथ धोएं सब मिलके\nपानी और साबुन, नाचे झूम-झूम के",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Both friends showing off their clean, sparkling hands, looking very happy."
+  },
+  {
+   "text": "Water falls, splash splash splash\nFresh and clean in a quick dash",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Water droplets flying in the air as the characters shake their hands dry."
+  },
+  {
+   "text": "खुशबू आए हाथों से प्यारी\nसफ़ाई की रीत है सबसे न्यारी",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant smelling its own hands with a big satisfied smile."
+  },
+  {
+   "text": "चलो करें जादू, हाथ धोएं सब मिलके\nपानी और साबुन, नाचे झूम-झूम के",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A wide shot of the bathroom with flowers and bubbles surrounding the happy characters."
+  },
+  {
+   "text": "Ready to play, ready to eat\nClean little hands are really sweet",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant reaching for a healthy apple with clean hands."
+  },
+  {
+   "text": "आओ मिलकर सब हाथ बढ़ाएं\nबीमारी को हम दूर भगाएं",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot landing on the elephant's head as they both look towards the viewer."
+  },
+  {
+   "text": "चलो करें जादू, हाथ धोएं सब मिलके\nपानी और साबुन, नाचे झूम-झूम के",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Final scene: both characters waving goodbye with clean, shiny hands."
+  }
+ ]
+}

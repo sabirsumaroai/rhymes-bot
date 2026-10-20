@@ -3,19 +3,17 @@
   "Little Butterfly and Friends",
   "Lovely Moon and Twinkling Stars",
   "At Grandma's Farm",
-  "Rainbow Fruit Magic"
+  "Rainbow Fruit Magic",
+  "The Magic Hand Wash Dance"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
   "Chaand aur taare raat me",
   "Dadi ka gaon aur khet",
-  "Colors of the Rainbow Fruits"
+  "Colors of the Rainbow Fruits",
+  "The Magic Washing Hands Dance"
  ],
  "ideas": [
-  {
-   "topic": "The Magic Washing Hands Dance",
-   "format": "Habits"
-  },
   {
    "topic": "Counting Little Ants on a Leaf",
    "format": "Counting"
@@ -38,8 +36,8 @@
   }
  ],
  "missed": 0,
- "runs": 4,
- "last_run": "2026-10-19T03:23:44+00:00",
+ "runs": 5,
+ "last_run": "2026-10-20T03:25:00+00:00",
  "voiced": [],
- "counter": 4
+ "counter": 5
 }
