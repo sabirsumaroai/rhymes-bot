@@ -1,0 +1,123 @@
+{
+ "id": "20261021-006-little-ants-marching",
+ "topic": "Counting Little Ants on a Leaf",
+ "format": "Counting",
+ "title_hi": "नन्ही चींटियाँ",
+ "title_en": "Little Ants Marching",
+ "thumb_text_hi": "नन्ही चींटियाँ गिनें",
+ "thumb_text_en": "Count Tiny Ants",
+ "description": "Chintu aur Mithu ke saath milkar pyaari cheentiyon ko ginna seekhein. Yeh bachon ke liye ek mazedaar counting gaana hai.",
+ "tags": [
+  "Hindi Rhymes",
+  "Kids Counting",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Nursery Rhymes",
+  "Bachon Ke Gane",
+  "Learning Numbers",
+  "Funny Ants",
+  "Preschool Songs",
+  "Rangeela Rhymes",
+  "Hindi Educational",
+  "Cute Animal Song"
+ ],
+ "learning": "Learning to count numbers 1 to 10 in both Hindi and English.",
+ "scenes": [
+  {
+   "text": "देखो नन्हीं चींटी एक, चल रही है रुक-रुक.\nLook at one little ant, marching on the leaf.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute orange baby elephant with a blue scarf and a tiny green parrot with a red cap looking at a single ant on a big green leaf."
+  },
+  {
+   "text": "चींटी आई दूसरी साथ, मिल गया उसे हाथ।\nTwo little ants are walking fast, having so much fun.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Two tiny ants following each other on a shiny green leaf in a sunny forest."
+  },
+  {
+   "text": "तीसरी चींटी भी है आई, खुशियाँ सबने मनाई।\nThree little ants are climbing up, under the morning sun.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Three ants crawling in a line on a leaf with dew drops, sunny background."
+  },
+  {
+   "text": "देखो नन्हीं चींटी एक, चल रही है रुक-रुक.\nLook at one little ant, marching on the leaf.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Close up of the orange baby elephant smiling at three ants marching in a row."
+  },
+  {
+   "text": "चार चींटियाँ चली है शान से, मस्ती और मुस्कान से।\nFour little ants marching smart, with a happy tiny heart.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Four ants walking in a zigzag pattern on a large leaf surface."
+  },
+  {
+   "text": "पाँचवीं चींटी ने किया सलाम, देखो इसका है क्या काम।\nFive little ants dancing round, moving on the forest ground.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Five ants standing in a circle on a green leaf, vibrant colors."
+  },
+  {
+   "text": "देखो नन्हीं चींटी एक, चल रही है रुक-रुक.\nLook at one little ant, marching on the leaf.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The green parrot with a red cap pointing with its wing at five ants on a leaf."
+  },
+  {
+   "text": "छह चींटियाँ करती है शोर, भाग रही है इस ओर।\nSix little ants jump so high, underneath the open sky.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Six ants arranged in a line, bright soft focus background of a garden."
+  },
+  {
+   "text": "सात चींटियाँ आई साथ, सबने थामा सबका हाथ।\nSeven little ants in a line, feeling happy and so fine.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Seven ants holding legs like a chain walking slowly on a leaf."
+  },
+  {
+   "text": "देखो नन्हीं चींटी एक, चल रही है रुक-रुक.\nLook at one little ant, marching on the leaf.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant peeking over a leaf observing seven ants with big sparkly eyes."
+  },
+  {
+   "text": "आठ चींटियाँ देखो आई, खूब मजे की घड़ी है आई।\nEight little ants crawl along, humming a little happy song.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Eight ants exploring the edge of a leaf, soft sunlight filtered through trees."
+  },
+  {
+   "text": "नौ चींटियाँ चलती है गोल, मस्ती करती है अनमोल।\nNine little ants spinning fast, making memories that will last.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Nine ants circling a small ladybug on a big leaf."
+  },
+  {
+   "text": "देखो नन्हीं चींटी एक, चल रही है रुक-रुक.\nLook at one little ant, marching on the leaf.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot cheering for the group of ants."
+  },
+  {
+   "text": "दस चींटियाँ पूरी हुई, अब ये टोली पूरी हुई।\nTen little ants standing tall, watching them have a ball.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Ten ants neatly lined up on a leaf, very cute and small."
+  },
+  {
+   "text": "मस्ती करते ये सब साथ, मिलकर सबने किया बात।\nPlaying together all the day, in a very happy way.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Ten ants waving their tiny feelers while the elephant and parrot watch happily."
+  },
+  {
+   "text": "देखो नन्हीं चींटी एक, चल रही है रुक-रुक.\nLook at one little ant, marching on the leaf.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "All ten ants waving goodbye, elephant and parrot waving back."
+  }
+ ]
+}
