@@ -1,0 +1,183 @@
+{
+ "id": "20261022-007-chintu-s-big-giggle",
+ "topic": "Blue Elephant's Big Giggle",
+ "format": "Story",
+ "title_hi": "चिंटू की हंसी",
+ "title_en": "Chintu's Big Giggle",
+ "thumb_text_hi": "हंसता हुआ हाथी",
+ "thumb_text_en": "Happy Elephant Laughs",
+ "description": "Chintu the baby elephant aur uska dost Mithu milkar bacchon ko hasna aur khush rehna sikhate hain. Is gaane se bacche choti khushiyan pehchanna seekhte hain.",
+ "tags": [
+  "kids songs",
+  "nursery rhymes",
+  "hindi rhymes",
+  "funny elephant",
+  "toddler learning",
+  "happy rhymes",
+  "kids music",
+  "preschool songs",
+  "chintu elephant",
+  "mithu parrot",
+  "bacchon ke gaane",
+  "bal geet"
+ ],
+ "learning": "Learning to identify and express joy through laughter.",
+ "scenes": [
+  {
+   "text": "चिंटू हाथी हंसा जोर से, हा हा हा\nखुशियां बिखरी चारों ओर, हा हा हा",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A small round orange baby elephant with big sparkly eyes and a blue scarf laughing joyfully in a sunny meadow."
+  },
+  {
+   "text": "Mithu the parrot flies in the sky,\nHe says hello with a happy cry.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A tiny green parrot with a yellow tummy and a red cap flying in a clear blue sky."
+  },
+  {
+   "text": "हरा तोता लाया है गाना,\nचिंटू को है खूब हंसाना।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The green parrot landing on the orange elephant's head in a grassy field."
+  },
+  {
+   "text": "Chintu tickles his nose with a leaf,\nLaughing away any kind of grief.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant using a green leaf to tickle his own trunk and giggling."
+  },
+  {
+   "text": "चिंटू हाथी हंसा जोर से, हा हा हा\nखुशियां बिखरी चारों ओर, हा हा हा",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant laughing with his eyes closed in delight, surrounded by butterflies."
+  },
+  {
+   "text": "One little giggle starts the play,\nBrightening up a cloudy day.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot and elephant jumping together on soft green grass."
+  },
+  {
+   "text": "दो दोस्त मिलकर नाचते हैं,\nमस्ती में सब कुछ बांटते हैं।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot dancing in a circle near a small wooden fence."
+  },
+  {
+   "text": "Mithu sings a tune so sweet,\nMoving his tiny yellow feet.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of the tiny green parrot tapping his yellow feet on a log."
+  },
+  {
+   "text": "चिंटू हाथी हंसा जोर से, हा हा हा\nखुशियां बिखरी चारों ओर, हा हा हा",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Both characters sitting under a big tree, laughing together under dappled sunlight."
+  },
+  {
+   "text": "Swing the trunk and flap the wings,\nListen to how the jungle sings.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant swinging his trunk and the parrot flapping his wings in rhythm."
+  },
+  {
+   "text": "फूल खिले हैं लाल और नीले,\nसब संग हंसते खेलें-मिले।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A field full of colorful red and blue flowers with the two friends sitting in the middle."
+  },
+  {
+   "text": "Every smile is a gift so bright,\nMaking the world a happy sight.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant looking at his reflection in a small pond, smiling warmly."
+  },
+  {
+   "text": "चिंटू हाथी हंसा जोर से, हा हा हा\nखुशियां बिखरी चारों ओर, हा हा हा",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A wide shot of the orange elephant hugging his friend the parrot."
+  },
+  {
+   "text": "Counting smiles is easy to do,\nOne for me and one for you.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant holding up a flower while the parrot sits on his shoulder."
+  },
+  {
+   "text": "एक हंसी और एक है मुस्कान,\nखुश रहना ही है असली शान।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The two characters looking at the sunset, both smiling peacefully."
+  },
+  {
+   "text": "Mithu chirps as the day goes by,\nUnder the vast and peaceful sky.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot chirping happily as the sun starts to set."
+  },
+  {
+   "text": "चिंटू हाथी हंसा जोर से, हा हा हा\nखुशियां बिखरी चारों ओर, हा हा हा",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant waving his trunk as the sky turns golden orange."
+  },
+  {
+   "text": "Chintu wiggles his little toes,\nThat is how the laughter grows.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of the elephant's round feet wiggling on the grass."
+  },
+  {
+   "text": "हंसते रहना अच्छी बात,\nसाथ निभाएं दिन और रात।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot walking together on a path towards a cozy burrow."
+  },
+  {
+   "text": "Tiny giggles fill the air,\nShowing friends how much we care.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot resting together under a blanket of stars."
+  },
+  {
+   "text": "चिंटू हाथी हंसा जोर से, हा हा हा\nखुशियां बिखरी चारों ओर, हा हा हा",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant sleeping peacefully while the parrot perches nearby."
+  },
+  {
+   "text": "Close your eyes and dream of play,\nSmiling all throughout the day.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant curled up in a ball, looking very comfortable and happy."
+  },
+  {
+   "text": "कल फिर हम सब खेलेंगे,\nहंसते-गाते मेल करेंगे।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot watching over his sleeping friend in the soft moonlight."
+  },
+  {
+   "text": "Goodnight whispers from the trees,\nFloating on a gentle breeze.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Soft moonlight filtering through tree branches onto the sleeping characters."
+  },
+  {
+   "text": "चिंटू हाथी हंसा जोर से, हा हा हा\nखुशियां बिखरी चारों ओर, हा हा हा",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A beautiful night scene with fireflies lighting up the area around the sleeping pair."
+  },
+  {
+   "text": "Happy hearts are always light,\nEverything will be alright.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A close up of the elephant's face showing a subtle happy smile in his sleep."
+  }
+ ]
+}
