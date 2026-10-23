@@ -1,0 +1,183 @@
+{
+ "id": "20261023-008-jump-spin-and-freeze",
+ "topic": "Jump, Spin, and Freeze!",
+ "format": "Action",
+ "title_hi": "कूदो, घूमो, रुक जाओ",
+ "title_en": "Jump, Spin, and Freeze",
+ "thumb_text_hi": "कूदो और रुको",
+ "thumb_text_en": "Jump and Freeze",
+ "description": "Chintu aur Mithu ke saath mazaak dance aur movement seekhein. Bachon ke gross motor skills aur focus badhane ke liye best song hai.",
+ "tags": [
+  "kids songs",
+  "nursery rhymes",
+  "dance for kids",
+  "Rangeela Rhymes",
+  "toddler music",
+  "action song",
+  "jump spin freeze",
+  "hindi for kids",
+  "educational songs",
+  "preschool activities",
+  "fun movement",
+  "chintu and mithu"
+ ],
+ "learning": "Listening skills and physical coordination through movement.",
+ "scenes": [
+  {
+   "text": "कूदो, घूमो, और हो जाओ फ्रीज,\nचिंगू-मिठू नाचें, देखो प्लीज!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute orange baby elephant with a blue scarf and a tiny green parrot with a yellow tummy standing on a sunny garden lawn smiling."
+  },
+  {
+   "text": "Jump up high, touch the sky,\nSpin around, give it a try!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The orange elephant jumping in the air and the green parrot spinning with wings spread wide, bright sunny sky."
+  },
+  {
+   "text": "एक हाथी और एक तोता प्यारा,\nखेलें मिलके, यह नज़ारा न्यारा!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "An orange baby elephant and a green parrot standing together on a colorful play mat indoors."
+  },
+  {
+   "text": "Chintu counts numbers one and two,\nMithu flies around the sky of blue.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant counting on his trunk and the green parrot flying in a clear blue sky."
+  },
+  {
+   "text": "कूदो, घूमो, और हो जाओ फ्रीज,\nचिंगू-मिठू नाचें, देखो प्लीज!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu freezing in funny poses in a lush green park."
+  },
+  {
+   "text": "Jump up high, touch the sky,\nSpin around, give it a try!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Chintu jumping and Mithu spinning on a grassy field filled with flowers."
+  },
+  {
+   "text": "देखो चिंटू, ज़ोर से कूदा,\nखुशी से नाचा, प्यारा सा लड़ाका!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close up of the orange elephant jumping happily over a small pebble."
+  },
+  {
+   "text": "Mithu spins like a colorful top,\nHe loves to dance and never stop.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot spinning fast on a wooden floor, motion blur effect."
+  },
+  {
+   "text": "एक, दो, तीन, अब रुक जाओ,\nपत्थर बनकर, चुपचाप सो जाओ!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu standing very still like statues in the garden."
+  },
+  {
+   "text": "Freeze like a statue, don't you sway,\nLaughing and playing all through the day.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu giggling while standing completely still on the grass."
+  },
+  {
+   "text": "कूदो, घूमो, और हो जाओ फ्रीज,\nचिंगू-मिठू नाचें, देखो प्लीज!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu holding Mithu while both freeze in a playful pose."
+  },
+  {
+   "text": "Jump up high, touch the sky,\nSpin around, give it a try!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Bright colorful background with Chintu and Mithu mid-jump."
+  },
+  {
+   "text": "चिंटू हिलाए अपनी नीली सी स्कार्फ,\nमिठू बोले, चलो खेलें खेल साफ़!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu the elephant waving his blue scarf with his trunk."
+  },
+  {
+   "text": "Let us hop like a bunny, one, two,\nJump with a friend, as we always do.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu hopping together in a circle on a playground."
+  },
+  {
+   "text": "मिठू घूमे, गोल-गोल घूमे,\nचिंटू हंसे, जब बादल चूमे!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Mithu the parrot spinning in the air while Chintu watches and laughs."
+  },
+  {
+   "text": "Spin to the left, and spin to the right,\nPlaying together is such a delight.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu dancing in a sunlit meadow."
+  },
+  {
+   "text": "कूदो, घूमो, और हो जाओ फ्रीज,\nचिंगू-मिठू नाचें, देखो प्लीज!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The duo freezing mid-action, striking a cute pose."
+  },
+  {
+   "text": "Jump up high, touch the sky,\nSpin around, give it a try!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The orange elephant jumping and the green parrot flying in formation."
+  },
+  {
+   "text": "कितने हैं साथी? एक और दो,\nमिलकर गाओ, तुम भी तो हो!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu holding up two fingers in front of a colorful wall."
+  },
+  {
+   "text": "One for the elephant, one for the bird,\nHappiest song that you ever heard.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu singing together in a friendly forest clearing."
+  },
+  {
+   "text": "रुकना है अब, हिलना मत तुम,\nशांत रहो अब, चुप-चुप गुम-गुम!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu putting a finger to his lips, keeping silent and still."
+  },
+  {
+   "text": "Freeze on the spot, as still as a tree,\nHappy and quiet, just you and me.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu sitting quietly on Chintu's head, both frozen still."
+  },
+  {
+   "text": "कूदो, घूमो, और हो जाओ फ्रीज,\nचिंगू-मिठू नाचें, देखो प्लीज!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu mid-dance, full of energy."
+  },
+  {
+   "text": "Jump up high, touch the sky,\nSpin around, give it a try!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Action shot of the two characters jumping in unison."
+  },
+  {
+   "text": "मजा आया बहुत, खेल हुआ खत्म,\nहंसते-हंसते, अब घर को चलें हम!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu waving his blue scarf goodbye, Mithu flying away."
+  },
+  {
+   "text": "Goodnight little friends, it's time for rest,\nPlaying with you is truly the best.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A sunset background with Chintu and Mithu sitting together, waving."
+  }
+ ]
+}
