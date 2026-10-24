@@ -7,7 +7,8 @@
   "The Magic Hand Wash Dance",
   "Little Ants Marching",
   "Chintu's Big Giggle",
-  "Jump, Spin, and Freeze"
+  "Jump, Spin, and Freeze",
+  "Where Do Little Chicks Sleep"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -17,21 +18,18 @@
   "The Magic Washing Hands Dance",
   "Counting Little Ants on a Leaf",
   "Blue Elephant's Big Giggle",
-  "Jump, Spin, and Freeze!"
+  "Jump, Spin, and Freeze!",
+  "Where do the Little Chicks Sleep?"
  ],
  "ideas": [
-  {
-   "topic": "Where do the Little Chicks Sleep?",
-   "format": "Lullaby"
-  },
   {
    "topic": "Traffic Light Friends",
    "format": "Safety/Learning"
   }
  ],
  "missed": 0,
- "runs": 8,
- "last_run": "2026-10-23T03:31:19+00:00",
+ "runs": 9,
+ "last_run": "2026-10-24T03:21:09+00:00",
  "voiced": [],
- "counter": 8
+ "counter": 9
 }

@@ -1,0 +1,183 @@
+{
+ "id": "20261024-009-where-do-little-chicks-sleep",
+ "topic": "Where do the Little Chicks Sleep?",
+ "format": "Lullaby",
+ "title_hi": "चूजों की प्यारी नींद",
+ "title_en": "Where Do Little Chicks Sleep",
+ "thumb_text_hi": "नन्हे चूजे सो गए",
+ "thumb_text_en": "Chicks Go Sleep",
+ "description": "Chintu aur Mithu sabhi chote chizo ko sona sikha rahe hain. Is gaane se bachhe raat ke samay ki routine aur bird sounds seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Lullaby for kids",
+  "Chintu elephant",
+  "Mithu parrot",
+  "Bedtime song",
+  "Hindi nursery rhymes",
+  "Cute animal songs",
+  "Hindi learning for kids",
+  "Toddler songs",
+  "Sleepy chicks",
+  "Night routine",
+  "Children songs"
+ ],
+ "learning": "Teaching the concept of bedtime routines and recognizing animal sounds.",
+ "scenes": [
+  {
+   "text": "चूजे सोए अपने घोंसले में, गोल मटोल प्यारे,\nLittle chicks sleep in a nest, under moon so bright.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A small round orange baby elephant with a blue scarf and a tiny green parrot with a yellow tummy looking at a soft nest in a tree at night."
+  },
+  {
+   "text": "चिंटू हाथी गाए लोरी, मीठी और प्यारी,\nChintu Elephant sings a song, soft and very light.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "An orange baby elephant with a blue scarf humming softly near a tree."
+  },
+  {
+   "text": "एक चूजा बोला चीं चीं, अपनी आँखें बंद करे,\nOne yellow chick says cheep-cheep, closing tiny eyes.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A small yellow chick sitting in a straw nest tucking its head into its wing."
+  },
+  {
+   "text": "दो चूजे बोले चीं चीं, सपना देखें प्यारे,\nTwo yellow chicks say cheep-cheep, dreaming in the skies.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Two fluffy yellow chicks cuddling together inside a cozy basket nest."
+  },
+  {
+   "text": "चूजे सोए अपने घोंसले में, गोल मटोल प्यारे,\nLittle chicks sleep in a nest, under moon so bright.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The parrot with a red cap pointing at the moon while the elephant watches the chicks."
+  },
+  {
+   "text": "चिंटू हाथी गाए लोरी, मीठी और प्यारी,\nChintu Elephant sings a song, soft and very light.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant swaying gently, creating a calm atmosphere under the stars."
+  },
+  {
+   "text": "तीन चूजे हुए चुपचाप, सो गए हैं सब,\nThree yellow chicks are silent now, sleeping all the rest.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Three tiny chicks huddled in a circle, fast asleep in their soft nest."
+  },
+  {
+   "text": "चार चूजे हैं साथ में, अपने घर में मस्त,\nFour yellow chicks are together, happy in their home.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Four chicks nestled warmly under a soft blanket in their tree house."
+  },
+  {
+   "text": "चूजे सोए अपने घोंसले में, गोल मटोल प्यारे,\nLittle chicks sleep in a nest, under moon so bright.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The scene shows the chicks sleeping while the elephant and parrot stand guard nearby."
+  },
+  {
+   "text": "चिंटू हाथी गाए लोरी, मीठी और प्यारी,\nChintu Elephant sings a song, soft and very light.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Close up of the happy elephant face with sparkly eyes singing softly."
+  },
+  {
+   "text": "पाँच चूजे हैं सयाने, माँ के पंखों में,\nFive smart chicks are sleeping, under mother's wing.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Five small chicks tucked under the soft feathers of a mother hen."
+  },
+  {
+   "text": "छह चूजे अब सो गए, क्या सुनोगे भिन-भिन?\nSix chicks are fast asleep, no more sound to sing.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The six chicks are all quiet, stars twinkling above the nest."
+  },
+  {
+   "text": "चूजे सोए अपने घोंसले में, गोल मटोल प्यारे,\nLittle chicks sleep in a nest, under moon so bright.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Wide shot of the forest tree with the nest glowing softly under moonlight."
+  },
+  {
+   "text": "चिंटू हाथी गाए लोरी, मीठी और प्यारी,\nChintu Elephant sings a song, soft and very light.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant waving goodbye gently to the sleeping birds."
+  },
+  {
+   "text": "सात चूजे सपने में, घास का मैदान,\nSeven chicks in their dreams, running in the field.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Seven cartoon chicks playing in a dream-like grassy meadow."
+  },
+  {
+   "text": "आठ चूजे शांत हैं, सो रहे हैं सब जान,\nEight chicks are quiet now, sleeping is the deal.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Eight chicks standing in a line nodding off to sleep."
+  },
+  {
+   "text": "चूजे सोए अपने घोंसले में, गोल मटोल प्यारे,\nLittle chicks sleep in a nest, under moon so bright.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot tip-toeing away from the nest."
+  },
+  {
+   "text": "चिंटू हाथी गाए लोरी, मीठी और प्यारी,\nChintu Elephant sings a song, soft and very light.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Soft blue light covering the entire tree environment."
+  },
+  {
+   "text": "नौ चूजे अब साथ हैं, नरम बिस्तर में,\nNine chicks are together, in a soft comfy bed.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Nine chicks curled up in a pile of soft feathers."
+  },
+  {
+   "text": "दस चूजे हैं सो गए, सो गए हैं सब,\nTen chicks have gone to sleep, sleeping all the rest.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Ten chicks in a cozy row, peaceful and calm."
+  },
+  {
+   "text": "चूजे सोए अपने घोंसले में, गोल मटोल प्यारे,\nLittle chicks sleep in a nest, under moon so bright.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The moon smiling down at the quiet tree."
+  },
+  {
+   "text": "चिंटू हाथी गाए लोरी, मीठी और प्यारी,\nChintu Elephant sings a song, soft and very light.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The green parrot sleeping on the elephant's shoulder."
+  },
+  {
+   "text": "आसमान में तारे चमके, चूजे सो गए,\nStars shine in the sky, chicks are now asleep.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Night sky filled with bright twinkling stars above the forest."
+  },
+  {
+   "text": "मीठू पंख फैलाए, अब सब सो गए,\nParrot spreads wings, everyone is asleep.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The green parrot perched on a branch closing its eyes."
+  },
+  {
+   "text": "चूजे सोए अपने घोंसले में, गोल मटोल प्यारे,\nLittle chicks sleep in a nest, under moon so bright.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A peaceful final shot of the nest in the moonlight."
+  },
+  {
+   "text": "चिंटू हाथी गाए लोरी, मीठी और प्यारी,\nChintu Elephant sings a song, soft and very light.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant sleeping peacefully at the base of the tree."
+  }
+ ]
+}
