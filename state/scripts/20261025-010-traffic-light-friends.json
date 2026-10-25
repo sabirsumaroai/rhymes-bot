@@ -1,0 +1,207 @@
+{
+ "id": "20261025-010-traffic-light-friends",
+ "topic": "Traffic Light Friends",
+ "format": "Safety/Learning",
+ "title_hi": "ट्रैफिक लाइट के दोस्त",
+ "title_en": "Traffic Light Friends",
+ "thumb_text_hi": "रुको, चलो, तैयार",
+ "thumb_text_en": "Stop, Go, Ready",
+ "description": "Chintu haathi aur Mithu tota sikha rahe hain traffic ke niyam. Bacche colors aur safety ki baatein seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Songs",
+  "Hindi Nursery Rhymes",
+  "Traffic Rules for Kids",
+  "Safety Song",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Learn Colors",
+  "Toddler Learning",
+  "Bachon ke Gane",
+  "Road Safety",
+  "Educational Kids Video"
+ ],
+ "learning": "Understanding the basic meaning of Red, Yellow, and Green traffic lights.",
+ "scenes": [
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "An orange baby elephant with a blue scarf and a green parrot with a red cap standing near a bright colorful traffic signal."
+  },
+  {
+   "text": "Red light says stop right there,\nYellow says wait with care.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant holding his trunk up to signal a stop at a crosswalk."
+  },
+  {
+   "text": "Green light says go go go,\nSafe and slow in a row.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The small parrot flying happily above a clean city road with green lights glowing."
+  },
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot standing together under a glowing red traffic light."
+  },
+  {
+   "text": "रंग देखो तुम ध्यान से,\nसड़क पार करो मुस्कान से।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant looking up at the traffic light while holding the parrot's wing."
+  },
+  {
+   "text": "पीली बत्ती है तैयार,\nरुको यहाँ बार-बार।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot pointing at a yellow light with his tiny wing on a sunny day."
+  },
+  {
+   "text": "Look at colors bright and tall,\nSafety first for one and all.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A cute 3D cartoon street scene with flowers and the two friends smiling."
+  },
+  {
+   "text": "Walking on the painted lines,\nFollowing all the traffic signs.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant walking across a white zebra crossing on the road."
+  },
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot high-fiving at a street corner."
+  },
+  {
+   "text": "दाएं देखो बाएं देखो,\nआगे पीछे भी तुम देखो।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant looking both ways before stepping onto the road."
+  },
+  {
+   "text": "Look right and look left too,\nSafety is good for me and you.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The little green parrot looking left and right with big curious eyes."
+  },
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A wide shot of the traffic signal changing colors above the two friends."
+  },
+  {
+   "text": "पीली बत्ती पर मत जाओ,\nअपनी बारी का इंतज़ार करो।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant sitting down patiently while the yellow light shines above."
+  },
+  {
+   "text": "Yellow light means wait for now,\nWe will be safe, here and how.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot landing on the elephant's head to wait for the light to change."
+  },
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The friends dancing happily on the sidewalk near the traffic post."
+  },
+  {
+   "text": "हरे रंग पर सब चलते हैं,\nहँसते गाते आगे बढ़ते हैं।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot marching forward when the green light turns on."
+  },
+  {
+   "text": "Walking fast when green is on,\nSinging a happy safety song.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot walking across the road together in the sunshine."
+  },
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The two friends cheering together under a bright green traffic signal."
+  },
+  {
+   "text": "सड़क है अपनी दोस्त पुरानी,\nसीख लो ये प्यारी कहानी।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot sitting on a grassy patch beside the road."
+  },
+  {
+   "text": "Always keep your eyes ahead,\nListen to what the lights have said.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot whispering in the elephant's ear near the traffic pole."
+  },
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot waving at the traffic light in the distance."
+  },
+  {
+   "text": "बड़ों का कहना तुम मानो,\nट्रैफिक के नियम सब जानो।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant showing a picture of a traffic light to the parrot."
+  },
+  {
+   "text": "Smart kids learn to be so wise,\nWatching signals with their eyes.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot blinking his big eyes at the traffic light."
+  },
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The friends playing tag near the safety of the sidewalk."
+  },
+  {
+   "text": "कभी न भागो सड़क पर दौड़,\nनियमों को तुम लो अब मोड़।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant holding the parrot's wing to keep him close to the sidewalk."
+  },
+  {
+   "text": "Walking slow is best for fun,\nSafety shines just like the sun.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A beautiful sunny day scene in a 3D park next to the road."
+  },
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot standing proudly by the traffic light."
+  },
+  {
+   "text": "लाल, पीला और हरा रंग,\nसीखें हम अब इनके संग।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The three colors of the traffic light glowing in the air as icons."
+  },
+  {
+   "text": "Red and yellow and green so bright,\nWe will be safe, everything is right.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot smiling at the camera."
+  },
+  {
+   "text": "लाल बत्ती कहती रुको भाई,\nहरी बत्ती बोले चलो मेरे भाई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A final shot of the friends waving goodbye to the viewers."
+  }
+ ]
+}
