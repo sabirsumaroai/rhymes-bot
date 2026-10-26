@@ -1,0 +1,105 @@
+{
+ "id": "20261026-011-the-toothbrush-train",
+ "topic": "The Toothbrush Train",
+ "format": "Habit/Action",
+ "title_hi": "दांतों की रेलगाड़ी",
+ "title_en": "The Toothbrush Train",
+ "thumb_text_hi": "दांत चमकाओ",
+ "thumb_text_en": "Brush Your Teeth",
+ "description": "Chintu hathi aur Mithu tota sikhayenge brush karna. Bacche khushi-khushi apne daant saaf karna seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Songs Hindi",
+  "Toothbrush Song",
+  "Toddler Habits",
+  "Chintu and Mithu",
+  "Brush Your Teeth",
+  "Healthy Habits",
+  "Hindi Rhymes",
+  "Kids Learning",
+  "Animation for Kids",
+  "Brush Routine",
+  "Baal Geet"
+ ],
+ "learning": "Teaches toddlers the habit of brushing teeth twice a day.",
+ "scenes": [
+  {
+   "text": "दांतों की रेल चली, मजे से ब्रश करो,\nचलो, चलो, चलो, तुम ब्रश करो!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute orange baby elephant with a blue scarf and a tiny green parrot wearing a red cap sitting on a giant colorful toothbrush moving on a bathroom floor."
+  },
+  {
+   "text": "Up and down, left and right,\nBrush your teeth, keep them bright.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of the little green parrot holding a toothbrush and showing the elephant how to brush his big white teeth."
+  },
+  {
+   "text": "चिट्टे दांत चमकते प्यारे,\nमम्मी-पापा खुश हैं सारे।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange elephant laughing and showing his sparkling clean white teeth in a mirror."
+  },
+  {
+   "text": "दांतों की रेल चली, मजे से ब्रश करो,\nचलो, चलो, चलो, तुम ब्रश करो!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and the parrot riding the toothbrush train forward with sparkles behind them."
+  },
+  {
+   "text": "One, two, three, four, count them well,\nBrush away the sugar smell.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The little parrot pointing at the elephant's teeth while counting them with his wing."
+  },
+  {
+   "text": "अंदर-बाहर, नीचे-ऊपर,\nसाफ करो अब अपना मुँह भर।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot demonstrating a circular brushing motion on the elephant's tooth."
+  },
+  {
+   "text": "दांतों की रेल चली, मजे से ब्रश करो,\nचलो, चलो, चलो, तुम ब्रश करो!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The toothbrush train traveling across a bright bathroom sink with bubbles floating around."
+  },
+  {
+   "text": "Morning time, start the day,\nBrush the sleepy germs away.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The sun shining through a bathroom window, the elephant yawning and holding his toothbrush."
+  },
+  {
+   "text": "रात को सोने से पहले भाई,\nब्रश करना कभी न भूलना आई।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and the parrot ready for bed with toothbrushes in their hands."
+  },
+  {
+   "text": "दांतों की रेल चली, मजे से ब्रश करो,\nचलो, चलो, चलो, तुम ब्रश करो!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The two friends doing a happy dance on the bathroom floor after brushing."
+  },
+  {
+   "text": "Tiny brush and minty paste,\nDo not let a minute waste.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot squeezing a tiny amount of blue toothpaste onto the toothbrush."
+  },
+  {
+   "text": "साफ-सुथरे चमकें दांत,\nखुशियाँ लाए दिन और रात।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A wide shot showing the elephant looking very happy and shiny in the mirror."
+  },
+  {
+   "text": "दांतों की रेल चली, मजे से ब्रश करो,\nचलो, चलो, चलो, तुम ब्रश करो!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot high-fiving each other in the sparkling clean bathroom."
+  }
+ ]
+}
