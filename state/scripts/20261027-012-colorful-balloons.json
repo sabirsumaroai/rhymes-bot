@@ -1,0 +1,195 @@
+{
+ "id": "20261027-012-colorful-balloons",
+ "topic": "Counting Colorful Balloons",
+ "format": "Counting/Colors",
+ "title_hi": "रंगीन गुब्बारे",
+ "title_en": "Colorful Balloons",
+ "thumb_text_hi": "गुब्बारे गिनें",
+ "thumb_text_en": "Count Balloons",
+ "description": "Chintu aur Mithu ke saath milkar pyaare rang-birange gubbare gino. Yeh gaana bachchon ko 1 se 5 tak ginti aur rangon ki pehchan sikhata hai.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Songs",
+  "Hindi Nursery Rhymes",
+  "Counting Song",
+  "Learning Colors",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Preschool Learning",
+  "Toddler Songs",
+  "Gubbare",
+  "Counting for kids",
+  "Educational Video"
+ ],
+ "learning": "Counting from 1 to 5 and identifying primary colors.",
+ "scenes": [
+  {
+   "text": "एक, दो, तीन, चार, पांच,\nरंग-बिरंगे गुब्बारे नाच!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange baby elephant with a blue scarf and a tiny green parrot with a yellow tummy and red cap dancing joyfully surrounded by floating colorful balloons in a grassy park."
+  },
+  {
+   "text": "One, two, three, four, five,\nBalloons dance so much alive!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A wide shot of a sunny park with five bright balloons floating in the air against a clear blue sky."
+  },
+  {
+   "text": "Chintu dekhe ek laal gubbaara,\nKitna pyara, kitna pyaara.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A small round orange baby elephant reaching out his trunk towards a single shiny red balloon."
+  },
+  {
+   "text": "Mithu flies to catch the red,\nHappy smile on his little head.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A tiny green parrot with a red cap flapping its wings near a round red balloon."
+  },
+  {
+   "text": "Ek, do, teen, chaar, paanch,\nRang-birange gubbare naach!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot jumping together with five different colored balloons bouncing above them."
+  },
+  {
+   "text": "One, two, three, four, five,\nBalloons dance so much alive!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Close up of the elephant and parrot laughing while holding strings of colorful balloons."
+  },
+  {
+   "text": "Mithu laaya peela gubbaara,\nSunehra aur chamkeela saara.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The green parrot holding a bright yellow balloon with its beak, flying low over the grass."
+  },
+  {
+   "text": "Two balloons are floating high,\nUp into the bright blue sky.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Two balloons, one red and one yellow, drifting upward against a soft sunny sky."
+  },
+  {
+   "text": "Chintu ke haath mein neela, neela,\nKitna sundar, kitna rangeela.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange baby elephant holding a bright blue balloon with his trunk, looking happy."
+  },
+  {
+   "text": "Three balloons are bobbing near,\nSpreading joy and happy cheer.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Red, yellow, and blue balloons tied together, floating gently in the air."
+  },
+  {
+   "text": "Ek, do, teen, chaar, paanch,\nRang-birange gubbare naach!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu running through a field with three balloons following them."
+  },
+  {
+   "text": "One, two, three, four, five,\nBalloons dance so much alive!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A colorful scene with many balloons of different shapes and sizes dancing in the breeze."
+  },
+  {
+   "text": "Chaar hain hare, pyaare-pyaare,\nSabhi dost hain saare-saare.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Four green balloons appearing one by one in the air, glowing with sunlight."
+  },
+  {
+   "text": "Four balloons are floating free,\nDancing near the garden tree.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Four balloons drifting near a large friendly oak tree in a park."
+  },
+  {
+   "text": "Paanchwa hain gulabi rang ka,\nSabse pyaara, mere sang ka.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A bright pink balloon floating gently, with the orange elephant reaching out to pat it."
+  },
+  {
+   "text": "Five balloons are in the air,\nFloating high without a care.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Five balloons of red, yellow, blue, green, and pink floating together in a bunch."
+  },
+  {
+   "text": "Ek, do, teen, chaar, paanch,\nRang-birange gubbare naach!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot looking up at five balloons with big sparkly eyes."
+  },
+  {
+   "text": "One, two, three, four, five,\nBalloons dance so much alive!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot dancing in a circle, surrounded by five beautiful balloons."
+  },
+  {
+   "text": "Laal, peela, neela, hara,\nPaanchon milkar sabka sahara.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A row of five colored balloons floating in a clear line above the grass."
+  },
+  {
+   "text": "Count them slowly, one by one,\nHaving lots of playing fun.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu pointing his trunk at the balloons, counting them with his friend Mithu."
+  },
+  {
+   "text": "Chintu gaaye, Mithu naache,\nKhushi se hum sab raache.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu singing with his trunk up and Mithu chirping and dancing on the ground."
+  },
+  {
+   "text": "Friends are playing, holding strings,\nJoy that counting truly brings.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu holding five strings connected to the balloons, standing beside Mithu."
+  },
+  {
+   "text": "Ek, do, teen, chaar, paanch,\nRang-birange gubbare naach!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The two characters spinning around in the park with their balloons."
+  },
+  {
+   "text": "One, two, three, four, five,\nBalloons dance so much alive!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The camera zooming out to show the park, the elephant, the bird, and the balloons."
+  },
+  {
+   "text": "Gubbaare udey, aakash mein jaayen,\nHum sab milkar haath hilayen.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The balloons drifting higher into the sky as Chintu and Mithu wave goodbye to them."
+  },
+  {
+   "text": "Bye bye balloons, up so high,\nFloating to the sunny sky.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The balloons becoming small dots in the sky, with the two friends waving below."
+  },
+  {
+   "text": "Ek, do, teen, chaar, paanch,\nRang-birange gubbare naach!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A final bright wide shot of the park landscape, feeling warm and cheerful."
+  },
+  {
+   "text": "One, two, three, four, five,\nBalloons dance so much alive!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu sitting together on the grass, resting after their dance."
+  }
+ ]
+}
