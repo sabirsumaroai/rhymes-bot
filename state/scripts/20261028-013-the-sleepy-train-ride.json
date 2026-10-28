@@ -1,0 +1,183 @@
+{
+ "id": "20261028-013-the-sleepy-train-ride",
+ "topic": "The Sleepy Train Ride",
+ "format": "Lullaby",
+ "title_hi": "नींद की प्यारी रेलगाड़ी",
+ "title_en": "The Sleepy Train Ride",
+ "thumb_text_hi": "चिन्नू-मीठू की रेल",
+ "thumb_text_en": "Sleepy Train Ride",
+ "description": "Chintu aur Mithu ke saath ek sundar train ki yatra par niklo. Bachon ko isme numbers aur sone ki achi aadat sikhayi gayi hai.",
+ "tags": [
+  "nursery rhymes",
+  "hindi rhymes",
+  "rangeela rhymes",
+  "sleepy train",
+  "lullaby for kids",
+  "chintu elephant",
+  "mithu parrot",
+  "bedtime songs",
+  "counting for toddlers",
+  "kids learning",
+  "cute cartoon",
+  "sweet lullaby"
+ ],
+ "learning": "Counting from one to five while getting ready for sleep.",
+ "scenes": [
+  {
+   "text": "ट्रेन चली अब छुक-छुक-छुक\nसोने का है प्यारा सुख",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange baby elephant with a blue scarf and a tiny green parrot with a red cap sitting inside a colorful toy train."
+  },
+  {
+   "text": "Chintu sits inside the train,\nWatching raindrops on the pane.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Round orange baby elephant wearing a blue scarf looking through a train window."
+  },
+  {
+   "text": "Mithu chirps a lullaby,\nUnderneath the starry sky.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A tiny green parrot with a yellow tummy and a red cap singing on a train seat."
+  },
+  {
+   "text": "ट्रेन चली अब छुक-छुक-छुक\nसोने का है प्यारा सुख",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Cute orange baby elephant and green parrot together on a wooden train bench."
+  },
+  {
+   "text": "Ek train ka dibba pyara,\nLe chale humein sitaron sahara.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A single wooden train carriage glowing with soft fairy lights."
+  },
+  {
+   "text": "Do naye sapne dekho bhai,\nNeend ki rani hai ghar aayi.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Orange baby elephant dreaming with closed eyes in a cozy train bed."
+  },
+  {
+   "text": "ट्रेन चली अब छुक-छुक-छुक\nसोने का है प्यारा सुख",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The train moving slowly through a forest of soft glowing mushrooms."
+  },
+  {
+   "text": "Three soft pillows for a rest,\nClosing eyes is always best.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Three fluffy pillows stacked inside the train compartment."
+  },
+  {
+   "text": "Four little stars shine so bright,\nGuiding us through velvet night.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Four bright yellow stars sparkling outside the train window."
+  },
+  {
+   "text": "ट्रेन चली अब छुक-छुक-छुक\nसोने का है प्यारा सुख",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Orange elephant and green parrot cuddling in the train carriage."
+  },
+  {
+   "text": "Paanch ginti gin kar soja,\nSapno ki duniya mein kho ja.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot showing the number five using its wing tip."
+  },
+  {
+   "text": "Train slows down with gentle sound,\nPeace and quiet all around.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The train wheels slowly coming to a halt on a soft cloud platform."
+  },
+  {
+   "text": "ट्रेन चली अब छुक-छुक-छुक\nसोने का है प्यारा सुख",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The toy train parked inside a soft dreamy night bedroom."
+  },
+  {
+   "text": "Chintu gives a sleepy yawn,\nWaiting for the golden dawn.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant covering its mouth while yawning."
+  },
+  {
+   "text": "Mithu tucks his head in wing,\nEnding now their song we sing.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot sleeping with its head tucked under its wing."
+  },
+  {
+   "text": "ट्रेन चली अब छुक-छुक-छुक\nसोने का है प्यारा सुख",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A peaceful close up of the elephant and parrot sleeping together."
+  },
+  {
+   "text": "Neend pari ab aayi hai,\nKhushiyan sath woh layi hai.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A dreamy fairy dust trail sparkling over the train roof."
+  },
+  {
+   "text": "Counting sheep and counting stars,\nPeaceful dreams are truly ours.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Little stars floating around the train carriage."
+  },
+  {
+   "text": "ट्रेन चली अब छुक-छुक-छुक\nसोने का है प्यारा सुख",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The train fading slightly into a dreamy mist."
+  },
+  {
+   "text": "Sone ka samay ho gaya,\nSuraj bhi ab so gaya.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A round sun sleeping behind a mountain icon."
+  },
+  {
+   "text": "Close your eyes my little friend,\nThis is where our travels end.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A close up of the elephant's sparkly eyes closing."
+  },
+  {
+   "text": "ट्रेन चली अब छुक-छुक-छुक\nसोने का है प्यारा सुख",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot in a deep sleep."
+  },
+  {
+   "text": "Chupke se ab so jao,\nMeethe sapne tum pao.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A soft crescent moon hanging above the train."
+  },
+  {
+   "text": "Rest your head and drift away,\nWait for tomorrow's happy day.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A cozy blanket pulled over the elephant's shoulder."
+  },
+  {
+   "text": "ट्रेन चली अब छुक-छुक-छुक\nसोने का है प्यारा सुख",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The train silhouette against a dark purple starry sky."
+  },
+  {
+   "text": "Deep in sleep in carriage blue,\nDreaming of the sky so new.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The train resting in a peaceful garden of moonflowers."
+  }
+ ]
+}
