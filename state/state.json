@@ -12,7 +12,8 @@
   "Traffic Light Friends",
   "The Toothbrush Train",
   "Colorful Balloons",
-  "The Sleepy Train Ride"
+  "The Sleepy Train Ride",
+  "Minnie Monkey's Fruit Picnic"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -27,13 +28,10 @@
   "Traffic Light Friends",
   "The Toothbrush Train",
   "Counting Colorful Balloons",
-  "The Sleepy Train Ride"
+  "The Sleepy Train Ride",
+  "Minnie the Monkey's Fruit Picnic"
  ],
  "ideas": [
-  {
-   "topic": "Minnie the Monkey's Fruit Picnic",
-   "format": "Animal/Story"
-  },
   {
    "topic": "Robot Dance Moves",
    "format": "Action/Physical"
@@ -48,8 +46,8 @@
   }
  ],
  "missed": 0,
- "runs": 13,
- "last_run": "2026-10-28T03:34:25+00:00",
+ "runs": 14,
+ "last_run": "2026-10-29T03:35:37+00:00",
  "voiced": [],
- "counter": 13
+ "counter": 14
 }

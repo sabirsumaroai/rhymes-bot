@@ -1,0 +1,195 @@
+{
+ "id": "20261029-014-minnie-monkey-s-fruit-picnic",
+ "topic": "Minnie the Monkey's Fruit Picnic",
+ "format": "Animal/Story",
+ "title_hi": "मिन्नी बंदर की फलों वाली पिकनिक",
+ "title_en": "Minnie Monkey's Fruit Picnic",
+ "thumb_text_hi": "फलों की पिकनिक",
+ "thumb_text_en": "Yummy Fruit Party",
+ "description": "Iss song mein bache fruits ke naam aur unke colours ke baare mein seekhenge. Chintu aur Mithu ke saath milkar Minnie ki picnic enjoy karein!",
+ "tags": [
+  "nursery rhymes",
+  "kids songs",
+  "hindi rhymes",
+  "fruit picnic",
+  "learn fruits",
+  "chintu elephant",
+  "mithu parrot",
+  "preschool learning",
+  "fun for kids",
+  "rangeela rhymes",
+  "color learning",
+  "kids cartoon"
+ ],
+ "learning": "Identify five different fruits and their colors through a fun, musical picnic.",
+ "scenes": [
+  {
+   "text": "लाल सेब और पीला आम, \nफलों की पिकनिक है कितना आराम!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute orange baby elephant with a blue scarf and a tiny green parrot with a red cap dancing in a sunny park."
+  },
+  {
+   "text": "Red apple and yellow mango, \nReady to eat, let us go!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A cheerful monkey sitting on a grassy patch surrounded by a basket of colorful fruits."
+  },
+  {
+   "text": "मिन्नी बंदर जंगल आई, \nअपने साथ टोकरी लाई।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A cute brown monkey skipping happily through a lush green forest path."
+  },
+  {
+   "text": "Minnie has a big basket, \nFilled with fruit, oh what a casket!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of a woven basket filled with shiny colorful fruits in the sunlight."
+  },
+  {
+   "text": "लाल सेब और पीला आम, \nफलों की पिकनिक है कितना आराम!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu the orange elephant juggling a red apple and yellow mango playfully."
+  },
+  {
+   "text": "Red apple and yellow mango, \nReady to eat, let us go!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Mithu the green parrot flying over the picnic blanket with a happy expression."
+  },
+  {
+   "text": "हरा अंगूर है खट्टा-मीठा, \nचिडिया ने खाया एक निवाला मीठा।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A bunch of juicy green grapes sitting on a checkered picnic cloth."
+  },
+  {
+   "text": "Green grapes are yummy and sweet, \nSuch a healthy and tasty treat!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the parrot picking a single green grape with its beak."
+  },
+  {
+   "text": "नीला जामुन, काला अंगूर, \nपिकनिक का मज़ा है हमसे दूर?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A small pile of dark blue jamuns and grapes on a large leaf plate."
+  },
+  {
+   "text": "Purple jamun, black grape too, \nEating fruit is good for you!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The monkey sharing fruits with the elephant and the parrot."
+  },
+  {
+   "text": "लाल सेब और पीला आम, \nफलों की पिकनिक है कितना आराम!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "All three characters sitting in a circle laughing and eating fruit."
+  },
+  {
+   "text": "Red apple and yellow mango, \nReady to eat, let us go!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A bright picnic scene with a tree providing shade over the friends."
+  },
+  {
+   "text": "नारंगी संतरा छिलका उतारो, \nसब दोस्तों में इसे बाँट डालो।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "An orange being peeled revealing bright segments."
+  },
+  {
+   "text": "Peel the orange, piece by piece, \nFun for all, let's have a feast!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant using its trunk to carefully hand an orange slice to the monkey."
+  },
+  {
+   "text": "केला पीला, लंबा-लंबा, \nसबके चेहरे पर बड़ी मुस्कान सा।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A bunch of ripe yellow bananas on the grass."
+  },
+  {
+   "text": "Yellow banana, long and sweet, \nThe best snack that you can eat!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Minnie the monkey holding a banana and looking very excited."
+  },
+  {
+   "text": "लाल सेब और पीला आम, \nफलों की पिकनिक है कितना आराम!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The characters doing a small dance together on the grass."
+  },
+  {
+   "text": "Red apple and yellow mango, \nReady to eat, let us go!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The parrot flapping wings while the elephant sways to the music."
+  },
+  {
+   "text": "तरबूज बड़ा और अंदर लाल, \nपिकनिक का है बड़ा कमाल।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A large sliced watermelon showing the bright red center."
+  },
+  {
+   "text": "Watermelon slice, juicy and red, \nBest fruit picnic, so it is said!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "All friends eating juicy watermelon slices happily."
+  },
+  {
+   "text": "हाथ धोकर फल खाना तुम, \nतंदुरुस्त बन जाओगे हर दम।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The monkey washing its hands in a clear forest stream."
+  },
+  {
+   "text": "Wash your hands before you eat, \nHealthy snacks are such a treat!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot watching the monkey wash hands."
+  },
+  {
+   "text": "लाल सेब और पीला आम, \nफलों की पिकनिक है कितना आराम!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The group lying down on the grass relaxing after their meal."
+  },
+  {
+   "text": "Red apple and yellow mango, \nReady to eat, let us go!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A wide angle shot of the sunny forest clearing where they picnicked."
+  },
+  {
+   "text": "सूरज ढला, घर को जाना, \nसबने गाया प्यारा तराना।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The sun starting to set behind the forest trees, painting the sky orange."
+  },
+  {
+   "text": "Sun goes down, it is time to go, \nWe loved the fruit, we love it so!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The three friends waving goodbye to the viewer."
+  },
+  {
+   "text": "लाल सेब और पीला आम, \nफलों की पिकनिक है कितना आराम!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Final group hug scene with the forest background."
+  },
+  {
+   "text": "Red apple and yellow mango, \nReady to eat, let us go!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Text-free final shot of the friends walking away into the sunset."
+  }
+ ]
+}
