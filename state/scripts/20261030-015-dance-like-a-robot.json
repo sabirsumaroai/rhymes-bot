@@ -1,0 +1,219 @@
+{
+ "id": "20261030-015-dance-like-a-robot",
+ "topic": "Robot Dance Moves",
+ "format": "Action/Physical",
+ "title_hi": "रोबोट जैसा नाचो",
+ "title_en": "Dance Like A Robot",
+ "thumb_text_hi": "रोबोट डांस सीखो",
+ "thumb_text_en": "Learn Robot Dance",
+ "description": "Chintu aur Mithu ke saath robot ban kar naacho! Yeh dance bacchon ko rhythm aur physical coordination sikhata hai.",
+ "tags": [
+  "nursery rhymes",
+  "kids dance",
+  "robot song",
+  "Chintu elephant",
+  "Mithu parrot",
+  "toddler songs",
+  "kids movement",
+  "hindi rhymes",
+  "preschool dance",
+  "kids exercise",
+  "fun learning",
+  "rangeela rhymes"
+ ],
+ "learning": "Coordinating body movements and following simple rhythm patterns.",
+ "scenes": [
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange baby elephant with a blue scarf and a tiny green parrot with a red cap standing in a shiny colorful playroom, waving robotic stiff arms."
+  },
+  {
+   "text": "Move your arms, straight and stiff,\nLike a robot, give it a lift.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A close up of the orange elephant lifting his arms stiffly like a robot in a garden."
+  },
+  {
+   "text": "घूमो-फिरो, पैर उठाओ,\nएक, दो, तीन, चार गाओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The green parrot with a yellow belly marching in place, counting with his wings."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot dancing together in a bright playroom with toy blocks in the background."
+  },
+  {
+   "text": "Step to the side, count one, two,\nRobot dance is fun to do.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant stepping sideways carefully on a checkered floor."
+  },
+  {
+   "text": "घुटने मोड़ो, फिर सीधे हो,\nजैसे रोबोट, तुम भी कहो।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot showing the elephant how to bend and straighten his knees."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Both characters doing a stiff robot pose in a vibrant room."
+  },
+  {
+   "text": "Blink your eyes, like a light,\nRobot blink, left and right.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A close up of the elephant's big sparkly eyes blinking one by one."
+  },
+  {
+   "text": "सिर हिलाओ, गर्दन घुमाओ,\nरोबोट की तरह तुम मुस्कुराओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot moving his head side to side in a robotic rhythm."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot spinning slowly in circles with stiff movements."
+  },
+  {
+   "text": "Count to five, now freeze in place,\nWith a happy robot face.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant holding a frozen, funny robot pose with a big smile."
+  },
+  {
+   "text": "रुको-रुको, अब हिलना नहीं,\nरोबोट बनो, चंचल कहीं।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot standing perfectly still on one leg like a statue."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The two characters jumping back into a fun robot dance rhythm."
+  },
+  {
+   "text": "Tap your toes, tap, tap, tap,\nHear the sound, clap, clap, clap.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant tapping his toes on the floor while the parrot claps his wings."
+  },
+  {
+   "text": "ताल बजाओ, सुर में गाओ,\nमस्ती में तुम झूमते जाओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The two friends moving in a line, clapping their hands to the beat."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot in a wide view dancing in a sunny room."
+  },
+  {
+   "text": "Stretch up high, reach the sky,\nRobot wave, bye, bye, bye.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant stretching his trunk up high like a robotic crane arm."
+  },
+  {
+   "text": "नीचे झुको, ऊपर आओ,\nरोबोट जैसे सबको बताओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot bobbing up and down like a mechanical toy."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Both characters doing the robot arm wave in sync."
+  },
+  {
+   "text": "Twist your body, move it slow,\nWatch the robot, watch it go.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant twisting his waist in a slow, robotic mechanical way."
+  },
+  {
+   "text": "धीरे-धीरे, दाएं-बाएं,\nरोबोट देखो, मजे मनाएं।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot sliding smoothly from side to side on the floor."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A happy dance party scene with the elephant and parrot laughing."
+  },
+  {
+   "text": "Spin around, just one more time,\nMatching with the robot rhyme.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant spinning around with his arms held out straight."
+  },
+  {
+   "text": "गोला बनाओ, फिर से आओ,\nनया डांस तुम करके दिखाओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot showing a new dance move to the camera."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The two friends doing their best robot dance move together."
+  },
+  {
+   "text": "Robot dance, so much fun,\nFor everyone, under the sun.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot posing together under a bright yellow sun drawing on the wall."
+  },
+  {
+   "text": "खेलो-कूदो, खुश हो जाओ,\nरोबोट की तरह तुम लहराओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot waving goodbye to the camera."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A final shot of the elephant and parrot waving in their signature robot style."
+  },
+  {
+   "text": "Dance is done, take a bow,\nRobot friends, goodbye now.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot bowing to the audience politely."
+  },
+  {
+   "text": "अब हम रुके, बस हो गया,\nरोबोट डांस, बड़ा प्यारा हुआ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The two characters standing still, smiling at each other."
+  },
+  {
+   "text": "चिट-चैट, रोबोट की चाल,\nहाथ हिलाओ, मचाओ धमाल।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot in a final group hug with big smiles."
+  },
+  {
+   "text": "Bye bye, see you soon,\nSinging with the robot tune.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot flying slightly above the elephant, both waving goodbye."
+  }
+ ]
+}
