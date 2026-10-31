@@ -1,0 +1,183 @@
+{
+ "id": "20261031-016-chintu-s-sock-search",
+ "topic": "Where is My Missing Sock?",
+ "format": "Story/Problem Solving",
+ "title_hi": "चिंटू की मोजा खोज",
+ "title_en": "Chintu's Sock Search",
+ "thumb_text_hi": "मोजा कहाँ गया?",
+ "thumb_text_en": "Where is Sock?",
+ "description": "Chintu aur Mithu milkar apna khoya hua moxa dhoond rahe hain. Bachche is gaane se cheezon ko sahi jagah rakhne ki aadat seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Hindi Rhymes",
+  "Kids Song",
+  "Toddler Learning",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Socks",
+  "Organizing",
+  "Hindi Nursery Rhyme",
+  "Cartoon for Kids",
+  "Fun Song",
+  "Preschool"
+ ],
+ "learning": "Teaches kids the importance of keeping their belongings organized and the concept of searching in pairs.",
+ "scenes": [
+  {
+   "text": "एक मोजा खोया, कहाँ गया भाई?\nचिंटू और मिठू ने ढूँढने की तैयारी करी।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A small round orange baby elephant with a blue scarf and a tiny green parrot with a red cap looking under a colorful bed."
+  },
+  {
+   "text": "My blue sock is missing today,\nHelp us find it, shout hooray!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The orange elephant looking inside a toy basket while the green parrot points with its wing."
+  },
+  {
+   "text": "बिस्तर के नीचे देखा है क्या?\nकोई मोजा वहाँ नहीं दिखा।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant peeking under a fluffy white rug near a wooden bed frame."
+  },
+  {
+   "text": "Behind the chair, let us peek,\nPlaying a fun game of hide and seek.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot flying behind a small yellow wooden chair in a bright bedroom."
+  },
+  {
+   "text": "एक मोजा खोया, कहाँ गया भाई?\nचिंटू और मिठू ने ढूँढने की तैयारी करी।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot standing in the center of a playroom looking confused."
+  },
+  {
+   "text": "My blue sock is missing today,\nHelp us find it, shout hooray!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The characters holding hands and walking towards a colorful wardrobe."
+  },
+  {
+   "text": "मेज के ऊपर रखा है लाल खिलौना,\nपर मोजा वहाँ भी नहीं है होना।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A bright red toy car on a desk, the elephant looking at it closely."
+  },
+  {
+   "text": "Check the basket, count one, two,\nIs it hiding inside with the glue?",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot pointing at a basket full of craft supplies on the floor."
+  },
+  {
+   "text": "एक मोजा खोया, कहाँ गया भाई?\nचिंटू और मिठू ने ढूँढने की तैयारी करी।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant sneezing gently while looking into a basket."
+  },
+  {
+   "text": "My blue sock is missing today,\nHelp us find it, shout hooray!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The two friends looking inside a drawer filled with colorful clothes."
+  },
+  {
+   "text": "पर्दे के पीछे क्या छुपा है यार?\nशायद मिल जाए हमें इस बार।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant moving a blue curtain aside with his trunk."
+  },
+  {
+   "text": "Look on the shelf, way up high,\nBeneath the hat, see it lie?",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot flying up to a shelf where a hat sits."
+  },
+  {
+   "text": "एक मोजा खोया, कहाँ गया भाई?\nचिंटू और मिठू ने ढूँढने की तैयारी करी।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot standing near a window looking hopeful."
+  },
+  {
+   "text": "My blue sock is missing today,\nHelp us find it, shout hooray!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The elephant smiling and pointing towards a pile of soft pillows."
+  },
+  {
+   "text": "अरे देखो! सोफे के नीचे है पड़ा,\nखुशी से नाचा चिंटू, बड़ा ही खड़ा।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The blue sock peeking out from under a green sofa, the elephant dancing joyfully."
+  },
+  {
+   "text": "Found it at last, safe and sound,\nMy blue sock is finally found!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot holding the blue sock in its beak with a happy expression."
+  },
+  {
+   "text": "एक मोजा खोया, कहाँ गया भाई?\nचिंटू और मिठू ने ढूँढने की तैयारी करी।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant putting the blue sock on his foot and laughing."
+  },
+  {
+   "text": "My blue sock is missing today,\nHelp us find it, shout hooray!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The parrot sitting on the elephant's head, both looking happy."
+  },
+  {
+   "text": "अब दोनों मोजे साथ रहेंगे,\nअच्छे बच्चे बनकर हम रहेंगे।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A pair of blue socks placed neatly side-by-side on a rug."
+  },
+  {
+   "text": "Keep your things in their special place,\nWith a big smile on your face.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot waving at the viewer from a tidy room."
+  },
+  {
+   "text": "एक मोजा खोया, कहाँ गया भाई?\nचिंटू और मिठू ने ढूँढने की तैयारी करी।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The two friends walking out of the room together."
+  },
+  {
+   "text": "My blue sock is missing today,\nHelp us find it, shout hooray!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The camera zooming out showing the tidy bedroom with toys organized."
+  },
+  {
+   "text": "मोजे की जोड़ी अब पूरी हुई,\nचिंटू की मस्ती अब शुरू हुई।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant jumping playfully on a soft mat."
+  },
+  {
+   "text": "Two little socks, now side by side,\nNo more place for them to hide.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot singing while perched on the elephant's scarf."
+  },
+  {
+   "text": "एक मोजा खोया, कहाँ गया भाई?\nचिंटू और मिठू ने ढूँढने की तैयारी करी।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The friends high-fiving each other with trunk and wing."
+  },
+  {
+   "text": "My blue sock is missing today,\nHelp us find it, shout hooray!",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The two friends standing in the doorway waving goodbye."
+  }
+ ]
+}
