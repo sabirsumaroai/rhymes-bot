@@ -15,7 +15,8 @@
   "The Sleepy Train Ride",
   "Minnie Monkey's Fruit Picnic",
   "Dance Like A Robot",
-  "Chintu's Sock Search"
+  "Chintu's Sock Search",
+  "Under The Sea Shapes"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -33,17 +34,13 @@
   "The Sleepy Train Ride",
   "Minnie the Monkey's Fruit Picnic",
   "Robot Dance Moves",
-  "Where is My Missing Sock?"
+  "Where is My Missing Sock?",
+  "Under the Sea Shapes"
  ],
- "ideas": [
-  {
-   "topic": "Under the Sea Shapes",
-   "format": "Education/Colors"
-  }
- ],
+ "ideas": [],
  "missed": 0,
- "runs": 16,
- "last_run": "2026-10-31T03:34:51+00:00",
+ "runs": 17,
+ "last_run": "2026-11-01T03:36:06+00:00",
  "voiced": [],
- "counter": 16
+ "counter": 17
 }

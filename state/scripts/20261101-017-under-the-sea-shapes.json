@@ -1,0 +1,195 @@
+{
+ "id": "20261101-017-under-the-sea-shapes",
+ "topic": "Under the Sea Shapes",
+ "format": "Education/Colors",
+ "title_hi": "समुद्र के आकार",
+ "title_en": "Under The Sea Shapes",
+ "thumb_text_hi": "समुद्र में आकृतियाँ",
+ "thumb_text_en": "Sea Shape Fun",
+ "description": "Chintu aur Mithu ke saath samundar ki gehraiyon mein shapes seekhein. Bacche pyaare samudri jeevon ke saath circle, square aur triangle pehchanna seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "nursery rhymes",
+  "kids songs",
+  "hindi rhymes",
+  "learn shapes",
+  "under the sea",
+  "educational for kids",
+  "preschool learning",
+  "chintu elephant",
+  "mithu parrot",
+  "toddler songs",
+  "hindi kids video"
+ ],
+ "learning": "Teaching toddlers basic shapes (circle, square, triangle) through underwater marine life themes.",
+ "scenes": [
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute orange baby elephant with a blue scarf and a tiny green parrot with a red cap swimming underwater in a bright blue ocean."
+  },
+  {
+   "text": "चिट्टू हाथी देखो आया,\nChintu Elephant loves to play.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A small round orange baby elephant swimming underwater with a happy expression."
+  },
+  {
+   "text": "मिथु तोता साथ है लाया,\nMithu Parrot leads the way.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A tiny green parrot with a yellow tummy and red cap flying/swimming through bubbles."
+  },
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu high-fiving underwater near a sparkling coral reef."
+  },
+  {
+   "text": "देखो जेलीफिश गोल है प्यारी,\nSee the jelly, round and bright.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A cute round pink jellyfish glowing softly in the dark blue ocean."
+  },
+  {
+   "text": "लाल रंग में न्यारी न्यारी,\nRed color shines in the light.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The red jellyfish wiggling happily near some seaweed."
+  },
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu the elephant pointing at the round jellyfish with his trunk."
+  },
+  {
+   "text": "एक बक्सा है वर्गाकार,\nSquare box, a secret treasure.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A small square wooden chest resting on the sandy ocean floor."
+  },
+  {
+   "text": "खजाना भरा है अपार,\nSquare treasure is a pleasure.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The treasure chest opening to reveal shiny gold-colored bubbles."
+  },
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Mithu the parrot perched on the corner of the square chest."
+  },
+  {
+   "text": "त्रिकोण जैसी मछली देखो,\nTriangle fish swims so fast.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A cute bright yellow triangular shaped fish darting through the water."
+  },
+  {
+   "text": "पीले पंख, मजे में देखो,\nThree corners, made to last.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Two triangular fish swimming together in a line."
+  },
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu waving goodbye to the school of triangular fish."
+  },
+  {
+   "text": "सीप का आकार भी गोल,\nShell is round like a ball.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A perfect round white seashell sitting on a rock."
+  },
+  {
+   "text": "सबके हैं अपने मोल,\nRound shapes are for us all.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Many different round colorful shells scattered on the ocean sand."
+  },
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A wide shot of the ocean floor with Chintu and Mithu smiling at the camera."
+  },
+  {
+   "text": "चौकोर पत्थर रेत में,\nSquare rock in the sand.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A flat square-shaped rock resting near a starfish."
+  },
+  {
+   "text": "छिप गए सब खेल में,\nWe hold hands across the land.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu playing near the square rock."
+  },
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Close up of Chintu's big sparkly eyes reflecting the ocean light."
+  },
+  {
+   "text": "त्रिकोण काँटे स्टारफिश के,\nStarfish has points so neat.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A cute orange starfish showing off its triangular-shaped arms."
+  },
+  {
+   "text": "गिनो चलो, ये हैं एक के,\nCount the points for a treat.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Mithu counting the arms of the starfish with his beak."
+  },
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The starfish doing a little dance for Chintu and Mithu."
+  },
+  {
+   "text": "आकार सारे हमने जाने,\nShapes we learned, one by one.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu holding a circle, a square, and a triangle shaped bubble."
+  },
+  {
+   "text": "समुद्र के हैं ये ठिकाने,\nUnder sea fun has begun.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu swimming upwards towards the surface."
+  },
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Sunlight rays coming down through the water surface."
+  },
+  {
+   "text": "बाय बाय मछली रानी,\nBye bye little fish friends.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "School of colorful fish waving their fins."
+  },
+  {
+   "text": "खत्म हुई ये कहानी,\nStory time now ends.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu swimming away into the distance."
+  },
+  {
+   "text": "गोल गोल है नीला सागर,\nRound and round the blue sea shore.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Final wide shot of the blue ocean with the sun setting on the surface."
+  }
+ ]
+}
