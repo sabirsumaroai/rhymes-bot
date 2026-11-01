@@ -37,7 +37,36 @@
   "Where is My Missing Sock?",
   "Under the Sea Shapes"
  ],
- "ideas": [],
+ "ideas": [
+  {
+   "topic": "Counting Garden Vegetables",
+   "format": "Counting song"
+  },
+  {
+   "topic": "Jungle Yoga Safari",
+   "format": "Action and movement"
+  },
+  {
+   "topic": "The Helpful Little Cloud",
+   "format": "Storytelling"
+  },
+  {
+   "topic": "Bedtime Blanket Fort",
+   "format": "Lullaby/Calm"
+  },
+  {
+   "topic": "Sorting School Bag Items",
+   "format": "Habits/Routine"
+  },
+  {
+   "topic": "Mr. Sun's Color Mixing",
+   "format": "Colors"
+  },
+  {
+   "topic": "The Busy Bee's Breakfast",
+   "format": "Animals/Nature"
+  }
+ ],
  "missed": 0,
  "runs": 17,
  "last_run": "2026-11-01T03:36:06+00:00",
