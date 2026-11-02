@@ -1,0 +1,183 @@
+{
+ "id": "20261102-018-the-sweet-vegetable-garden",
+ "topic": "Counting Garden Vegetables",
+ "format": "Counting song",
+ "title_hi": "सब्जी वाला प्यारा बगीचा",
+ "title_en": "The Sweet Vegetable Garden",
+ "thumb_text_hi": "गिनो और मजे करो",
+ "thumb_text_en": "Count and Play",
+ "description": "Chintu aur Mithu ke saath milkar aao sabziyan ginna seekhein. Yeh pyara gaana bacchon ko counting aur healthy sabziyon se milwata hai.",
+ "tags": [
+  "nursery rhymes",
+  "kids songs",
+  "counting vegetables",
+  "Hindi rhymes for kids",
+  "Chintu the elephant",
+  "Mithu the parrot",
+  "early learning",
+  "preschool songs",
+  "Rangeela Rhymes",
+  "kids counting",
+  "fun learning",
+  "veggies for kids"
+ ],
+ "learning": "Counting numbers 1-5 through garden vegetables.",
+ "scenes": [
+  {
+   "text": "एक, दो, तीन, गिनें हम साथ,\nचिंटू और मिठू, खुश हैं आज।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute small orange elephant with a blue scarf and a tiny green parrot with a red cap standing in a sunny vegetable garden, bright colors, 3D animation style."
+  },
+  {
+   "text": "One, two, three, let us count,\nVegetables growing all around.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A wide shot of a colorful vegetable patch with sunlight filtering through leaves."
+  },
+  {
+   "text": "लाल टमाटर है एक गोल,\nमिट्टी में इसका प्यारा मोल।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "One shiny red tomato sitting in dark brown soil in a garden bed."
+  },
+  {
+   "text": "One red tomato, round and bright,\nSitting in the morning light.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of the single red tomato with a tiny dew drop on it."
+  },
+  {
+   "text": "देखो दो गाजर नारंगी,\nमिट्टी में छुपी है ये संगी।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Two bright orange carrots poking out of the soft garden soil."
+  },
+  {
+   "text": "Two orange carrots, sweet and crunch,\nPerfect for a healthy lunch.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant holding two carrots with his trunk smiling."
+  },
+  {
+   "text": "एक, दो, तीन, गिनें हम साथ,\nचिंटू और मिठू, खुश हैं आज।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot dancing together near a wooden fence."
+  },
+  {
+   "text": "One, two, three, let us count,\nVegetables growing all around.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The parrot flapping its wings happily above the vegetable patch."
+  },
+  {
+   "text": "तीन मटर के दाने हरे,\nफली के अंदर चुपके से डरे।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A green pea pod with three little green peas visible inside."
+  },
+  {
+   "text": "Three green peas inside a pod,\nGrowing where the soft seeds nod.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of a pea pod hanging from a small leafy vine."
+  },
+  {
+   "text": "चार मूली सफेद और लंबी,\nहोती ये बहुत ही खूबी।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Four clean white radishes laid out neatly on a green leaf."
+  },
+  {
+   "text": "Four white radishes, long and lean,\nGrowing in the garden green.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot pointing its wing at the four radishes."
+  },
+  {
+   "text": "एक, दो, तीन, गिनें हम साथ,\nचिंटू और मिठू, खुश हैं आज।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu the elephant and Mithu the parrot cheering with their hands and wings up."
+  },
+  {
+   "text": "One, two, three, let us count,\nVegetables growing all around.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A sunny garden scene with all the mentioned vegetables displayed together."
+  },
+  {
+   "text": "पाँच बैंगन हैं चमकीले,\nबैंगनी रंग के सबसे निराले।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Five glossy purple eggplants growing on a bushy plant."
+  },
+  {
+   "text": "Five purple eggplants, shiny and round,\nLying on the garden ground.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant gently touching one eggplant with his trunk tip."
+  },
+  {
+   "text": "गिनती पूरी हो गई अब,\nगाएं सब मिलकर रप-रप-रप।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot sitting together on the grass."
+  },
+  {
+   "text": "Counting five is so much fun,\nPlaying here under the sun.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The two characters laughing together with vegetables spread around them."
+  },
+  {
+   "text": "एक, दो, तीन, गिनें हम साथ,\nचिंटू और मिठू, खुश हैं आज।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant waving his trunk and the green parrot waving a wing."
+  },
+  {
+   "text": "One, two, three, let us count,\nVegetables growing all around.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A wide angle view of the happy garden under a bright blue sky."
+  },
+  {
+   "text": "खाओ ताजी सब्जी भाई,\nसेहत की ये है मिठाई।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A basket filled with colorful vegetables, carrots, tomatoes and peas."
+  },
+  {
+   "text": "Eat your veggies, keep them near,\nGrowth and strength will soon appear.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot sharing a healthy snack under a tree."
+  },
+  {
+   "text": "चिंटू को ये बहुत पसंद है,\nमिठू को भी ये रास है।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close up of the orange elephant smiling wide."
+  },
+  {
+   "text": "Chintu likes them, Mithu too,\nHealthy veggies are good for you.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of the green parrot chirping happily."
+  },
+  {
+   "text": "एक, दो, तीन, गिनें हम साथ,\nचिंटू और मिठू, खुश हैं आज।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The two friends doing a happy dance move in the garden."
+  },
+  {
+   "text": "One, two, three, let us count,\nVegetables growing all around.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The final scene with the sun setting, showing the beautiful garden landscape."
+  }
+ ]
+}

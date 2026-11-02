@@ -16,7 +16,8 @@
   "Minnie Monkey's Fruit Picnic",
   "Dance Like A Robot",
   "Chintu's Sock Search",
-  "Under The Sea Shapes"
+  "Under The Sea Shapes",
+  "The Sweet Vegetable Garden"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -35,13 +36,10 @@
   "Minnie the Monkey's Fruit Picnic",
   "Robot Dance Moves",
   "Where is My Missing Sock?",
-  "Under the Sea Shapes"
+  "Under the Sea Shapes",
+  "Counting Garden Vegetables"
  ],
  "ideas": [
-  {
-   "topic": "Counting Garden Vegetables",
-   "format": "Counting song"
-  },
   {
    "topic": "Jungle Yoga Safari",
    "format": "Action and movement"
@@ -68,8 +66,8 @@
   }
  ],
  "missed": 0,
- "runs": 17,
- "last_run": "2026-11-01T03:36:06+00:00",
+ "runs": 18,
+ "last_run": "2026-11-02T03:38:40+00:00",
  "voiced": [],
- "counter": 17
+ "counter": 18
 }
