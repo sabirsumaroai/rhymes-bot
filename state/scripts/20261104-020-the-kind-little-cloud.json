@@ -1,0 +1,207 @@
+{
+ "id": "20261104-020-the-kind-little-cloud",
+ "topic": "The Helpful Little Cloud",
+ "format": "Storytelling",
+ "title_hi": "प्यारा सा बादल",
+ "title_en": "The Kind Little Cloud",
+ "thumb_text_hi": "प्यारा बादल",
+ "thumb_text_en": "Kind Cloud",
+ "description": "Chintu haathi aur Mithu tota milke ek pyare badal ki madad karte hain. Bacche is gane se baarish aur prakriti ke bare mein seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Hindi Rhymes",
+  "Kids Songs",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Nature Song",
+  "Rain Song",
+  "Educational",
+  "Toddler Songs",
+  "Nature Learning",
+  "Hindi Kids Video",
+  "Cute Animation"
+ ],
+ "learning": "Learning about nature, rain, and helping others.",
+ "scenes": [
+  {
+   "text": "प्यारा छोटा बादल आया,\nखुशियाँ चारों ओर फैलाया।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute small fluffy white cloud smiling in a bright blue sky, 3D cartoon style."
+  },
+  {
+   "text": "Kind little cloud in the sky,\nFloating, floating way up high.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A wide angle shot of a clear sunny sky with a happy cloud waving its wispy edges."
+  },
+  {
+   "text": "चंटू हाथी ने देखा ऊपर,\nबादल भैया दिखे बड़े सुंदर।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A cute round orange baby elephant with a blue scarf looking up at the sky with big sparkly eyes."
+  },
+  {
+   "text": "Mithu the parrot flew with glee,\nHigh up near the green tree.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A tiny green parrot with a yellow tummy and a red cap flying towards a tree branch."
+  },
+  {
+   "text": "प्यारा छोटा बादल आया,\nखुशियाँ चारों ओर फैलाया।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot together looking at the white smiling cloud above."
+  },
+  {
+   "text": "Kind little cloud in the sky,\nFloating, floating way up high.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A panoramic view of a meadow where the sun shines bright on a puffy little cloud."
+  },
+  {
+   "text": "धूप है तेज़, गर्मी है आई,\nबादल ने ठंडी छाया है फैलाई।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The little cloud moving over the elephant to provide a soft patch of shade on the grass."
+  },
+  {
+   "text": "Flowers drink the water drop,\nDancing till they have to stop.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Colorful bright flowers in a field opening their petals as soft raindrops fall on them."
+  },
+  {
+   "text": "प्यारा छोटा बादल आया,\nखुशियाँ चारों ओर फैलाया।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Raindrops falling gently on a green grassy patch with flowers blooming."
+  },
+  {
+   "text": "Kind little cloud in the sky,\nFloating, floating way up high.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The orange elephant playing in the soft rain puddles happily."
+  },
+  {
+   "text": "एक बूंद, दो बूंद, तीन बूंद गिरी,\nसूखी धरती अब है हरी भरी।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Three water droplets falling from the cloud, depicted as shiny 3D spheres."
+  },
+  {
+   "text": "Counting rain drops one by one,\nHelping plants have so much fun.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot counting the drops with his wing pointing at the falling rain."
+  },
+  {
+   "text": "प्यारा छोटा बादल आया,\nखुशियाँ चारों ओर फैलाया।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant holding a large leaf over his head like an umbrella in the rain."
+  },
+  {
+   "text": "Kind little cloud in the sky,\nFloating, floating way up high.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A bright rainbow beginning to form behind the little white cloud."
+  },
+  {
+   "text": "मन्नू और मिट्ठू अब मुस्काए,\nबादल को मिलकर धन्यवाद सुनाए।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot waving their hands up at the sky happily."
+  },
+  {
+   "text": "Bye bye cloud, see you soon,\nUnder the bright afternoon moon.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The cloud drifting slowly into the distance against a soft sunset sky."
+  },
+  {
+   "text": "प्यारा छोटा बादल आया,\nखुशियाँ चारों ओर फैलाया।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A peaceful landscape with a sparkling stream and lush green trees."
+  },
+  {
+   "text": "Kind little cloud in the sky,\nFloating, floating way up high.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The sun setting behind a hill with the little cloud turning a soft pink color."
+  },
+  {
+   "text": "चारों तरफ है हरियाली,\nबादल से आई खुशहाली।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A field full of blooming flowers and vibrant green grass in the rain's aftermath."
+  },
+  {
+   "text": "Green leaves grow so very tall,\nThanking rain for one and all.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A close up of a leaf with a sparkling dew drop resting on it."
+  },
+  {
+   "text": "प्यारा छोटा बादल आया,\nखुशियाँ चारों ओर फैलाया।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The parrot sitting on the elephant's head as they walk through the garden."
+  },
+  {
+   "text": "Kind little cloud in the sky,\nFloating, floating way up high.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot looking back at the sky where the cloud has left a rainbow."
+  },
+  {
+   "text": "मिट्ठू ने गाया गाना मीठा,\nचंटू ने भी हाथ हिलाकर सीखा।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot singing with his beak open, the elephant dancing gently."
+  },
+  {
+   "text": "Friendship grows like flowers sweet,\nWalking on their tiny feet.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Footprints of the elephant and the tiny bird prints next to each other on a path."
+  },
+  {
+   "text": "प्यारा छोटा बादल आया,\nखुशियाँ चारों ओर फैलाया।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A wide shot showing the entire forest thriving with life thanks to the rain."
+  },
+  {
+   "text": "Kind little cloud in the sky,\nFloating, floating way up high.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The sun smiling down on the forest, happy and bright."
+  },
+  {
+   "text": "बादल भैया तुम हो प्यारे,\nहम हैं तुम्हारे दोस्त सारे।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot sitting together on a grassy hill, looking content."
+  },
+  {
+   "text": "Helpful cloud, you did it best,\nNow it is time for you to rest.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The cloud turning soft and sleepy, closing its eyes in the sky."
+  },
+  {
+   "text": "प्यारा छोटा बादल आया,\nखुशियाँ चारों ओर फैलाया।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The final scene of the day, a peaceful sky with a soft glow."
+  },
+  {
+   "text": "Kind little cloud in the sky,\nFloating, floating way up high.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A starry evening sky with the faint outline of the cloud fading away."
+  }
+ ]
+}

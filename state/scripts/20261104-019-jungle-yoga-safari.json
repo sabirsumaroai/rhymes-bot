@@ -1,0 +1,183 @@
+{
+ "id": "20261104-019-jungle-yoga-safari",
+ "topic": "Jungle Yoga Safari",
+ "format": "Action and movement",
+ "title_hi": "जंगल योग सफारी",
+ "title_en": "Jungle Yoga Safari",
+ "thumb_text_hi": "योगा करें साथ",
+ "thumb_text_en": "Do Jungle Yoga",
+ "description": "Chintu hathi aur Mithu tota ke saath yoga seekhein. Yeh bachon ko exercise aur focus karna sikhata hai.",
+ "tags": [
+  "Jungle Yoga",
+  "Kids Yoga",
+  "Rangeela Rhymes",
+  "Toddler Songs",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Hindi Rhymes",
+  "Kids Exercise",
+  "Fun Yoga",
+  "Preschool Learning",
+  "Animal Yoga",
+  "Yoga Safari"
+ ],
+ "learning": "Yoga postures and deep breathing for toddlers.",
+ "scenes": [
+  {
+   "text": "हाथी और तोता करें योग,\nखुश रहें सब लोग।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange baby elephant with a blue scarf and a tiny green parrot with a yellow tummy doing yoga in a sunny green jungle."
+  },
+  {
+   "text": "Stretch your arms up to the sky,\nLike a bird so very high.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant and green parrot reaching their arms and wings up towards the bright blue jungle sky."
+  },
+  {
+   "text": "धीरे धीरे नीचे आएं,\nपैर छुएं और मुस्कुराएं।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot bending down to touch their toes in a lush green meadow."
+  },
+  {
+   "text": "हाथी और तोता करें योग,\nखुश रहें सब लोग।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot standing in a yoga pose smiling at each other in the jungle."
+  },
+  {
+   "text": "Sit down cross-legged on the floor,\nPeace is what we are looking for.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot sitting cross-legged on soft jungle grass meditating peacefully."
+  },
+  {
+   "text": "सांस लो लंबी और गहरी,\nखुशबू है फूलों की सुनहरी।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A close up of the cute elephant taking a deep breath near colorful jungle flowers."
+  },
+  {
+   "text": "हाथी और तोता करें योग,\nखुश रहें सब लोग।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The parrot perching on the elephant's head as they both do a calm yoga pose."
+  },
+  {
+   "text": "Stand on one leg like a tree,\nStrong and happy as can be.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The orange elephant balancing on one leg while the green parrot balances on a nearby branch."
+  },
+  {
+   "text": "पंख फैलाओ जैसे तोता,\nसबका मन है बड़ा होता।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The parrot flapping its wings joyfully while the elephant mimics the pose with its ears."
+  },
+  {
+   "text": "हाथी और तोता करें योग,\nखुश रहें सब लोग।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot laughing while doing yoga poses in the sunlight."
+  },
+  {
+   "text": "Twist your waist from side to side,\nWith your friends open and wide.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot twisting their bodies playfully in a forest clearing."
+  },
+  {
+   "text": "हिलो डुलों और खुश हो जाओ,\nयोग का मज़ा सब पाओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant wiggling its blue scarf while the parrot dances in circles."
+  },
+  {
+   "text": "हाथी और तोता करें योग,\nखुश रहें सब लोग।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot high-fiving (or wing-trunk touching) after their yoga session."
+  },
+  {
+   "text": "Make a circle with your hand,\nBest friends across the land.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant making a circle with its trunk and the parrot making a heart shape with wings."
+  },
+  {
+   "text": "आंखें बंद करो अब प्यारे,\nचमके जैसे नभ के तारे।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot sitting with eyes closed peacefully as fireflies glow around them."
+  },
+  {
+   "text": "हाथी और तोता करें योग,\nखुश रहें सब लोग।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot resting together under a large jungle tree."
+  },
+  {
+   "text": "Breathe in slow, breathe out fast,\nYoga fun is built to last.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot showing breathing techniques with cute icons above their heads."
+  },
+  {
+   "text": "हाथ जोड़कर बोलो नमस्ते,\nहम तो चलते हंसते-हंसते।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant with hands joined in a Namaste and the parrot bowing its head."
+  },
+  {
+   "text": "हाथी और तोता करें योग,\nखुश रहें सब लोग।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot waving goodbye to the camera in the beautiful green jungle."
+  },
+  {
+   "text": "Move your body, shake it free,\nJust like a happy bumblebee.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant wiggling its round tummy while the parrot zips around like a bee."
+  },
+  {
+   "text": "एक-दो-तीन, योग है शान,\nबढ़ती है इससे अपनी जान।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant counting with its trunk fingers while the parrot watches."
+  },
+  {
+   "text": "हाथी और तोता करें योग,\nखुश रहें सब लोग।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot doing a group yoga pose together on a soft grassy patch."
+  },
+  {
+   "text": "Reach for stars, touch the ground,\nYoga joy is all around.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant looking up at the sky and then down at the ground with a smile."
+  },
+  {
+   "text": "प्यारे साथी, प्यारे यार,\nयोग से बढ़ता अपना प्यार।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot hugging in the jungle sun."
+  },
+  {
+   "text": "हाथी और तोता करें योग,\nखुश रहें सब लोग।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot standing tall and proud in their yoga pose."
+  },
+  {
+   "text": "Stretch and bend, wiggle and play,\nHave a super yoga day!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot playing in the jungle with yoga balls."
+  }
+ ]
+}

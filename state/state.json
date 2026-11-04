@@ -17,7 +17,9 @@
   "Dance Like A Robot",
   "Chintu's Sock Search",
   "Under The Sea Shapes",
-  "The Sweet Vegetable Garden"
+  "The Sweet Vegetable Garden",
+  "Jungle Yoga Safari",
+  "The Kind Little Cloud"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -37,17 +39,11 @@
   "Robot Dance Moves",
   "Where is My Missing Sock?",
   "Under the Sea Shapes",
-  "Counting Garden Vegetables"
+  "Counting Garden Vegetables",
+  "Jungle Yoga Safari",
+  "The Helpful Little Cloud"
  ],
  "ideas": [
-  {
-   "topic": "Jungle Yoga Safari",
-   "format": "Action and movement"
-  },
-  {
-   "topic": "The Helpful Little Cloud",
-   "format": "Storytelling"
-  },
   {
    "topic": "Bedtime Blanket Fort",
    "format": "Lullaby/Calm"
@@ -65,9 +61,9 @@
    "format": "Animals/Nature"
   }
  ],
- "missed": 1,
- "runs": 19,
- "last_run": "2026-11-03T03:19:23+00:00",
+ "missed": 0,
+ "runs": 20,
+ "last_run": "2026-11-04T04:07:38+00:00",
  "voiced": [],
- "counter": 18
+ "counter": 20
 }
