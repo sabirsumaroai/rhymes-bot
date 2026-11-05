@@ -1,0 +1,123 @@
+{
+ "id": "20261105-021-cozy-blanket-fort",
+ "topic": "Bedtime Blanket Fort",
+ "format": "Lullaby/Calm",
+ "title_hi": "चादर का प्यारा घर",
+ "title_en": "Cozy Blanket Fort",
+ "thumb_text_hi": "चादर का घर",
+ "thumb_text_en": "Blanket Fort Fun",
+ "description": "Chintu aur Mithu saath milkar ek pyara sa blanket fort banate hain. Is gaane se bachhe shapes aur naram-mulayam textures ke baare mein seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "nursery rhymes",
+  "bedtime song",
+  "blanket fort",
+  "kids lullaby",
+  "Hindi rhymes for kids",
+  "Chintu elephant",
+  "Mithu parrot",
+  "soft sleep",
+  "toddler learning",
+  "sweet dreams",
+  "Hindi kids song"
+ ],
+ "learning": "Shapes and textures through play.",
+ "scenes": [
+  {
+   "text": "चिट्टू का घर है प्यारा, नन्हा सा बिस्तर हमारा।\nChintu's fort is soft and wide, come and sleep inside.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange baby elephant with a blue scarf and a tiny green parrot with a yellow tummy and red cap sitting inside a cozy blanket fort made of pillows."
+  },
+  {
+   "text": "नीली चादर ऊपर तानी, मखमली है इसकी निशानी।\nBlue blanket acts like a roof, soft and cozy is the proof.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A blue soft blanket draped over chairs creating a dark, comfy indoor tent."
+  },
+  {
+   "text": "चकोर तकिया एक यहाँ, दूसरा तकिया है वहाँ।\nSquare pillow sits on the floor, count them one and then one more.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Two fluffy square cushions placed neatly on a soft rug."
+  },
+  {
+   "text": "चिट्टू का घर है प्यारा, नन्हा सा बिस्तर हमारा।\nChintu's fort is soft and wide, come and sleep inside.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The orange elephant and green parrot cuddling inside the tent with glowing fairy lights."
+  },
+  {
+   "text": "गोल बटन से सजायेंगे, मिलकर घर हम बनायेंगे।\nRound buttons shine like a light, making everything look bright.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Mithu the parrot placing shiny round buttons on the blanket wall."
+  },
+  {
+   "text": "Triangle tent is tall and grand, best fort in all the land.\nत्रिकोण जैसा कोना बना, नींद का ये है एक पना।",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A triangular shaped top of the blanket fort showing the geometric structure."
+  },
+  {
+   "text": "चिट्टू का घर है प्यारा, नन्हा सा बिस्तर हमारा।\nChintu's fort is soft and wide, come and sleep inside.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot resting peacefully inside the triangle fort."
+  },
+  {
+   "text": "धीमी रोशनी जगमगाती, मीठी लोरी हमें सुनाती।\nSoft lights glow above the head, time to go to sleepy bed.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Warm golden fairy lights twinkling inside the blanket tent."
+  },
+  {
+   "text": "मृदु मखमल का स्पर्श, प्यारा सा है ये हर्ष।\nSoft velvet touch on the skin, let the dreamland fun begin.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of the elephant touching the soft texture of the blanket."
+  },
+  {
+   "text": "चिट्टू का घर है प्यारा, नन्हा सा बिस्तर हमारा।\nChintu's fort is soft and wide, come and sleep inside.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Wide shot of the blanket fort in a dimly lit nursery room."
+  },
+  {
+   "text": "आँखें मूंदें चकोर, शांति छाई चारों ओर।\nClose your eyes and drift away, ending such a happy day.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The baby elephant closing his eyes with a happy expression."
+  },
+  {
+   "text": "सपनो में हम सैर करेंगे, प्यार से सब कुछ भरेंगे।\nDreams will take us far and wide, side by side, we hide.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot tucked under a small corner of the blanket."
+  },
+  {
+   "text": "चिट्टू का घर है प्यारा, नन्हा सा बिस्तर हमारा।\nChintu's fort is soft and wide, come and sleep inside.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A peaceful scene of both friends sleeping soundly in their fort."
+  },
+  {
+   "text": "कल फिर खेल खेलेंगे, झूम के हम गा लेंगे।\nTomorrow we will play again, singing rhymes with all our friends.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A silhouette of the fort with moonlight coming through the window."
+  },
+  {
+   "text": "सो जाओ अब मेरे यार, मीठे सपनो का है प्यार।\nSleep now friends so small and sweet, rest your head and tired feet.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A soft focus shot of the blanket tent with stars painted on the ceiling above."
+  },
+  {
+   "text": "चिट्टू का घर है प्यारा, नन्हा सा बिस्तर हमारा।\nChintu's fort is soft and wide, come and sleep inside.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The final shot of the cozy fort with gentle night shadows."
+  }
+ ]
+}
