@@ -1,0 +1,219 @@
+{
+ "id": "20261106-022-school-bag-sorting-game",
+ "topic": "Sorting School Bag Items",
+ "format": "Habits/Routine",
+ "title_hi": "स्कूल बैग का खेल",
+ "title_en": "School Bag Sorting Game",
+ "thumb_text_hi": "बैग सजाओ, मजे करो",
+ "thumb_text_en": "Sort My Schoolbag",
+ "description": "Chintu aur Mithu ke saath apna school bag sahi se pack karna sikhein. Yeh bacchon mein zimmedari aur cheezein sahi jagah rakhne ki aadat daalta hai.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Hindi Rhymes",
+  "Kids Learning",
+  "School Bag Habits",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Sorting Items",
+  "Toddler Education",
+  "Daily Routine",
+  "Preschool Songs",
+  "Hindi Kids Video",
+  "Learning Games"
+ ],
+ "learning": "Learning to organize school supplies and counting items while packing a bag.",
+ "scenes": [
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute orange round baby elephant with a blue scarf and a tiny green parrot with a yellow belly and red cap standing near a bright backpack."
+  },
+  {
+   "text": "लाल किताब सबसे पहले अंदर, \nबैग दिखे कितना है सुंदर।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "An orange baby elephant putting a red book inside a colorful open school bag."
+  },
+  {
+   "text": "One blue pencil, two yellow pens, \nKeeping organized with all my friends.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The tiny green parrot placing two yellow pens and one blue pencil into the bag pockets."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Orange baby elephant and green parrot high-fiving in front of a school bag."
+  },
+  {
+   "text": "हरी बोतल एक, पानी की बूंद, \nप्यासी धूप में राहत ढूँढ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant holding a green water bottle, getting ready to put it in the side pocket."
+  },
+  {
+   "text": "Three soft erasers, white and small, \nWe are ready to learn it all.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot balancing three small white erasers on its wing near the bag."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Wide shot of the elephant and parrot happy together with their organized school gear."
+  },
+  {
+   "text": "चार पेंसिल की नोक है प्यारी, \nलिखने की अब आई बारी।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close up of four sharp pencils being arranged neatly inside a pencil case."
+  },
+  {
+   "text": "Five shiny crayons, bright and bold, \nStories and colors yet to be told.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Five colorful crayons arranged in a row on a wooden table beside the backpack."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant zipping up the bag with a big happy smile while the parrot watches."
+  },
+  {
+   "text": "बैग हुआ तैयार एकदम साफ, \nसीख गए हम, नहीं कोई ताप।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A clean, fully packed backpack sitting ready on a sunny classroom chair."
+  },
+  {
+   "text": "Six notebooks stacked up so high, \nUnder the blue and sunny sky.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A stack of six notebooks sitting near the backpack on a bright, happy day."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot waving goodbye with their school bags on their backs."
+  },
+  {
+   "text": "चिट्ठू ने बैग पीठ पर डाला, \nदोस्त चले अब, नहीं है साला।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange baby elephant walking happily with a small backpack on his back."
+  },
+  {
+   "text": "Seven items inside the bag, \nNo more mess, no more lag.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The green parrot counting seven items spread out before packing them in."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot dancing in a circle in a bright classroom."
+  },
+  {
+   "text": "गिनती सीखो, अपना काम बनाओ, \nरोज स्कूल की तैयारी में गाओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant pointing to a colorful chart with numbers one through seven."
+  },
+  {
+   "text": "Eight happy friends are ready to go, \nLearning together, putting on a show.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Eight cartoon animals in the background looking ready for school."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot sitting together on a bench holding their supplies."
+  },
+  {
+   "text": "नौ छोटी चीज़ें, सब अपने स्थान, \nस्कूल का काम है सबसे महान।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant neatly putting the last item in his bag."
+  },
+  {
+   "text": "Ten lessons learned in the morning sun, \nSorting our bag is so much fun.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot holding a yellow sun decoration while the elephant finishes packing."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot high-fiving one last time."
+  },
+  {
+   "text": "खुश रहो तुम, काम पूरा करो, \nसबके साथ तुम प्यार से डरो।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot hugging each other in a cozy room."
+  },
+  {
+   "text": "Bag is ready, we are on our way, \nHave a happy and colorful day.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The school bag sitting on the floor with school supplies neatly packed inside."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot smiling at the camera as the scene fades."
+  },
+  {
+   "text": "हम सब मिलकर करते हैं काम, \nमिलकर होता है हर मुश्किल आसान।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot working together to organize a desk."
+  },
+  {
+   "text": "Every small item finds its place, \nWith a happy and smiling face.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot smiling brightly."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot waving as they walk towards a school house."
+  },
+  {
+   "text": "बैग सजाओ, खुश हो जाओ, \nअब चलो तुम स्कूल को जाओ।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The elephant walking towards a cute school building entrance."
+  },
+  {
+   "text": "Sorting is easy, packing is fun, \nOur morning routine is finally done.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A sunny view of a playground outside the school."
+  },
+  {
+   "text": "चिट्ठू हाथी बैग सजाए, मिठू पंछी गाना गाए।\nChintu packs and Mithu sings, school bag joy to everyone brings.",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The elephant and parrot together at the classroom door."
+  },
+  {
+   "text": "Bye-bye friends, let’s learn today, \nIn our very special way.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant and parrot waving a final goodbye to the camera."
+  }
+ ]
+}

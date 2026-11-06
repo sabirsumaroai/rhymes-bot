@@ -20,7 +20,8 @@
   "The Sweet Vegetable Garden",
   "Jungle Yoga Safari",
   "The Kind Little Cloud",
-  "Cozy Blanket Fort"
+  "Cozy Blanket Fort",
+  "School Bag Sorting Game"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -43,13 +44,10 @@
   "Counting Garden Vegetables",
   "Jungle Yoga Safari",
   "The Helpful Little Cloud",
-  "Bedtime Blanket Fort"
+  "Bedtime Blanket Fort",
+  "Sorting School Bag Items"
  ],
  "ideas": [
-  {
-   "topic": "Sorting School Bag Items",
-   "format": "Habits/Routine"
-  },
   {
    "topic": "Mr. Sun's Color Mixing",
    "format": "Colors"
@@ -60,8 +58,8 @@
   }
  ],
  "missed": 0,
- "runs": 21,
- "last_run": "2026-11-05T03:29:25+00:00",
+ "runs": 22,
+ "last_run": "2026-11-06T03:43:35+00:00",
  "voiced": [],
- "counter": 21
+ "counter": 22
 }
