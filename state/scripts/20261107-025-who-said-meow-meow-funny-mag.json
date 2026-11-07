@@ -1,0 +1,73 @@
+{
+ "id": "20261107-025-who-said-meow-meow-funny-mag",
+ "topic": "Kaun bola Meow Meow (Guess the funny animal)",
+ "format": "mystery box surprise reveal with countdown and tap tap sound",
+ "title_hi": "कौन बोला म्याऊं म्याऊं? मस्ती भरा जादुई खेल!",
+ "title_en": "Who said Meow Meow? Funny Magic Box Surprise!",
+ "thumb_text_hi": "डिब्बे में कौन?",
+ "thumb_text_en": "WHO IS HIDING?",
+ "description": "Join Chintu elephant and Mithu parrot in a fun guessing game to find the hidden animal. Perfect for toddlers and preschoolers! #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "KidsRhymes",
+  "ToddlerGames",
+  "GuessTheAnimal",
+  "ChintuAndMithu",
+  "RangeelaRhymes",
+  "HindiKidsSongs",
+  "FunnyAnimals",
+  "MagicBox",
+  "PreschoolLearning",
+  "ShortsForKids"
+ ],
+ "learning": "Animal sound recognition and identifying hidden objects.",
+ "scenes": [
+  {
+   "text": "Arrey! Magic box ke andar kaun chhupa hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 CGI render, a bright yellow colorful magic box sitting in a lush green park, Chintu the orange baby elephant with blue scarf looking at it with big curious sparkly eyes, bright daylight."
+  },
+  {
+   "text": "Mithu, jaldi se tap tap karo!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Mithu the green parrot with a red cap flying towards the magic box, tiny wings flapping, expressive happy face, vibrant 3D cartoon style."
+  },
+  {
+   "text": "Tap! Tap! Tap! Let's count one, two, three!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of the magic box, sparkling magical dust rising from the lid as it starts to shake, vibrant colors, 3D render."
+  },
+  {
+   "text": "Ek, do, teen! Khul gaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The magic box lid flying open with a pop, Chintu elephant covering his eyes with his trunk in excitement, confetti and sparkles everywhere."
+  },
+  {
+   "text": "Oh look! It is a tiny white kitty cat!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A cute fluffy white kitten jumping out of the magic box with a playful expression, 3D style, soft lighting."
+  },
+  {
+   "text": "Kaun bola Meow Meow? Kya ye billi hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu looking at the kitten, Chintu laughing, kitten doing a cute dance, high-energy kids animation style."
+  },
+  {
+   "text": "Hahaha! Bilkul sahi! Meow Meow Meow!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu dancing together with the kitten, colorful background with balloons, joyful expressions, celebratory vibe."
+  },
+  {
+   "text": "Ruko! Magic box mein phir se dekho...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The kitten winking at the camera and hopping back into the box, Chintu looking at the camera with a curious finger on his chin, loop-ready frame."
+  }
+ ]
+}

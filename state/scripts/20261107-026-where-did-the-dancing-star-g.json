@@ -1,0 +1,73 @@
+{
+ "id": "20261107-026-where-did-the-dancing-star-g",
+ "topic": "Catch the Dancing Star (Taara nacha aasmaan me)",
+ "format": "action guessing loop (which animal hops? 3, 2, 1!)",
+ "title_hi": "नन्हा तारा कहाँ गया?",
+ "title_en": "Where did the dancing star go?",
+ "thumb_text_hi": "तारा कहाँ है?",
+ "thumb_text_en": "Where is it?",
+ "description": "Join Chintu elephant and Mithu parrot on a fun quest to find the dancing star in the night sky! A delightful interactive rhyme for toddlers.",
+ "tags": [
+  "KidsShorts",
+  "RangeelaRhymes",
+  "ToddlerFun",
+  "AnimatedRhymes",
+  "HindiKids",
+  "DancingStar",
+  "ChintuAndMithu",
+  "NurseryRhymes",
+  "EducationalShorts",
+  "KidsCGI"
+ ],
+ "learning": "Identifying celestial objects and developing visual tracking skills.",
+ "scenes": [
+  {
+   "text": "अरे! ये चमकता सितारा कहाँ छुप गया?!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close-up 3D render of Chintu the orange baby elephant looking surprised with big sparkly eyes at a dark blue night sky, 9:16 vertical orientation."
+  },
+  {
+   "text": "Look! Is it hiding behind the fluffy cloud?",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the green parrot with a red cap pointing his wing towards a giant glowing white cloud in the night sky, high contrast, 3D CGI."
+  },
+  {
+   "text": "Tap tap tap! Let’s find the star!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu tapping his small foot on a floating moon platform, magical sparkles emitting from the floor, vibrant night colors, 3D render."
+  },
+  {
+   "text": "Mithu, jaldi dekho, kya wo wahan hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Mithu flying in a circle, looking excited, vibrant yellow tummy clearly visible, dark starry background, 3D animation style."
+  },
+  {
+   "text": "Boing boing hop! Catch the twinkling light!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu jumping joyfully in the air with his blue scarf fluttering, trying to reach a tiny winking golden star in the distance."
+  },
+  {
+   "text": "One, two, three! Abhi dikha!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The dancing star bursts into a bright golden glow in front of Chintu and Mithu, both characters laughing with open mouths."
+  },
+  {
+   "text": "Yay! Hamara pyara dancing star mil gaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu dancing together in a circle, surrounded by shimmering magical stardust and colorful nebulae, pure joy expression."
+  },
+  {
+   "text": "Ruko! Phir se dekho, kya wo phir chup gaya?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu looking directly at the camera with a confused but funny expression, one finger on his chin, background fading into the opening night scene."
+  }
+ ]
+}
