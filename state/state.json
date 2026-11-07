@@ -21,7 +21,8 @@
   "Jungle Yoga Safari",
   "The Kind Little Cloud",
   "Cozy Blanket Fort",
-  "School Bag Sorting Game"
+  "School Bag Sorting Game",
+  "Magic Colors Song"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -45,21 +46,18 @@
   "Jungle Yoga Safari",
   "The Helpful Little Cloud",
   "Bedtime Blanket Fort",
-  "Sorting School Bag Items"
+  "Sorting School Bag Items",
+  "Mr. Sun's Color Mixing"
  ],
  "ideas": [
-  {
-   "topic": "Mr. Sun's Color Mixing",
-   "format": "Colors"
-  },
   {
    "topic": "The Busy Bee's Breakfast",
    "format": "Animals/Nature"
   }
  ],
  "missed": 0,
- "runs": 22,
- "last_run": "2026-11-06T03:43:35+00:00",
+ "runs": 23,
+ "last_run": "2026-11-07T03:37:40+00:00",
  "voiced": [],
- "counter": 22
+ "counter": 23
 }

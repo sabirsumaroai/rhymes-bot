@@ -1,0 +1,183 @@
+{
+ "id": "20261107-023-magic-colors-song",
+ "topic": "Mr. Sun's Color Mixing",
+ "format": "Colors",
+ "title_hi": "रंगों का जादू",
+ "title_en": "Magic Colors Song",
+ "thumb_text_hi": "चिन्नू और मीठू",
+ "thumb_text_en": "Color Mixing Fun",
+ "description": "Chintu aur Mithu aaj rangon ka jadoo seekh rahe hain. Bachche asani se basic colors banana seekhenge.",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Songs",
+  "Hindi Nursery Rhymes",
+  "Color Mixing",
+  "Learning Colors",
+  "Preschool Education",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Toddler Learning",
+  "Hindi Kids Songs",
+  "Colors for Kids",
+  "Animated Rhymes"
+ ],
+ "learning": "Learning primary color combinations: Red + Yellow = Orange.",
+ "scenes": [
+  {
+   "text": "लाल और पीला मिल गए भाई,\nनारंगी रंग की बहार है आई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A cute round orange baby elephant with a blue scarf and a tiny green parrot with a red cap smiling together under a bright sun."
+  },
+  {
+   "text": "Red and yellow start to play,\nMaking orange for the day.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Paint pots with red and yellow colors swirling together on a wooden table."
+  },
+  {
+   "text": "चिन्नू हाथी खुश है आज,\nरंगों का देखो कैसा साज़।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The orange baby elephant dancing in a green meadow with blue flowers."
+  },
+  {
+   "text": "Chintu trunk is wiggling round,\nColors dancing on the ground.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The small elephant splashing colorful water drops with his trunk."
+  },
+  {
+   "text": "लाल और पीला मिल गए भाई,\nनारंगी रंग की बहार है आई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The parrot holding a paintbrush and the elephant holding a bucket of orange paint."
+  },
+  {
+   "text": "Red and yellow start to play,\nMaking orange for the day.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A bright sunny sky with a smiling sun wearing sunglasses."
+  },
+  {
+   "text": "मीठू तोता पंख फैलाए,\nनया रंग वो सबको दिखाए।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The tiny green parrot with a yellow tummy flapping its wings excitedly."
+  },
+  {
+   "text": "Mithu flies up in the sky,\nWatching colors floating by.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot soaring above a garden full of colorful flowers."
+  },
+  {
+   "text": "लाल और पीला मिल गए भाई,\nनारंगी रंग की बहार है आई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu high-fiving in front of a giant orange flower."
+  },
+  {
+   "text": "Red and yellow start to play,\nMaking orange for the day.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A vibrant rainbow appearing in the soft blue sky."
+  },
+  {
+   "text": "एक लाल डिब्बा, एक पीला रंग,\nमिक्स करें हम चिन्नू के संग।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A red toy box and a yellow toy box sitting on the grass."
+  },
+  {
+   "text": "One red cup and one yellow pot,\nMixing colors is what we've got.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Two small pots being poured into a large mixing bowl."
+  },
+  {
+   "text": "लाल और पीला मिल गए भाई,\nनारंगी रंग की बहार है आई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The bowl showing a beautiful bright orange color mixture."
+  },
+  {
+   "text": "Red and yellow start to play,\nMaking orange for the day.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu covered in friendly orange paint splatters, laughing."
+  },
+  {
+   "text": "देखो चिन्नू का स्कार्फ नीला,\nरंगों का है प्यारा मेला।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close up of the blue scarf around the orange elephant's neck."
+  },
+  {
+   "text": "Look at the scarf of blue so bright,\nEverything is such a delight.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The elephant looking at his reflection in a small clear puddle."
+  },
+  {
+   "text": "लाल और पीला मिल गए भाई,\nनारंगी रंग की बहार है आई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "A wide shot of the sunny garden full of orange butterflies."
+  },
+  {
+   "text": "Red and yellow start to play,\nMaking orange for the day.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The sun smiling down warmly on the forest clearing."
+  },
+  {
+   "text": "हँसते गाते रंग बदलें,\nसबके मन को ये बहलाएं।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A group of happy forest animals gathering around the colorful art project."
+  },
+  {
+   "text": "Laughing, singing, colors change,\nEverything within our range.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The parrot and elephant painting shapes on a big white canvas."
+  },
+  {
+   "text": "लाल और पीला मिल गए भाई,\nनारंगी रंग की बहार है आई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The canvas showing a painted orange sun."
+  },
+  {
+   "text": "Red and yellow start to play,\nMaking orange for the day.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "The parrot sitting on the elephant's head, both looking at the sun."
+  },
+  {
+   "text": "चिन्नू और मीठू हुए तैयार,\nरंगों से है सबको प्यार।",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu holding hands with Mithu as they walk toward a colorful path."
+  },
+  {
+   "text": "Chintu and Mithu say goodbye,\nUnderneath the orange sky.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The sunset coloring the sky in shades of orange and soft pink."
+  },
+  {
+   "text": "लाल और पीला मिल गए भाई,\nनारंगी रंग की बहार है आई।",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "The two friends waving goodbye at the viewer."
+  },
+  {
+   "text": "Red and yellow start to play,\nMaking orange for the day.",
+   "lang": "en",
+   "chorus": true,
+   "image_prompt": "A close up of the characters waving happily."
+  }
+ ]
+}
