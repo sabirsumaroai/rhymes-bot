@@ -22,7 +22,8 @@
   "The Kind Little Cloud",
   "Cozy Blanket Fort",
   "School Bag Sorting Game",
-  "Magic Colors Song"
+  "Magic Colors Song",
+  "The Busy Bee's Breakfast"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -47,17 +48,13 @@
   "The Helpful Little Cloud",
   "Bedtime Blanket Fort",
   "Sorting School Bag Items",
-  "Mr. Sun's Color Mixing"
+  "Mr. Sun's Color Mixing",
+  "The Busy Bee's Breakfast"
  ],
- "ideas": [
-  {
-   "topic": "The Busy Bee's Breakfast",
-   "format": "Animals/Nature"
-  }
- ],
+ "ideas": [],
  "missed": 1,
  "runs": 24,
  "last_run": "2026-11-07T11:35:50+00:00",
  "voiced": [],
- "counter": 23
+ "counter": 24
 }

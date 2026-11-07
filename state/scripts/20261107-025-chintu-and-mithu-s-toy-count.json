@@ -1,0 +1,219 @@
+{
+ "id": "20261107-025-chintu-and-mithu-s-toy-count",
+ "topic": "Mere khilone, mere dost",
+ "format": "counting song (1 to 10) with a repeating chorus",
+ "title_hi": "चिंटू और मिठू के गिनती वाले खिलौने",
+ "title_en": "Chintu and Mithu's Toy Counting Song",
+ "thumb_text_hi": "गिनती सीखो!",
+ "thumb_text_en": "LEARN COUNTING!",
+ "description": "Chintu the elephant and Mithu the parrot count their favorite toys together. A fun and rhythmic way for toddlers to learn numbers 1 to 10 in Hindi and English.",
+ "tags": [
+  "nursery rhymes",
+  "hindi for kids",
+  "counting song",
+  "chintu and mithu",
+  "learning numbers",
+  "preschool songs",
+  "rangeela rhymes",
+  "kids education",
+  "3d animation",
+  "toddler rhymes",
+  "hindi counting",
+  "toys counting"
+ ],
+ "learning": "Counting numbers 1-10 in both Hindi and English.",
+ "scenes": [
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Cute 3D CGI orange elephant Chintu with blue scarf and tiny green parrot Mithu dancing joyfully in a bright playroom."
+  },
+  {
+   "text": "Ek, do, teen khilone aaye,\nMithu ke sang hum khushi manaye.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu holding one, two, and three colorful wooden blocks on a soft play mat."
+  },
+  {
+   "text": "Four, five, six, spin and play,\nChintu laughs in a happy way.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu spinning four, five, and six toy tops while Mithu cheers from above."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu high-fiving in the colorful playroom with floating sparkles."
+  },
+  {
+   "text": "Saath, aath, nau toys hamare,\nDekho kitne pyare pyare.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu counting seven, eight, and nine soft plush teddy bears lined up."
+  },
+  {
+   "text": "Ten shiny toys go zoom zoom zoom,\nFun fills up the happy room.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Ten small toy cars zooming around Chintu and Mithu on a clean wooden floor."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu hugging surrounded by all ten toys, bright sunlight shining in."
+  },
+  {
+   "text": "Ek hai ball, gol aur pyari,\nDo hain gudiya, sundar nyari.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu holding one big red ball, two dolls sitting nearby."
+  },
+  {
+   "text": "Three cars vroom, four blocks stack,\nFive tiny trains are on the track.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Three toy cars and four blocks with a five-car train moving on a floor track."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Mithu sitting on Chintu's head, both smiling broadly at the camera."
+  },
+  {
+   "text": "Chah, saat, aath, khilone saje,\nNayi dosti mein man baje.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu arranging six, seven, and eight colorful toy shapes on a shelf."
+  },
+  {
+   "text": "Nine stars twinkle, ten drums beat,\nPlaying together is such a treat.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu playing nine star-shaped toys while Chintu taps on ten tiny drums."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Wide shot of the room filled with toys, Chintu and Mithu dancing in the center."
+  },
+  {
+   "text": "Ek, do, teen, char, paanch,\nChintu ke sang nacho aaj.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu hopping on one leg, counting with his trunk pointing to numbers in the air."
+  },
+  {
+   "text": "Six, seven, eight, nine, ten,\nLet us count it all again.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu flying in a circle, leaving a glowing number trail from six to ten."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu waving a trunk and Mithu fluttering wings in a joyful finale pose."
+  },
+  {
+   "text": "Ek ball, do bat, khelne aao,\nChintu Mithu ke sang muskurao.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu holding a bat and a ball, Mithu chirping loudly with joy."
+  },
+  {
+   "text": "Three rings, four ducks, five birds blue,\nCounting toys is fun for you.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Three rings, four cute ducks, and five blue bird toys scattered on a carpet."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Close up of Chintu's big sparkly eyes reflecting the toys, Mithu sitting on his shoulder."
+  },
+  {
+   "text": "Chah, saat, aath, khilone laye,\nSare milke khushi manaye.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu picking up six, seven, and eight toys from a colorful basket."
+  },
+  {
+   "text": "Nine puzzles, ten books on the shelf,\nPlay a game all by yourself.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Nine puzzle pieces and ten books neatly organized on a child-sized shelf."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu doing a little dance step together in front of the toy shelf."
+  },
+  {
+   "text": "Ek aur do, milke gino,\nTeen aur char, khushi se bino.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu counting on his toes, Mithu pointing with a wing."
+  },
+  {
+   "text": "Five and six, seven and eight,\nCounting toys feels really great.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu making a circle with their hands to show excitement."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu laughing, with soft confetti falling in the room."
+  },
+  {
+   "text": "Nau aur das, pura hua,\nMithu chintu ka pyaar chhua.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu holding hands and wings, displaying the number ten with blocks."
+  },
+  {
+   "text": "Counting is done, time for fun,\nSmiling faces for everyone.",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of Chintu's happy face, Mithu chirping 'chirp chirp' with a big smile."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Final wide shot of Chintu and Mithu waving goodbye in the cozy playroom."
+  },
+  {
+   "text": "Ek se das tak, humne gina,\nKhilono se humne dosti kiya.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu sitting together with all their toys around them."
+  },
+  {
+   "text": "Counting fun, from one to ten,\nLet's sing it all again, my friend!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu winking at the camera while Chintu gives a friendly trunk wave."
+  },
+  {
+   "text": "चिटू मिठू गाते गाना, एक दो तीन!\nChintu Mithu play all day, counting is a dream!",
+   "lang": "hi",
+   "chorus": true,
+   "image_prompt": "Chintu and Mithu blowing bubbles that have numbers inside them."
+  },
+  {
+   "text": "Bye bye friends, chalo ab sona,\nKal phir milna, khelna khilona.",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu waving 'bye' while the room lights dim to a cozy evening glow."
+  }
+ ]
+}
