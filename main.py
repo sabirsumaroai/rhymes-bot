@@ -50,7 +50,33 @@ def build_prompt(cfg, st, topic, fmt):
     avoid = "\n".join("- " + t for t in st["used_titles"][-60:]) or "(none yet)"
     fb = read_feedback()
     topic_line = (f"Topic: {topic}" if topic else
-                  "Topic: invent a fresh, specific topic yourself that is NOT similar to any title in the avoid list.")
+                  "Topic: invent a fresh, specific viral hook topic yourself.")
+    is_short = cfg.get("target_mode") == "short_trial"
+
+    if is_short:
+        return f"""You are a master viral YouTube Shorts creator and animation director for kids channel "{cfg['channel_name']}" (audience: toddlers & preschoolers ages 2-5).
+Write ONE 30-SECOND HIGH-ENERGY VIRAL SHORT SCRIPT (total runtime strictly ~26-30 seconds).
+
+CRITICAL VIRAL SHORT RULES (Follow yt-script & yt-shorts benchmarks):
+- STRICTLY 7 to 9 scenes total. Each scene is 1 punchy line (approx 3 to 4 seconds spoken).
+- SCENE 1 IS THE 2-SECOND HOOK: Starts immediately with mystery, shock or question ('Arrey! Magic box me kya chhupa hai?!', 'Look! Who is hiding inside?!'). NO 'hello', NO intro.
+- SCENES 2 to 6: High energy action, interactive sound words ('Tap tap tap!', 'Boing boing hop!', 'One.. Two.. Three!'), characters dancing or revealing a surprise.
+- SCENE 7: Joyful celebratory punchline / big giggle.
+- SCENE 8 (SEAMLESS LOOP): The final scene text ends with a curiosity hook that seamlessly loops back to Scene 1 ('Ruko! Magic box me phir se dekho...').
+- Recurring ORIGINAL characters:
+{chars}
+- {topic_line}
+- Format: {fmt}
+- Language: Alternating simple cheerful Hindi (Devanagari script) and simple English.
+- "image_prompt": Detailed vertical 9:16 portrait composition, cute 3D cartoon CGI render for toddlers, full bleed mobile frame, expressive face, clear character action, no text in picture. Different for every scene!
+- "thumb_text_hi" / "thumb_text_en": Exactly 2 to 3 high-curiosity words for cover (e.g. 'जादुई डिब्बा!', 'MAGIC BOX!').
+- "description": 2 short search-friendly sentences with hashtags #Shorts #KidsRhymes #Cartoon.
+- "tags": 10 relevant tags.
+
+Return ONLY valid JSON, no markdown:
+{{"title_hi": "...", "title_en": "...", "thumb_text_hi": "...", "thumb_text_en": "...", "description": "...", "tags": ["..."],
+ "learning": "...", "scenes": [{{"text": "...", "lang": "hi", "chorus": false, "image_prompt": "..."}}]}}"""
+
     return f"""You are a master children's songwriter and animation director for the Indian YouTube channel "{cfg['channel_name']}" (audience: toddlers & preschoolers ages 2-5).
 Write ONE brand-new, 100% ORIGINAL nursery rhyme / kids song.
 
@@ -84,13 +110,15 @@ Return ONLY valid JSON, no markdown:
 
 def make_validator(cfg, st):
     blocked = [b.lower() for b in cfg["blocked_terms"]]
+    is_short = cfg.get("target_mode") == "short_trial"
 
     def validate(d):
         for k in ("title_hi", "title_en", "description", "tags", "scenes"):
             if not d.get(k):
                 raise ValueError(f"'{k}' missing")
         sc = d["scenes"]
-        if not isinstance(sc, list) or not 12 <= len(sc) <= 60:
+        min_sc = 6 if is_short else 12
+        if not isinstance(sc, list) or not min_sc <= len(sc) <= 60:
             raise ValueError(f"scenes ki ginti theek nahi ({len(sc) if isinstance(sc, list) else '?'})")
         for s in sc:
             if not str(s.get("text", "")).strip() or s.get("lang") not in ("hi", "en") or not str(s.get("image_prompt", "")).strip():
@@ -121,8 +149,10 @@ def pick_plan(cfg, st):
     return idea, topic, fmt
 
 
-def fit_scenes(scenes, durs, min_s, max_s):
-    """Rhyme ko 6-8 minute me fit karo: chorus dohrao (kam ho to) / aakhir se hatao (zyada ho to)."""
+def fit_scenes(scenes, durs, min_s, max_s, is_short=False):
+    """Short me direct scenes rakhna hai; long me 6-8 minute me fit karna hai."""
+    if is_short:
+        return list(range(len(scenes))), sum(durs)
     seq = list(range(len(scenes)))
     total = sum(durs)
     chorus = [i for i, s in enumerate(scenes) if s["chorus"]] or list(range(min(4, len(scenes))))
@@ -206,13 +236,15 @@ def make_video(cfg, st, script, vid_id, human_audio=None, notes=None):
         shutil.rmtree(d, ignore_errors=True)
         os.makedirs(d)
     scenes = script["scenes"]
-    min_s, max_s = cfg["length"]["min_minutes"] * 60, cfg["length"]["max_minutes"] * 60
+    is_short = cfg.get("target_mode") == "short_trial"
+    min_s = cfg.get("short_length", {}).get("min_seconds", 24) if is_short else cfg["length"]["min_minutes"] * 60
+    max_s = cfg.get("short_length", {}).get("max_seconds", 35) if is_short else cfg["length"]["max_minutes"] * 60
 
     # 1) awaaz + SFX Foley
     wavs = {}
     if human_audio:
         total = render.duration(human_audio)
-        if total < 30:
+        if total < (15 if is_short else 30):
             raise RuntimeError("recording bahut chhoti hai")
         w = [max(8, len(s["text"])) for s in scenes]
         durs, t0 = [], 0.0
@@ -244,8 +276,8 @@ def make_video(cfg, st, script, vid_id, human_audio=None, notes=None):
         log(f"[tts] sources: {sorted(srcs)}")
         if srcs and srcs <= {"espeak"}:
             notes.append("Awaaz basic fallback (espeak) se bani - quality kam hai")
-        seq, total_s = fit_scenes(scenes, durs, min_s, max_s)
-        if total_s < min_s - 60:
+        seq, total_s = fit_scenes(scenes, durs, min_s, max_s, is_short=is_short)
+        if total_s < (15 if is_short else min_s - 60):
             raise RuntimeError(f"video bahut chhota ban raha hai ({total_s:.0f}s)")
 
     # 2) images (sirf jo scenes use ho rahe hain)
@@ -261,14 +293,15 @@ def make_video(cfg, st, script, vid_id, human_audio=None, notes=None):
 
     # 3) clips -> master
     caps = {}
+    cap_size = (720, 1280) if is_short else (1280, 720)
     for i in set(seq):
         caps[i] = os.path.join(work, f"cap_{i:03d}.png")
-        render.caption_png(scenes[i]["text"], caps[i], lang=scenes[i]["lang"])
+        render.caption_png(scenes[i]["text"], caps[i], size=cap_size, lang=scenes[i]["lang"])
     clips, cdurs, made = [], [], {}
     for i in seq:  # dohraye hue scene ka clip ek hi baar banta hai (time bachta hai)
         if i not in made:
             made[i] = os.path.join(work, f"clip_{i:03d}.mp4")
-            render.scene_clip(imgs[i], wavs[i], caps[i], durs[i], i, made[i])
+            render.scene_clip(imgs[i], wavs[i], caps[i], durs[i], i, made[i], vertical=is_short)
             log(f"[clip] {len(made)}/{len(set(seq))}")
         clips.append(made[i])
         cdurs.append(durs[i])
@@ -283,18 +316,32 @@ def make_video(cfg, st, script, vid_id, human_audio=None, notes=None):
 
     # 4) short, thumbnails, preview
     short = os.path.join(out, "short.mp4")
-    short_len = render.make_short(clips, cdurs, short, work)
+    if is_short:
+        shutil.copy(master, short)
+        short_len = total_s
+    else:
+        short_len = render.make_short(clips, cdurs, short, work)
+
+    thumb_size = (720, 1280) if is_short else (1280, 720)
     uniq = sorted(set(seq))
-    render.thumbnail(imgs[seq[0]], script["thumb_text_hi"], os.path.join(out, "thumb_a.jpg"), "A")
-    render.thumbnail(imgs[uniq[len(uniq) // 2]], script["thumb_text_en"], os.path.join(out, "thumb_b.jpg"), "B")
+    render.thumbnail(imgs[seq[0]], script["thumb_text_hi"], os.path.join(out, "thumb_a.jpg"), "A", size=thumb_size)
+    render.thumbnail(imgs[uniq[len(uniq) // 2]], script["thumb_text_en"], os.path.join(out, "thumb_b.jpg"), "B", size=thumb_size)
     preview = os.path.join(out, "preview.mp4")
-    render.make_preview(master, preview)
+    if is_short:
+        shutil.copy(master, preview)
+    else:
+        render.make_preview(master, preview)
 
     # 5) quality check
     dur = render.duration(master)
-    if abs(dur - total_s) > 4 or os.path.getsize(master) < 500_000 or short_len < 10:
-        raise RuntimeError(f"QC fail: duration {dur:.1f}s (expected {total_s:.1f}s)")
-    log(f"[qc] ok: {dur / 60:.1f} min, master {os.path.getsize(master) / 1e6:.1f}MB, short {short_len:.0f}s")
+    if is_short:
+        if dur < 15 or os.path.getsize(master) < 100_000:
+            raise RuntimeError(f"QC fail: duration {dur:.1f}s")
+        log(f"[qc] Short ok: {dur:.1f}s, size {os.path.getsize(master) / 1e6:.1f}MB")
+    else:
+        if abs(dur - total_s) > 4 or os.path.getsize(master) < 500_000 or short_len < 10:
+            raise RuntimeError(f"QC fail: duration {dur:.1f}s (expected {total_s:.1f}s)")
+        log(f"[qc] ok: {dur / 60:.1f} min, master {os.path.getsize(master) / 1e6:.1f}MB, short {short_len:.0f}s")
 
     short_title = f"{script['title_en']} #Shorts"[:98]
     chapters_text = build_chapters(scenes, seq, cdurs)

@@ -2,6 +2,12 @@
   "channel_name": "Rangeela Rhymes",
   "_note_channel": "Apne channel ka naam yahan likho. Characters bhi apne original rakho (kisi existing show/channel jaise nahi).",
 
+  "target_mode": "short_trial",
+  "short_target_seconds": 30,
+  "telegram_push_enabled": false,
+  "image_width": 720,
+  "image_height": 1280,
+
   "length": { "min_minutes": 6, "max_minutes": 8 },
   "max_catchup": 3,
   "videos_per_run": 1,
@@ -10,36 +16,22 @@
     "Chintu: a small round orange baby elephant with big sparkly eyes and a blue scarf",
     "Mithu: a tiny green parrot with a yellow tummy and a red cap"
   ],
-  "style_prompt": "cute 3D cartoon CGI animation render for toddlers, ultra-expressive character faces, big friendly sparkly eyes, soft cinematic studio lighting, vibrant cheerful pastel colors, smooth shapes, high quality 4k render, wide 16:9 composition, clean uncluttered background, no text, no letters, no logos, no watermark",
+  "style_prompt": "cute 3D cartoon CGI animation render for toddlers, vertical 9:16 portrait composition, full bleed vertical mobile frame, ultra-expressive character faces, big friendly sparkly eyes, soft cinematic studio lighting, vibrant cheerful pastel colors, smooth shapes, high quality render, clean uncluttered background, no text, no letters, no logos, no watermark",
   "image_seed": 4242,
 
   "formats": [
-    "counting song (1 to 10) with a repeating chorus",
-    "animal sounds call-and-response song",
-    "good-habit song (brushing teeth, washing hands, sharing, saying thank you)",
-    "tiny story rhyme with a gentle moral",
-    "colors and shapes song",
-    "action song (clap, jump, spin, stretch) kids can copy",
-    "slow soothing lullaby for bedtime",
-    "seasons, weather and festival fun song"
+    "mystery box surprise reveal with countdown and tap tap sound",
+    "action guessing loop (which animal hops? 3, 2, 1!)",
+    "bouncy sensory sound rhyme (clap, pop, boing, freeze!)",
+    "funny toddler micro-problem solved in 30 seconds"
   ],
 
   "topics": [
-    "Chintu ko baarish me khelna pasand hai",
-    "Mithu ki gindti 1 se 10",
-    "Fal aur sabziyon ke rang",
-    "Subah subah daant brush karna",
-    "Gaadi chali gaadi chali (original, vehicles song)",
-    "Chidiya ghar ke bahar",
-    "Dadi ka gaon aur khet",
-    "Chaand aur taare raat me",
-    "Haath dhona ke fayde",
-    "Mere khilone, mere dost",
-    "Jungle ke jaanwar aur unki awaaz",
-    "Pyaari titli aur phool",
-    "Bhaiya behen ka pyaar",
-    "School chalo school chalo",
-    "Garmi ki chhutti me aam"
+    "The Mystery Magic Box (Arrey! Magic box me kya chhupa hai?)",
+    "Funny Baby Bunny Jump (Boing boing hop hop)",
+    "Catch the Dancing Star (Taara nacha aasmaan me)",
+    "Chintu ka chhota surprise (Tap tap tap karo)",
+    "Kaun bola Meow Meow (Guess the funny animal)"
   ],
 
   "gemini_models": ["gemini-3.1-flash-lite", "gemini-2.5-flash-lite", "gemini-2.0-flash", "gemini-1.5-flash"],
@@ -50,8 +42,8 @@
 
   "tts": {
     "voices": { "hi": "hi-IN-SwaraNeural", "en": "en-IN-NeerjaNeural" },
-    "rate": "-4%",
-    "pitch": "+8Hz",
+    "rate": "+12%",
+    "pitch": "+16Hz",
     "gtts_tld": "co.in"
   },
 
@@ -68,7 +60,7 @@
     "johny johny", "johnny johnny", "humpty dumpty", "jack and jill", "machli jal ki rani", "lakdi ki kathi"
   ],
 
-  "trend_queries": ["hindi nursery rhymes", "kids rhymes hindi english", "toddler songs hindi"],
+  "trend_queries": ["kids shorts hindi", "toddler rhymes shorts hindi english", "funny animals nursery rhymes shorts"],
 
   "release_keep_days": 14
 }

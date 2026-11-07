@@ -146,3 +146,4 @@ def ensure_nursery_music():
 
 if __name__ == "__main__":
     ensure_nursery_music()
+

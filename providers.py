@@ -136,13 +136,13 @@ def _valid_image(path):
         return False
 
 
-def _pollinations(prompt, seed, out):
+def _pollinations(prompt, seed, out, width=720, height=1280):
     key = os.getenv("POLLINATIONS_KEY", "")
     q = urllib.parse.quote(prompt[:900])
     if key:
-        url = f"https://gen.pollinations.ai/image/{q}?width=1280&height=720&seed={seed}&nologo=true&model=flux&key={key}"
+        url = f"https://gen.pollinations.ai/image/{q}?width={width}&height={height}&seed={seed}&nologo=true&model=flux&key={key}"
     else:
-        url = f"https://image.pollinations.ai/prompt/{q}?width=1280&height=720&seed={seed}&nologo=true&model=flux"
+        url = f"https://image.pollinations.ai/prompt/{q}?width={width}&height={height}&seed={seed}&nologo=true&model=flux"
     r = requests.get(url, timeout=180)
     if r.status_code != 200 or not r.headers.get("content-type", "").startswith("image"):
         raise ProviderError(f"pollinations HTTP {r.status_code}")
@@ -175,31 +175,31 @@ def prune_cache(cfg):
             pass
 
 
-def fallback_art(out, idx, text=""):
+def fallback_art(out, idx, text="", width=720, height=1280):
     """Last resort: Pillow se simple cartoon-jaisa scene (hamesha chalta hai, internet nahi chahiye)."""
     from PIL import Image, ImageDraw
     rnd = random.Random(idx * 7919 + len(text))
     pals = [((135, 206, 250), (255, 250, 205), (110, 200, 120)), ((255, 183, 197), (255, 240, 200), (150, 215, 140)),
             ((173, 216, 230), (255, 228, 181), (120, 190, 130)), ((196, 181, 253), (254, 249, 195), (134, 239, 172))]
     top, sun, hill = rnd.choice(pals)
-    W, H = 1280, 720
+    W, H = width, height
     im = Image.new("RGB", (W, H))
     d = ImageDraw.Draw(im)
     for y in range(H):
         t = y / H
         d.line([(0, y), (W, y)], fill=tuple(int(top[i] * (1 - t) + 255 * t) for i in range(3)))
-    sx, sy = rnd.randint(150, 1100), rnd.randint(90, 220)
+    sx, sy = rnd.randint(int(W * 0.2), int(W * 0.8)), rnd.randint(int(H * 0.1), int(H * 0.25))
     d.ellipse([sx - 80, sy - 80, sx + 80, sy + 80], fill=sun)
     for _ in range(3):
-        cx, cy = rnd.randint(100, 1180), rnd.randint(60, 300)
-        for dx in (-50, 0, 50):
-            d.ellipse([cx + dx - 55, cy - 30, cx + dx + 55, cy + 30], fill=(255, 255, 255))
+        cx, cy = rnd.randint(80, W - 80), rnd.randint(60, int(H * 0.35))
+        for dx in (-45, 0, 45):
+            d.ellipse([cx + dx - 50, cy - 25, cx + dx + 50, cy + 25], fill=(255, 255, 255))
     for k in range(3):
-        base = 470 + k * 70
+        base = int(H * 0.6) + k * 80
         shade = tuple(max(0, c - k * 22) for c in hill)
-        d.ellipse([-200 + k * 300, base, 700 + k * 300, base + 600], fill=shade)
+        d.ellipse([-200 + k * 200, base, W + 200, base + 600], fill=shade)
     for _ in range(9):
-        fx, fy = rnd.randint(40, 1240), rnd.randint(520, 700)
+        fx, fy = rnd.randint(40, W - 40), rnd.randint(int(H * 0.7), int(H * 0.95))
         d.ellipse([fx - 14, fy - 14, fx + 14, fy + 14], fill=rnd.choice([(255, 99, 132), (255, 205, 86), (255, 255, 255)]))
         d.ellipse([fx - 5, fy - 5, fx + 5, fy + 5], fill=(255, 200, 0))
     im.save(out, quality=90)
@@ -213,11 +213,16 @@ def get_image(prompt, seed, idx, text, cfg, workdir):
     if os.path.exists(cp):
         shutil.copy(cp, out)
         return out, "cache"
+    w = cfg.get("image_width", 720)
+    h = cfg.get("image_height", 1280)
     if not DRY:
         for attempt in range(3):
             try:
                 _throttle(cfg)
-                _pollinations(prompt, seed, out)
+                try:
+                    _pollinations(prompt, seed, out, width=w, height=h)
+                except TypeError:
+                    _pollinations(prompt, seed, out)
                 shutil.copy(out, cp)
                 return out, "pollinations"
             except Exception as e:
@@ -228,7 +233,7 @@ def get_image(prompt, seed, idx, text, cfg, workdir):
         if old:
             shutil.copy(random.choice(old), out)
             return out, "old-cache"
-    fallback_art(out, idx, text)
+    fallback_art(out, idx, text, width=w, height=h)
     return out, "pillow-art"
 
 

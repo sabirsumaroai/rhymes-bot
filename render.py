@@ -125,35 +125,36 @@ def _wrap(draw, text, font, max_w):
     return lines
 
 
-def caption_png(text, out, size=(1280, 720), lang="hi"):
+def caption_png(text, out, size=(720, 1280), lang="hi"):
     """Glossy kids-friendly cartoon subtitle badge with vibrant text."""
     W, H = size
     img = Image.new("RGBA", size, (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
 
-    fs = 52
+    fs = 46 if W < H else 52
+    max_w = W - 100 if W < H else W - 220
     while True:
         font = _font(fs)
-        lines = _wrap(d, text, font, W - 220)
+        lines = _wrap(d, text, font, max_w)
         lh = int(fs * 1.35)
-        if (len(lines) * lh <= 180 and len(lines) <= 3) or fs <= 30:
+        if (len(lines) * lh <= (220 if W < H else 180) and len(lines) <= 3) or fs <= 26:
             break
         fs -= 4
 
     bh = len(lines) * lh + 36
-    top = H - bh - 40
-    bw = min(W - 80, max(680, int(max(d.textlength(ln, font=font) for ln in lines) + 120)))
+    top = H - bh - 160 if W < H else H - bh - 40
+    bw = min(W - 40 if W < H else W - 80, max(520 if W < H else 680, int(max(d.textlength(ln, font=font) for ln in lines) + (80 if W < H else 120))))
     bx0 = (W - bw) // 2
     bx1 = bx0 + bw
 
     # Layered cartoon pill: shadow + dark glossy backdrop + colorful outline
     d.rounded_rectangle([bx0 + 4, top + 6, bx1 + 4, top + bh + 6], radius=32, fill=(0, 0, 0, 110))
-    d.rounded_rectangle([bx0, top, bx1, top + bh], radius=32, fill=(18, 20, 38, 215),
+    d.rounded_rectangle([bx0, top, bx1, top + bh], radius=32, fill=(18, 20, 38, 220),
                         outline=(255, 230, 80, 240) if lang == "hi" else (100, 220, 255, 240), width=4)
 
     # Accent star badge on pill corner
-    badge_x, badge_y = bx0 + 20, top + (bh // 2) - 14
-    d.text((badge_x, badge_y), "⭐" if lang == "hi" else "🎶", font=_font(28), fill=(255, 240, 120, 255))
+    badge_x, badge_y = bx0 + 18, top + (bh // 2) - 14
+    d.text((badge_x, badge_y), "⭐" if lang == "hi" else "🎶", font=_font(26), fill=(255, 240, 120, 255))
 
     # Text rendering with cheerful high-contrast stroke
     y = top + 18
@@ -194,16 +195,24 @@ def _zoom_expr(mode, n):
     return f"z='1+0.14*on/{n}':x='(iw-iw/zoom)*(0.2+0.6*on/{n})':y='(ih-ih/zoom)*(0.3+0.4*on/{n})'"
 
 
-def scene_clip(img, wav, cap_png, dur, idx, out, crf=21, maxrate="4000k"):
+def scene_clip(img, wav, cap_png, dur, idx, out, crf=21, maxrate="4000k", vertical=True):
     n = max(2, int(round(dur * FPS)))
     zp = _zoom_expr(idx % 6, n)
 
-    # Pixar-style color grading + breathing saturation pulse + zoompan + overlay
-    fc = (
-        f"[0:v]scale=1920:1080,eq=saturation='1.22+0.05*sin(2*3.1415*t/2.0)':contrast=1.07:brightness=0.01,"
-        f"zoompan={zp}:d={n}:s=1280x720:fps={FPS}[bg];"
-        f"[bg][1:v]overlay=0:0:format=auto,format=yuv420p[v]"
-    )
+    if vertical:
+        # High quality 720x1280 9:16 vertical render
+        fc = (
+            f"[0:v]scale=720:1280:force_original_aspect_ratio=increase,crop=720:1280,"
+            f"eq=saturation='1.25+0.05*sin(2*3.1415*t/2.0)':contrast=1.07:brightness=0.01,"
+            f"zoompan={zp}:d={n}:s=720x1280:fps={FPS}[bg];"
+            f"[bg][1:v]overlay=0:0:format=auto,format=yuv420p[v]"
+        )
+    else:
+        fc = (
+            f"[0:v]scale=1920:1080,eq=saturation='1.22+0.05*sin(2*3.1415*t/2.0)':contrast=1.07:brightness=0.01,"
+            f"zoompan={zp}:d={n}:s=1280x720:fps={FPS}[bg];"
+            f"[bg][1:v]overlay=0:0:format=auto,format=yuv420p[v]"
+        )
     ff("-i", img, "-i", cap_png, "-i", wav, "-filter_complex", fc, "-map", "[v]", "-map", "2:a",
        "-t", f"{dur:.3f}", "-c:v", "libx264", "-preset", "superfast", "-crf", str(crf), "-maxrate", maxrate,
        "-bufsize", "8000k", "-r", str(FPS), "-g", str(FPS * 2), "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-ac", "2", out)
@@ -288,20 +297,21 @@ def _save_jpg(im, out, limit=1_900_000):
             return
 
 
-def thumbnail(img_path, text, out, variant="A"):
+def thumbnail(img_path, text, out, variant="A", size=(720, 1280)):
     """Multi-million-view YouTube Kids style thumbnail:
     - 1.30x Center Zoom into character face
     - Saturated vibrant Pixar lighting
     - Multi-layer 3D sticker text with bold white contour & dark shadow
     - Playful candy framing
     """
+    W, H = size
     raw_im = Image.open(img_path).convert("RGB")
     w_raw, h_raw = raw_im.size
 
     # Zoom in 1.30x so characters appear close-up & expressive on small phone screens
     crop_w, crop_h = int(w_raw * 0.77), int(h_raw * 0.77)
     x0, y0 = (w_raw - crop_w) // 2, (h_raw - crop_h) // 2
-    im = raw_im.crop((x0, y0, x0 + crop_w, y0 + crop_h)).resize((1280, 720), Image.Resampling.LANCZOS)
+    im = raw_im.crop((x0, y0, x0 + crop_w, y0 + crop_h)).resize((W, H), Image.Resampling.LANCZOS)
 
     # Vibrant studio saturation boost
     im = ImageEnhance.Color(im).enhance(1.45)
@@ -313,22 +323,23 @@ def thumbnail(img_path, text, out, variant="A"):
     if len(words) > 3:
         text = " ".join(words[:3])
 
-    font, lines, lh = _fit_text(d, text, 1120, 280)
+    max_box_w = W - 80
+    font, lines, lh = _fit_text(d, text, max_box_w, int(H * 0.28))
     block = len(lines) * lh
 
     if variant == "A":
-        # Variant A: Sunny Golden 3D Text at bottom with gradient contrast bar
-        y = 720 - block - 52
+        # Variant A: Sunny Golden 3D Text near bottom with gradient contrast bar
+        y = H - block - (160 if W < H else 52)
         fill = (255, 235, 15, 255)
         stroke = (25, 10, 40, 255)
         border = (255, 60, 120)
 
         # Soft dark gradient bar at bottom for maximum contrast
-        d.rectangle([0, 720 - block - 85, 1280, 720], fill=(12, 14, 32, 150))
+        d.rectangle([0, y - 30, W, y + block + 30], fill=(12, 14, 32, 160))
     else:
         # Variant B: Glossy Candy Red Ribbon Badge at top
-        y = 44
-        rx0, ry0, rx1, ry1 = 26, y - 14, 1254, y + block + 22
+        y = 60 if W < H else 44
+        rx0, ry0, rx1, ry1 = 20, y - 14, W - 20, y + block + 22
         d.rounded_rectangle([rx0 + 4, ry0 + 6, rx1 + 4, ry1 + 6], radius=38, fill=(0, 0, 0, 110))
         d.rounded_rectangle([rx0, ry0, rx1, ry1], radius=38, fill=(228, 25, 55, 245),
                             outline=(255, 225, 45, 255), width=6)
@@ -338,7 +349,7 @@ def thumbnail(img_path, text, out, variant="A"):
 
     for ln in lines:
         w_text = d.textlength(ln, font=font)
-        x = (1280 - w_text) / 2
+        x = (W - w_text) / 2
 
         # 1. Deep 3D drop shadow (stacked offsets)
         for offset in (8, 6, 4):
@@ -352,5 +363,5 @@ def thumbnail(img_path, text, out, variant="A"):
         y += lh
 
     # Playful border frame
-    d.rectangle([0, 0, 1279, 719], outline=border, width=14)
+    d.rectangle([0, 0, W - 1, H - 1], outline=border, width=14)
     _save_jpg(im, out)
