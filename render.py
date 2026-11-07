@@ -1,6 +1,6 @@
 """Video, Short, caption aur thumbnail banane ka kaam (FFmpeg + Pillow).
-Studio-grade rendering: Dynamic cartoon camera moves, particle & saturation enhancement,
-kids karaoke subtitles, auto-ducked nursery music, and high-CTR thumbnails.
+Studio-grade rendering: Dynamic cartoon camera moves, living animated saturation pulses,
+kids candy karaoke subtitles, auto-ducked nursery music, and high-CTR 3D sticker thumbnails.
 """
 import functools
 import glob
@@ -174,16 +174,16 @@ def caption_png(text, out, size=(1280, 720), lang="hi"):
 
 # ------------------------------------------------------------------------ video
 def _zoom_expr(mode, n):
-    """Dynamic animated camera moves (push, pull, sway, bounce, story pan)."""
+    """Dynamic animated camera moves with gentle cartoon breathing."""
     if mode == 0:
-        # Gentle push-in to focus on characters
-        return f"z='1+0.15*on/{n}':x='(iw-iw/zoom)/2':y='(ih-ih/zoom)/2'"
+        # Character push-in with gentle sway
+        return f"z='1+0.16*on/{n}':x='(iw-iw/zoom)*(0.5+0.04*sin(2*3.1415*on/{n}))':y='(ih-ih/zoom)/2'"
     if mode == 1:
-        # Soft pull-out to reveal wide wonderland
-        return f"z='1.15-0.15*on/{n}':x='(iw-iw/zoom)/2':y='(ih-ih/zoom)/2'"
+        # Soft pull-out reveal
+        return f"z='1.16-0.16*on/{n}':x='(iw-iw/zoom)/2':y='(ih-ih/zoom)/2'"
     if mode == 2:
-        # Playful cartoon sway / gentle bounce
-        return f"z='1.12+0.03*sin(2*3.1415*on/{n})':x='(iw-iw/zoom)*(0.5+0.12*sin(2*3.1415*on/{n}))':y='(ih-ih/zoom)/2'"
+        # Playful cartoon bounce
+        return f"z='1.12+0.04*sin(2*3.1415*on/{n})':x='(iw-iw/zoom)*(0.5+0.12*sin(2*3.1415*on/{n}))':y='(ih-ih/zoom)*(0.5+0.06*sin(4*3.1415*on/{n}))'"
     if mode == 3:
         # Smooth left-to-right character tracking pan
         return f"z='1.14':x='(iw-iw/zoom)*(on/{n})':y='(ih-ih/zoom)/2'"
@@ -191,16 +191,16 @@ def _zoom_expr(mode, n):
         # Smooth right-to-left tracking pan
         return f"z='1.14':x='(iw-iw/zoom)*(1-on/{n})':y='(ih-ih/zoom)/2'"
     # Gentle diagonal drift
-    return f"z='1+0.12*on/{n}':x='(iw-iw/zoom)*(0.2+0.6*on/{n})':y='(ih-ih/zoom)*(0.3+0.4*on/{n})'"
+    return f"z='1+0.14*on/{n}':x='(iw-iw/zoom)*(0.2+0.6*on/{n})':y='(ih-ih/zoom)*(0.3+0.4*on/{n})'"
 
 
 def scene_clip(img, wav, cap_png, dur, idx, out, crf=21, maxrate="4000k"):
     n = max(2, int(round(dur * FPS)))
     zp = _zoom_expr(idx % 6, n)
 
-    # Pixar-style color & saturation grading + zoompan + overlay
+    # Pixar-style color grading + breathing saturation pulse + zoompan + overlay
     fc = (
-        f"[0:v]scale=1920:1080,eq=saturation=1.20:contrast=1.06:brightness=0.01,"
+        f"[0:v]scale=1920:1080,eq=saturation='1.22+0.05*sin(2*3.1415*t/2.0)':contrast=1.07:brightness=0.01,"
         f"zoompan={zp}:d={n}:s=1280x720:fps={FPS}[bg];"
         f"[bg][1:v]overlay=0:0:format=auto,format=yuv420p[v]"
     )
@@ -218,10 +218,10 @@ def concat(clips, out, workdir):
 
 
 def add_music(video, music, out):
-    """Mixes background music with automated vocal ducking."""
-    # Vocals duck BGM to 0.10, swelling slightly when vocals pause
+    """Mixes upbeat background music with automated vocal ducking."""
+    # BGM volume 0.18 for cheerful energy without drowning lyrics
     fc = (
-        "[1:a]volume=0.10[m];"
+        "[1:a]volume=0.18[m];"
         "[0:a][m]amix=inputs=2:duration=first:dropout_transition=0.5[a]"
     )
     ff("-i", video, "-stream_loop", "-1", "-i", music, "-filter_complex", fc,
@@ -268,7 +268,7 @@ def make_preview(master, out, target_mb=34):
 
 
 # --------------------------------------------------------------------- thumbnails
-def _fit_text(draw, text, max_w, max_h, start=160):
+def _fit_text(draw, text, max_w, max_h, start=165):
     fs = start
     while fs > 44:
         font = _font(fs)
@@ -289,46 +289,66 @@ def _save_jpg(im, out, limit=1_900_000):
 
 
 def thumbnail(img_path, text, out, variant="A"):
-    """Studio-grade 1280x720 thumbnail with 3D embossed text and vibrant saturation."""
-    im = Image.open(img_path).convert("RGB").resize((1280, 720))
-    im = ImageEnhance.Color(im).enhance(1.35)
-    im = ImageEnhance.Contrast(im).enhance(1.15)
+    """Multi-million-view YouTube Kids style thumbnail:
+    - 1.30x Center Zoom into character face
+    - Saturated vibrant Pixar lighting
+    - Multi-layer 3D sticker text with bold white contour & dark shadow
+    - Playful candy framing
+    """
+    raw_im = Image.open(img_path).convert("RGB")
+    w_raw, h_raw = raw_im.size
+
+    # Zoom in 1.30x so characters appear close-up & expressive on small phone screens
+    crop_w, crop_h = int(w_raw * 0.77), int(h_raw * 0.77)
+    x0, y0 = (w_raw - crop_w) // 2, (h_raw - crop_h) // 2
+    im = raw_im.crop((x0, y0, x0 + crop_w, y0 + crop_h)).resize((1280, 720), Image.Resampling.LANCZOS)
+
+    # Vibrant studio saturation boost
+    im = ImageEnhance.Color(im).enhance(1.45)
+    im = ImageEnhance.Contrast(im).enhance(1.18)
     d = ImageDraw.Draw(im, "RGBA")
 
-    # Enforce punchy short words for mobile feeds
+    # Enforce punchy 2-3 words for mobile feeds
     words = text.split()
-    if len(words) > 4:
-        text = " ".join(words[:4])
+    if len(words) > 3:
+        text = " ".join(words[:3])
 
-    font, lines, lh = _fit_text(d, text, 1140, 290)
+    font, lines, lh = _fit_text(d, text, 1120, 280)
     block = len(lines) * lh
 
     if variant == "A":
-        # Variant A: Sunny Golden 3D Text with rich berry outline & dark backplate
-        y = 720 - block - 54
-        fill = (255, 230, 20, 255)
-        stroke = (25, 10, 35, 255)
+        # Variant A: Sunny Golden 3D Text at bottom with gradient contrast bar
+        y = 720 - block - 52
+        fill = (255, 235, 15, 255)
+        stroke = (25, 10, 40, 255)
         border = (255, 60, 120)
+
         # Soft dark gradient bar at bottom for maximum contrast
-        d.rectangle([0, 720 - block - 90, 1280, 720], fill=(10, 12, 28, 140))
+        d.rectangle([0, 720 - block - 85, 1280, 720], fill=(12, 14, 32, 150))
     else:
         # Variant B: Glossy Candy Red Ribbon Badge at top
         y = 44
-        rx0, ry0, rx1, ry1 = 28, y - 14, 1252, y + block + 22
-        d.rounded_rectangle([rx0 + 4, ry0 + 6, rx1 + 4, ry1 + 6], radius=38, fill=(0, 0, 0, 100))
-        d.rounded_rectangle([rx0, ry0, rx1, ry1], radius=38, fill=(224, 28, 54, 240),
-                            outline=(255, 220, 40, 255), width=6)
+        rx0, ry0, rx1, ry1 = 26, y - 14, 1254, y + block + 22
+        d.rounded_rectangle([rx0 + 4, ry0 + 6, rx1 + 4, ry1 + 6], radius=38, fill=(0, 0, 0, 110))
+        d.rounded_rectangle([rx0, ry0, rx1, ry1], radius=38, fill=(228, 25, 55, 245),
+                            outline=(255, 225, 45, 255), width=6)
         fill = (255, 255, 255, 255)
-        stroke = (90, 0, 20, 255)
+        stroke = (90, 0, 25, 255)
         border = (255, 215, 0)
 
     for ln in lines:
-        w = d.textlength(ln, font=font)
-        x = (1280 - w) / 2
-        # Deep 3D drop shadow
-        d.text((x + 4, y + 6), ln, font=font, fill=(0, 0, 0, 180), stroke_width=8, stroke_fill=(0, 0, 0, 180))
-        # Crisp punchy foreground text
-        d.text((x, y), ln, font=font, fill=fill, stroke_width=8, stroke_fill=stroke)
+        w_text = d.textlength(ln, font=font)
+        x = (1280 - w_text) / 2
+
+        # 1. Deep 3D drop shadow (stacked offsets)
+        for offset in (8, 6, 4):
+            d.text((x + offset, y + offset), ln, font=font, fill=(0, 0, 0, 190), stroke_width=9, stroke_fill=(0, 0, 0, 190))
+
+        # 2. Bold white sticker contour outline
+        d.text((x, y), ln, font=font, fill=fill, stroke_width=11, stroke_fill=(255, 255, 255, 255))
+
+        # 3. Crisp punchy colored foreground text with dark outline
+        d.text((x, y), ln, font=font, fill=fill, stroke_width=6, stroke_fill=stroke)
         y += lh
 
     # Playful border frame

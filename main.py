@@ -145,6 +145,10 @@ def full_image_prompt(cfg, scene):
 
 def pick_music():
     files = [f for ext in ("mp3", "wav", "m4a", "ogg") for f in glob.glob(f"music/*.{ext}")]
+    if not files:
+        import music_gen
+        music_gen.ensure_nursery_music()
+        files = [f for ext in ("mp3", "wav", "m4a", "ogg") for f in glob.glob(f"music/*.{ext}")]
     return random.choice(files) if files else None
 
 
