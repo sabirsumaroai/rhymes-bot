@@ -66,7 +66,7 @@ CRITICAL TODDLER RETENTION & MUSICALITY RULES:
 - Scene 1 MUST be the catchiest chorus (chorus=true) so the song starts instantly with maximum energy: NO greeting, NO intro, NO "hello friends".
 - 26 to 32 scenes. Each scene = 1-2 short lines (max 10-12 words per line). Verses are 4 lines (2 scenes). The same 2-line chorus returns after every 2 verses with IDENTICAL text and chorus=true.
 - Teach one tiny thing that fits the format (counting, colors, a habit, an animal sound, shapes).
-- "image_prompt": Pixar/Disney-Junior 3D animation style, warm studio lighting, ultra-expressive character faces (wide happy eyes, big playful smile), uncluttered vibrant background, 16:9 composition. Name characters by look, describe cute action and place. Different for every scene. No text, letters or logos in the picture.
+- "image_prompt": Cute 3D cartoon CGI animation style, warm studio lighting, ultra-expressive character faces (wide happy eyes, big playful smile), uncluttered vibrant background, 16:9 composition. Name characters by look, describe cute action and place. Different for every scene. No text, letters or logos in the picture.
 - "thumb_text_hi" / "thumb_text_en": Exactly 2 to 3 punchy, high-curiosity words each for a YouTube thumbnail (e.g. 'जादुई हाथी!', 'MAGIC COLORS!'). DO NOT repeat the full video title.
 - "description": 2 short search-friendly sentences for parents (what kids learn).
 - "tags": 12 relevant search tags (Hindi and English).

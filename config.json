@@ -10,7 +10,7 @@
     "Chintu: a small round orange baby elephant with big sparkly eyes and a blue scarf",
     "Mithu: a tiny green parrot with a yellow tummy and a red cap"
   ],
-  "style_prompt": "Pixar Disney-Junior style 3D animation render for toddlers, ultra-expressive character faces, big friendly sparkly eyes, soft cinematic studio lighting, vibrant cheerful pastel colors, smooth shapes, high quality 4k render, wide 16:9 composition, clean uncluttered background, no text, no letters, no logos, no watermark",
+  "style_prompt": "cute 3D cartoon CGI animation render for toddlers, ultra-expressive character faces, big friendly sparkly eyes, soft cinematic studio lighting, vibrant cheerful pastel colors, smooth shapes, high quality 4k render, wide 16:9 composition, clean uncluttered background, no text, no letters, no logos, no watermark",
   "image_seed": 4242,
 
   "formats": [
@@ -42,7 +42,7 @@
     "Garmi ki chhutti me aam"
   ],
 
-  "gemini_models": ["gemini-2.5-flash-lite", "gemini-2.5-flash", "gemini-3.1-flash-lite"],
+  "gemini_models": ["gemini-3.1-flash-lite", "gemini-2.5-flash-lite", "gemini-2.0-flash", "gemini-1.5-flash"],
   "fallback_llms": [
     { "name": "groq", "base_url": "https://api.groq.com/openai/v1", "model": "llama-3.3-70b-versatile", "key_env": "GROQ_API_KEY" },
     { "name": "openrouter", "base_url": "https://openrouter.ai/api/v1", "model": "meta-llama/llama-3.3-70b-instruct:free", "key_env": "OPENROUTER_API_KEY" }
