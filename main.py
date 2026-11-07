@@ -21,6 +21,7 @@ if "--dry" in sys.argv:
 import delivery  # noqa: E402
 import providers  # noqa: E402
 import render  # noqa: E402
+import sfx  # noqa: E402
 import state as S  # noqa: E402
 from providers import log  # noqa: E402
 
@@ -50,23 +51,24 @@ def build_prompt(cfg, st, topic, fmt):
     fb = read_feedback()
     topic_line = (f"Topic: {topic}" if topic else
                   "Topic: invent a fresh, specific topic yourself that is NOT similar to any title in the avoid list.")
-    return f"""You are a gifted children's songwriter for the Indian YouTube channel "{cfg['channel_name']}" (audience: ages 2-5).
+    return f"""You are a master children's songwriter and animation director for the Indian YouTube channel "{cfg['channel_name']}" (audience: toddlers & preschoolers ages 2-5).
 Write ONE brand-new, 100% ORIGINAL nursery rhyme / kids song.
 
-HARD RULES
-- Completely original lyrics. Never copy, imitate or paraphrase any existing song, rhyme, show, character or channel. No brand names.
+CRITICAL TODDLER RETENTION & MUSICALITY RULES:
+- 100% Original lyrics and melody idea. Never copy or imitate any existing song, show, or brand.
+- High Musicality & Toddler Retention: Use playful rhyming words, singable bouncy rhythm (AABB or ABAB), and joyful sound words ('Chuk chuk', 'Tring tring', 'Dhoom dhadam', 'Twinkle shine', 'Yum yum yum', 'Chirp chirp'). Kids LOVE sounds they can sing and mimic!
 - Gentle, positive, safe for toddlers. Nothing scary, violent or sad.
 - Recurring ORIGINAL characters you may use:
 {chars}
 - {topic_line}
 - Song format: {fmt}
-- Lyrics alternate between simple Hindi (Devanagari script) and simple English. Set "lang" to "hi" or "en" for each scene (the whole scene text must be in that language).
-- Scene 1 MUST be the catchiest chorus (chorus=true) so the song starts instantly: NO greeting, NO intro, NO "hello friends".
-- 26 to 32 scenes. Each scene = 1-2 short lines (max 12 words per line). Verses are 4 lines (2 scenes). The same 2-line chorus returns after every 2 verses with IDENTICAL text and chorus=true.
-- Teach one tiny thing that fits the format (counting, colors, a habit, an animal sound...).
-- "image_prompt": English, ONE simple scene for a cute 3D cartoon picture, name the characters by look (not copyrighted names), describe action and place. Different for every scene. No text, letters or logos in the picture.
-- "thumb_text_hi" / "thumb_text_en": 2-4 punchy words each for a YouTube thumbnail.
-- "description": 2 short friendly sentences in Hinglish for parents (what kids learn).
+- Lyrics alternate between simple sweet Hindi (Devanagari script) and simple English. Set "lang" to "hi" or "en" for each scene (the whole scene text must be in that language).
+- Scene 1 MUST be the catchiest chorus (chorus=true) so the song starts instantly with maximum energy: NO greeting, NO intro, NO "hello friends".
+- 26 to 32 scenes. Each scene = 1-2 short lines (max 10-12 words per line). Verses are 4 lines (2 scenes). The same 2-line chorus returns after every 2 verses with IDENTICAL text and chorus=true.
+- Teach one tiny thing that fits the format (counting, colors, a habit, an animal sound, shapes).
+- "image_prompt": Pixar/Disney-Junior 3D animation style, warm studio lighting, ultra-expressive character faces (wide happy eyes, big playful smile), uncluttered vibrant background, 16:9 composition. Name characters by look, describe cute action and place. Different for every scene. No text, letters or logos in the picture.
+- "thumb_text_hi" / "thumb_text_en": Exactly 2 to 3 punchy, high-curiosity words each for a YouTube thumbnail (e.g. 'जादुई हाथी!', 'MAGIC COLORS!'). DO NOT repeat the full video title.
+- "description": 2 short search-friendly sentences for parents (what kids learn).
 - "tags": 12 relevant search tags (Hindi and English).
 
 CREATOR NOTES (follow these, they come from what worked / did not work before):
@@ -146,11 +148,33 @@ def pick_music():
     return random.choice(files) if files else None
 
 
-def build_meta(cfg, script, vid, notes, short_title):
-    footer = (f"Original rhymes and visuals created with AI tools. Subscribe to {cfg['channel_name']} "
-              "for new kids rhymes!")
-    tagline = " ".join("#" + "".join(ch for ch in t.title() if ch.isalnum()) for t in script["tags"][:4] if t)
-    desc = f"{script['description'].strip()}\n\n{footer}\n\n{tagline}".strip()
+def build_chapters(scenes, seq, cdurs):
+    """YouTube description ke liye automated timestamps (yt-chapters)."""
+    chapters = ["00:00 Sing Along Chorus 🎶"]
+    t = 0.0
+    last_verse_time = 0.0
+    verse_num = 1
+    for scene_idx, dur in zip(seq, cdurs):
+        t += dur
+        if t - last_verse_time >= 48.0 and t < sum(cdurs) - 30:
+            s = scenes[scene_idx]
+            mins = int(t // 60)
+            secs = int(t % 60)
+            first_line = s["text"].split("\n")[0][:28].strip()
+            chapters.append(f"{mins:02d}:{secs:02d} Verse {verse_num}: {first_line}")
+            verse_num += 1
+            last_verse_time = t
+    return "\n".join(chapters)
+
+
+def build_meta(cfg, script, vid, notes, short_title, chapters_text):
+    desc_intro = (f"Welcome to {cfg['channel_name']}! Watch '{script['title_en']}' — a fun, colorful original nursery rhyme "
+                  f"for toddlers and preschoolers.\n{script['description'].strip()}")
+    footer = (f"🌟 Subscribe to {cfg['channel_name']} for daily original Hindi & English nursery rhymes!\n"
+              "✨ 100% Toddler Safe & Early Learning Entertainment.")
+    tagline = " ".join("#" + "".join(ch for ch in t.title() if ch.isalnum()) for t in script["tags"][:5] if t)
+    desc = f"{desc_intro}\n\n⏱️ TIMESTAMPS / CHAPTERS:\n{chapters_text}\n\n{footer}\n\n{tagline}".strip()
+
     tags, total = [], 0
     for t in script["tags"]:
         if total + len(t) + 1 > 450:
@@ -180,7 +204,7 @@ def make_video(cfg, st, script, vid_id, human_audio=None, notes=None):
     scenes = script["scenes"]
     min_s, max_s = cfg["length"]["min_minutes"] * 60, cfg["length"]["max_minutes"] * 60
 
-    # 1) awaaz
+    # 1) awaaz + SFX Foley
     wavs = {}
     if human_audio:
         total = render.duration(human_audio)
@@ -198,11 +222,17 @@ def make_video(cfg, st, script, vid_id, human_audio=None, notes=None):
         seq, total_s = list(range(len(scenes))), total
     else:
         cache, durs, srcs = {}, [], set()
+        sfx.ensure_sfx_catalog()
         for i, s in enumerate(scenes):
             key = (s["text"], s["lang"])
             if key not in cache:
                 p = os.path.join(work, f"tts_{len(cache):03d}.wav")
                 d, src = providers.synthesize(s["text"], s["lang"], p, cfg)
+                # Overlay cute cartoon SFX matching the scene action/mood
+                matched_sfx = sfx.match_sfx_for_scene(s["text"], s.get("image_prompt", ""), chorus=s.get("chorus", False))
+                if matched_sfx:
+                    mixed_p = os.path.join(work, f"foley_{len(cache):03d}.wav")
+                    p = sfx.overlay_sfx_on_audio(p, matched_sfx, mixed_p)
                 cache[key] = (p, d)
                 srcs.add(src)
             wavs[i], d = cache[key]
@@ -229,7 +259,7 @@ def make_video(cfg, st, script, vid_id, human_audio=None, notes=None):
     caps = {}
     for i in set(seq):
         caps[i] = os.path.join(work, f"cap_{i:03d}.png")
-        render.caption_png(scenes[i]["text"], caps[i])
+        render.caption_png(scenes[i]["text"], caps[i], lang=scenes[i]["lang"])
     clips, cdurs, made = [], [], {}
     for i in seq:  # dohraye hue scene ka clip ek hi baar banta hai (time bachta hai)
         if i not in made:
@@ -263,7 +293,8 @@ def make_video(cfg, st, script, vid_id, human_audio=None, notes=None):
     log(f"[qc] ok: {dur / 60:.1f} min, master {os.path.getsize(master) / 1e6:.1f}MB, short {short_len:.0f}s")
 
     short_title = f"{script['title_en']} #Shorts"[:98]
-    meta_text, desc, t1 = build_meta(cfg, script, vid_id, notes, short_title)
+    chapters_text = build_chapters(scenes, seq, cdurs)
+    meta_text, desc, t1 = build_meta(cfg, script, vid_id, notes, short_title, chapters_text)
     with open(os.path.join(out, "meta.txt"), "w", encoding="utf-8") as f:
         f.write(meta_text)
     return {"id": vid_id, "title_en": script["title_en"], "meta_text": meta_text, "dir": out,

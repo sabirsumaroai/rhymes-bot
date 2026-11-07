@@ -10,7 +10,7 @@
     "Chintu: a small round orange baby elephant with big sparkly eyes and a blue scarf",
     "Mithu: a tiny green parrot with a yellow tummy and a red cap"
   ],
-  "style_prompt": "cute colorful 3D cartoon illustration for toddlers, soft studio lighting, bright pastel colors, simple clean background, big friendly eyes, smooth shapes, high quality, wide 16:9 composition, no text, no letters, no logos, no watermark",
+  "style_prompt": "Pixar Disney-Junior style 3D animation render for toddlers, ultra-expressive character faces, big friendly sparkly eyes, soft cinematic studio lighting, vibrant cheerful pastel colors, smooth shapes, high quality 4k render, wide 16:9 composition, clean uncluttered background, no text, no letters, no logos, no watermark",
   "image_seed": 4242,
 
   "formats": [
@@ -50,8 +50,8 @@
 
   "tts": {
     "voices": { "hi": "hi-IN-SwaraNeural", "en": "en-IN-NeerjaNeural" },
-    "rate": "-8%",
-    "pitch": "+6Hz",
+    "rate": "-4%",
+    "pitch": "+8Hz",
     "gtts_tld": "co.in"
   },
 

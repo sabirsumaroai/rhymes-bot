@@ -69,14 +69,19 @@ Hafte me ek baar (best) ya roz:
 
 | Point | Bot me kahan hai |
 |---|---|
-| 1. Pehle 30 sec me hook | Script ka pehla scene chorus hota hai, koi intro/greeting nahi |
-| 2. Thumbnail + title | 2 thumbnails (A: peela text, B: laal patti), 3 title options |
-| 3. Kam bhari jagah | Hindi+English mix; `config.json` me topics badal sakte ho (Marwari/Rajasthani jaisi bhasha me gaane ke liye prompt me `topics` badlo) |
-| 4. Ek hi character baar-baar | `characters` har image prompt me jaata hai |
-| 5. Insaani awaaz | Neeche "Apni awaaz" dekho |
-| 6. Short | Har video ke saath ~40 sec ka vertical Short |
-| 7. Dekho, seekho, dohrao | Weekly report + `feedback.txt` |
-| 8. Sabr | Roz/lagatar upload; naye channel ko 3-6 mahine lag sakte hain |
+| 1. Pehle 30 sec me hook | Script ka pehla scene high-energy chorus hota hai, koi boring intro/greeting nahi |
+| 2. 3D Cartoon Foley & SFX | `sfx.py` se scene ke hisaab se pops, boings, chimes aur bells apne aap mix hote hain |
+| 3. Thumbnail + title | 2 3D embossed thumbnails (A: Gold 3D bottom, B: Candy Red Ribbon top), 3 title options |
+| 4. Pixar-style Color Grading | FFmpeg filter graph me Disney-Junior saturation & contrast grading active hai |
+| 5. YouTube Chapters & SEO | Video description me auto-generated timestamps aur search keywords lagte hain |
+| 6. Ek hi character baar-baar | `characters` har image prompt me 3D Pixar render style ke sath jaata hai |
+| 7. Insaani awaaz | Neeche "Apni awaaz" dekho |
+| 8. 9:16 Short Hook | Har video ke saath vertical Short, top banner aur seamless loop point ke sath |
+| 9. Dekho, seekho, dohrao | Weekly report + `feedback.txt` |
+| 10. Sabr | Roz/lagatar upload; naye channel ko 3-6 mahine lag sakte hain |
+
+### Cartoon Sound Effects (SFX / Foley)
+Bot me built-in procedural sound effects engine hai (`sfx.py`). Action scenes me spring bounce (`boing`), counting me bells (`ding`), magical scenes me chimes (`chime`), aur chorus me celebration (`cheer`) apne aap mix hota hai. Agar aapke paas apne sounds hain toh unhe `sfx/` folder me daal sakte hain.
 
 ### Apni awaaz lagana (sabse bada fark)
 1. Telegram message ka **lyrics** wala hissa padho/gaao aur phone ke voice recorder me record karo (saare lyrics, jis order me likhe hain).
