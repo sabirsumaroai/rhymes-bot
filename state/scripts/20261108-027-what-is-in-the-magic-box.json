@@ -1,0 +1,73 @@
+{
+ "id": "20261108-027-what-is-in-the-magic-box",
+ "topic": "The Mystery Magic Box (Arrey! Magic box me kya chhupa hai?)",
+ "format": "bouncy sensory sound rhyme (clap, pop, boing, freeze!)",
+ "title_hi": "जादुई डिब्बा में क्या है?",
+ "title_en": "What is in the Magic Box?",
+ "thumb_text_hi": "जादुई डिब्बा!",
+ "thumb_text_en": "MAGIC BOX!",
+ "description": "Chintu and Mithu find a mysterious box! Join the fun in this colorful surprise reveal perfect for toddlers.",
+ "tags": [
+  "RangeelaRhymes",
+  "KidsShorts",
+  "MagicBox",
+  "NurseryRhymes",
+  "HindiKids",
+  "CartoonForKids",
+  "ChintuAndMithu",
+  "SurpriseToy",
+  "ToddlerLearning",
+  "AnimatedShorts"
+ ],
+ "learning": "Encourages curiosity and sensory vocabulary through interactive sounds and rhythm.",
+ "scenes": [
+  {
+   "text": "Arrey! Magic box me kya chhupa hai?!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D CGI, Chintu the round orange baby elephant looking curiously at a shimmering glowing wooden box in a colorful playroom, wide-eyed excitement."
+  },
+  {
+   "text": "Chintu, jaldi dekho, tap tap tap!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D CGI, Chintu using his trunk to gently tap the box lid, blue scarf fluttering, vibrant nursery background."
+  },
+  {
+   "text": "Mithu, udo aur pop pop pop!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D CGI, Mithu the tiny green parrot with a red cap flapping wings around the box, joyful expression, air filled with colorful sparkles."
+  },
+  {
+   "text": "One, two, three, kholo isse!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D CGI, Chintu and Mithu standing together in front of the box, hands and wings held up in anticipation, bright lighting."
+  },
+  {
+   "text": "Boing! Surprise, naya toy mila!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D CGI, The box lid popping open, a shiny bouncing ball flying out, Chintu and Mithu jumping with pure joy."
+  },
+  {
+   "text": "Dance karo, freeze ho jao!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D CGI, Chintu and Mithu frozen in a funny dance pose, playful vibrant atmosphere, clear textures."
+  },
+  {
+   "text": "Haha! Kitna maza aaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D CGI, Close up of Chintu and Mithu laughing together, big happy smiles, sparkling eyes, high quality textures."
+  },
+  {
+   "text": "Ruko! Magic box me phir se dekho...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D CGI, Chintu pointing back at the closed magic box, high curiosity look, soft bokeh background."
+  }
+ ]
+}
