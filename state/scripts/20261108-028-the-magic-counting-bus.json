@@ -1,0 +1,73 @@
+{
+ "id": "20261108-028-the-magic-counting-bus",
+ "topic": "The Counting Bus Ride",
+ "format": "Counting/Action",
+ "title_hi": "रंगीला बस का मज़ा",
+ "title_en": "The Magic Counting Bus",
+ "thumb_text_hi": "जादुई बस!",
+ "thumb_text_en": "MAGIC BUS!",
+ "description": "Chintu the elephant and Mithu the parrot go on a fun counting bus ride. Join this musical journey for preschoolers! #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "RangeelaRhymes",
+  "KidsShorts",
+  "CountingForKids",
+  "ChintuAndMithu",
+  "ToddlerLearning",
+  "EducationalCartoons",
+  "HindiKidsRhymes",
+  "FunLearning",
+  "CountingBus",
+  "PreschoolMusic"
+ ],
+ "learning": "Basic counting from 1 to 5 with high-energy rhythm and character interaction.",
+ "scenes": [
+  {
+   "text": "Arrey! Magic bus me kaun baitha hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D cute orange baby elephant Chintu with blue scarf looking at a colorful magic bus, bright sunshine, cinematic lighting, vertical 9:16."
+  },
+  {
+   "text": "Look! One yellow bus is coming, Zoom Zoom!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A happy yellow cartoon bus driving on a winding road, vibrant flowers in background, 3D CGI style, vertical 9:16."
+  },
+  {
+   "text": "Ek, do, teen! Mithu parrot udkar aaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Tiny green parrot Mithu with a red cap flying towards the bus window, laughing, high energy, vertical 9:16."
+  },
+  {
+   "text": "Four friends hop in, Boing boing jump!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Four cute animal friends hopping into the open bus door, bright colors, 3D character animation, vertical 9:16."
+  },
+  {
+   "text": "Paanch dost baithe, Chalo ab chalein!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu the elephant sitting inside the bus waving hands, five passengers total, happy expressive faces, vertical 9:16."
+  },
+  {
+   "text": "Honk honk! The bus goes fast, Vroom!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up of the bus steering wheel with sparkles, Chintu holding the wheel, motion blur effect, vertical 9:16."
+  },
+  {
+   "text": "Sab milkar gaao, Ha ha hi hi!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu laughing together inside the bus, colorful balloons floating, joyful atmosphere, vertical 9:16."
+  },
+  {
+   "text": "Ruko! Magic bus me phir se dekho...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The magic bus turning a corner back towards the screen, curious expression on Chintu, high quality 3D render, vertical 9:16."
+  }
+ ]
+}
