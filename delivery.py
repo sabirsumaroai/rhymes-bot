@@ -102,13 +102,6 @@ def prune_releases(keep_days):
 # ---------------------------------------------------------------------- Telegram
 def send_package(v, urls):
     """v: dict (title, meta_text, thumbs, preview). Telegram par sab bhejta hai. Kuch fail ho to baaki chalta rehta hai."""
-    # SAFE LOCK: Creator instruction - Do not push videos to Telegram during trial testing
-    # unless TELEGRAM_ENABLE_PUSH env var is explicitly set to '1' or 'true'.
-    enable_push = os.getenv("TELEGRAM_ENABLE_PUSH", "0").lower() in ("1", "true", "yes")
-    if not enable_push:
-        log("[tg] Safe Lock ACTIVE: Telegram automatic push is paused per creator request. Videos saved locally.")
-        return True
-
     ok = False
     for label, path in (("A", v["thumb_a"]), ("B", v["thumb_b"])):
         try:
