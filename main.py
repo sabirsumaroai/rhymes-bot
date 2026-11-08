@@ -240,6 +240,49 @@ def make_video(cfg, st, script, vid_id, human_audio=None, notes=None):
     min_s = cfg.get("short_length", {}).get("min_seconds", 24) if is_short else cfg["length"]["min_minutes"] * 60
     max_s = cfg.get("short_length", {}).get("max_seconds", 35) if is_short else cfg["length"]["max_minutes"] * 60
 
+    # 1) HyperFrames integration for 1080x1920 code-animated Short
+    if is_short and (shutil.which("npx") or shutil.which("hyperframes")):
+        try:
+            import hf_engine
+            log("[hf] Rendering 30s Short via HyperFrames code animation engine...")
+            target_dur = float(cfg.get("short_target_seconds", 30.0))
+            hf_proj = os.path.join(work, "hf_project")
+            master_audio = os.path.join(work, "master_audio.mp3")
+            master = os.path.join(out, "master.mp4")
+
+            # Step 1: Audio with Foley & Voice
+            hf_engine.build_master_audio(script, master_audio, work, duration_sec=target_dur)
+            # Step 2: Build HyperFrames Project
+            hf_engine.build_hyperframes_project(hf_proj, script, master_audio, duration_sec=target_dur)
+            # Step 3: Render HyperFrames MP4 (1080x1920)
+            hf_engine.render_hyperframes_video(hf_proj, master, fps=30)
+
+            # Step 4: Thumbnails & files
+            short = os.path.join(out, "short.mp4")
+            shutil.copy(master, short)
+            preview = os.path.join(out, "preview.mp4")
+            shutil.copy(master, preview)
+            thumb_a = os.path.join(out, "thumb_a.jpg")
+            thumb_b = os.path.join(out, "thumb_b.jpg")
+            hf_engine.extract_thumbnails(master, thumb_a, thumb_b,
+                                        text_hi=script.get("thumb_text_hi", "जादुई बस!"),
+                                        text_en=script.get("thumb_text_en", "MAGIC BUS!"))
+
+            short_title = f"{script['title_en']} #Shorts"[:98]
+            chapters_text = "00:00 Magic Bus & Chintu Elephant 🐘✨\n00:15 Counting 1-2-3 🎵\n00:25 Next Friend Hook 🌟"
+            meta_text, desc, t1 = build_meta(cfg, script, vid_id, notes, short_title, chapters_text)
+            with open(os.path.join(out, "meta.txt"), "w", encoding="utf-8") as f:
+                f.write(meta_text)
+
+            dur = render.duration(master)
+            log(f"[qc] HyperFrames Short OK: {dur:.1f}s, size {os.path.getsize(master) / 1e6:.1f}MB")
+            return {"id": vid_id, "title_en": script["title_en"], "meta_text": meta_text, "dir": out,
+                    "master": master, "short": short, "preview": preview,
+                    "thumb_a": thumb_a, "thumb_b": thumb_b,
+                    "work": work}
+        except Exception as e:
+            log(f"[hf] HyperFrames render failed ({e}), falling back to standard pipeline")
+
     # 1) awaaz + SFX Foley
     wavs = {}
     if human_audio:
