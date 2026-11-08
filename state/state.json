@@ -27,7 +27,8 @@
   "Who said Meow Meow? Funny Magic Box Surprise!",
   "Where did the dancing star go?",
   "What is in the Magic Box?",
-  "The Magic Counting Bus"
+  "The Magic Counting Bus",
+  "Chintu's Magic Umbrella!"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -57,13 +58,10 @@
   "Kaun bola Meow Meow (Guess the funny animal)",
   "Catch the Dancing Star (Taara nacha aasmaan me)",
   "The Mystery Magic Box (Arrey! Magic box me kya chhupa hai?)",
-  "The Counting Bus Ride"
+  "The Counting Bus Ride",
+  "Mr. Elephant’s Big Umbrella"
  ],
  "ideas": [
-  {
-   "topic": "Mr. Elephant’s Big Umbrella",
-   "format": "Story/Color identification"
-  },
   {
    "topic": "Brush Your Teeth with Zoom-Zoom",
    "format": "Habit/Music"
@@ -86,8 +84,8 @@
   }
  ],
  "missed": 0,
- "runs": 27,
- "last_run": "2026-11-08T07:46:22+00:00",
+ "runs": 28,
+ "last_run": "2026-11-08T09:53:15+00:00",
  "voiced": [],
- "counter": 28
+ "counter": 29
 }

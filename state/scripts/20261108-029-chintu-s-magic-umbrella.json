@@ -1,0 +1,73 @@
+{
+ "id": "20261108-029-chintu-s-magic-umbrella",
+ "topic": "Mr. Elephant’s Big Umbrella",
+ "format": "Story/Color identification",
+ "title_hi": "चिंटू का जादुई छाता!",
+ "title_en": "Chintu's Magic Umbrella!",
+ "thumb_text_hi": "जादुई छाता!",
+ "thumb_text_en": "MAGIC UMBRELLA!",
+ "description": "Join Chintu the elephant and Mithu the parrot as they discover a magical surprise under a colorful umbrella. A fun and vibrant learning video for toddlers to enjoy! #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Shorts",
+  "Toddler Learning",
+  "Chintu Elephant",
+  "Magic Umbrella",
+  "Nursery Rhymes",
+  "Preschool Fun",
+  "Hindi Rhymes",
+  "Educational Cartoons",
+  "3D Animation"
+ ],
+ "learning": "Color identification and excitement building",
+ "scenes": [
+  {
+   "text": "Arrey! Chintu ke umbrella ke neeche kya hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D render, Chintu the orange baby elephant with blue scarf looking surprised at a large vibrant red closed umbrella, cute forest background, soft sunlight."
+  },
+  {
+   "text": "Mithu, jaldi bolo, one, two, three!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D render, Mithu the green parrot with a red cap flapping wings excitedly above Chintu, both staring at the umbrella."
+  },
+  {
+   "text": "Abracadabra! Magic umbrella khul gaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D render, The red umbrella springing open with golden sparkles floating in the air, Chintu and Mithu look amazed."
+  },
+  {
+   "text": "Look! Bright yellow bubbles everywhere!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D render, Hundreds of glowing yellow bubbles floating out from under the umbrella, Chintu trying to pop them with his trunk."
+  },
+  {
+   "text": "Pop! Pop! Kitne saare bubbles!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D render, Chintu laughing while popping bubbles, Mithu riding on top of the umbrella handle, bright and joyful colors."
+  },
+  {
+   "text": "Dhoom macha ke, dance karo mere saath!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D render, Chintu doing a happy elephant dance, wiggling his ears, Mithu dancing mid-air, confetti raining down."
+  },
+  {
+   "text": "Yay! Magic umbrella is so much fun!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D render, Chintu and Mithu hugging, big joyful smiles, camera close-up on their happy faces, vibrant aesthetic."
+  },
+  {
+   "text": "Ruko! Umbrella ke neeche phir se dekho...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D render, Chintu slowly closing the umbrella while winking at the camera, mystery atmosphere, seamless loop transition style."
+  }
+ ]
+}
