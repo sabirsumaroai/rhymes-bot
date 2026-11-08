@@ -57,7 +57,36 @@
   "Catch the Dancing Star (Taara nacha aasmaan me)",
   "The Mystery Magic Box (Arrey! Magic box me kya chhupa hai?)"
  ],
- "ideas": [],
+ "ideas": [
+  {
+   "topic": "The Counting Bus Ride",
+   "format": "Counting/Action"
+  },
+  {
+   "topic": "Mr. Elephant’s Big Umbrella",
+   "format": "Story/Color identification"
+  },
+  {
+   "topic": "Brush Your Teeth with Zoom-Zoom",
+   "format": "Habit/Music"
+  },
+  {
+   "topic": "The Tiny Caterpillar’s Snack Time",
+   "format": "Education/Nutrition"
+  },
+  {
+   "topic": "Mirror Mirror, Copy Me!",
+   "format": "Action/Physical play"
+  },
+  {
+   "topic": "Where is My Left Shoe?",
+   "format": "Problem solving/Song"
+  },
+  {
+   "topic": "Moonlight Blanket Lullaby",
+   "format": "Lullaby"
+  }
+ ],
  "missed": 0,
  "runs": 26,
  "last_run": "2026-11-08T03:22:05+00:00",
