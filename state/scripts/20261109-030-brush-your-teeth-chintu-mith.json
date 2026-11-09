@@ -1,0 +1,73 @@
+{
+ "id": "20261109-030-brush-your-teeth-chintu-mith",
+ "topic": "Brush Your Teeth with Zoom-Zoom",
+ "format": "Habit/Music",
+ "title_hi": "दांत चमकाओ! - Chintu aur Mithu",
+ "title_en": "Brush Your Teeth - Chintu & Mithu",
+ "thumb_text_hi": "जादुई ब्रश!",
+ "thumb_text_en": "MAGIC BRUSH!",
+ "description": "Chintu and Mithu show how to brush teeth with the Zoom-Zoom song. Perfect for teaching toddlers healthy habits! #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "kids",
+  "toddlers",
+  "nursery rhymes",
+  "brushing teeth",
+  "healthy habits",
+  "animation",
+  "rangeela rhymes",
+  "hindi kids songs",
+  "educational",
+  "preschool"
+ ],
+ "learning": "Developing the habit of brushing teeth daily through a fun, rhythmic song.",
+ "scenes": [
+  {
+   "text": "Arrey! Chintu ke haath mein kya hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D round orange baby elephant Chintu holding a colorful toothbrush, sparkly eyes, vibrant background, high quality CGI render."
+  },
+  {
+   "text": "Zoom-zoom, brush go fast!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Mithu the green parrot with red cap flying around Chintu, motion lines showing speed, joyful atmosphere, cute 3D style."
+  },
+  {
+   "text": "Upar-neeche, let's brush past!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu elephant brushing teeth with big smile, soap bubbles floating in the air, 3D colorful bathroom set."
+  },
+  {
+   "text": "Golo-golo, round and round!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, close up of Chintu making circular brushing motion on teeth, funny expressions, 3D rendered sparkles."
+  },
+  {
+   "text": "Saare keetaanu bhagao, sound!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, grumpy germs running away from Chintu's toothbrush, bright and fun colors, toddler friendly 3D aesthetic."
+  },
+  {
+   "text": "Tap tap, smile so bright!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu and Mithu posing together, teeth shining with a magical twinkle, high energy celebration."
+  },
+  {
+   "text": "Haha, kitne chamakdar daant!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu and Mithu hugging, laughing, clean white teeth, confetti falling, vibrant celebratory mood."
+  },
+  {
+   "text": "Ruko! Zoom-zoom phir se dekho!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu looking directly into the camera lens with a curious face, pointing at the toothbrush, cinematic lighting."
+  }
+ ]
+}
