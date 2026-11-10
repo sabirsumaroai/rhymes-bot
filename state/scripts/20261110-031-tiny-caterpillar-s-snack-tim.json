@@ -1,0 +1,73 @@
+{
+ "id": "20261110-031-tiny-caterpillar-s-snack-tim",
+ "topic": "The Tiny Caterpillar’s Snack Time",
+ "format": "Education/Nutrition",
+ "title_hi": "प्यारी इल्ली का नाश्ता",
+ "title_en": "Tiny Caterpillar's Snack Time",
+ "thumb_text_hi": "जादुई पत्ता!",
+ "thumb_text_en": "MAGIC LEAF!",
+ "description": "Join Chintu and Mithu as they discover a hungry little caterpillar eating healthy snacks. A fun educational rhyme for preschoolers to learn about nature and food. #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "KidsSongs",
+  "NurseryRhymes",
+  "HindiRhymes",
+  "PreschoolLearning",
+  "RangeelaRhymes",
+  "CaterpillarStory",
+  "HealthySnacks",
+  "3DAnimation",
+  "ToddlerEducation",
+  "CuteCartoons"
+ ],
+ "learning": "Early introduction to nature, healthy eating, and counting to three.",
+ "scenes": [
+  {
+   "text": "Arrey! Is patte ke peeche kya chhupa hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close-up of a vibrant green leaf in a lush garden, bright 3D cartoon style, soft morning lighting, mysterious atmosphere, bokeh background."
+  },
+  {
+   "text": "Look! A tiny caterpillar, munch munch munch!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A cute, bright green tiny caterpillar with big expressive eyes eating a small hole in a green leaf, 3D CGI animation, high detail."
+  },
+  {
+   "text": "Chintu, dekho! Yeh toh bahut bhookhi hai!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu the round orange elephant with a blue scarf pointing his trunk excitedly at the caterpillar, smiling face, 3D render."
+  },
+  {
+   "text": "Mithu says, let's feed her healthy snacks!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the tiny green parrot with a red cap flapping wings happily near a juicy apple slice, 3D CGI animation, colorful garden setting."
+  },
+  {
+   "text": "One, two, three, yum yum yum!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The caterpillar happily eating a slice of green apple, confetti style sparkles around, vibrant colors, 3D character design."
+  },
+  {
+   "text": "Wah! Iska pet toh bhar gaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The caterpillar now chubby and happy, resting on the leaf with a satisfied belly, Chintu and Mithu watching and cheering."
+  },
+  {
+   "text": "Happy, happy caterpillar, big giggle!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The caterpillar wiggling and laughing, Chintu and Mithu dancing in the background, joyful atmosphere, high saturation, 3D render."
+  },
+  {
+   "text": "Ruko! Magic leaf ke peeche phir se dekho!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close-up on a large green leaf curled slightly at the edge, mysterious shadows, high curiosity composition, ready for loop."
+  }
+ ]
+}
