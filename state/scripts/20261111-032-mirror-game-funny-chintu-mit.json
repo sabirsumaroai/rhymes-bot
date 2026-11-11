@@ -1,0 +1,73 @@
+{
+ "id": "20261111-032-mirror-game-funny-chintu-mit",
+ "topic": "Mirror Mirror, Copy Me!",
+ "format": "Action/Physical play",
+ "title_hi": "मिरर गेम! नटखट चिंटू और मिठू",
+ "title_en": "Mirror Game! Funny Chintu & Mithu",
+ "thumb_text_hi": "नकलची दोस्त!",
+ "thumb_text_en": "Copycat Game!",
+ "description": "Chintu the baby elephant and Mithu the parrot play a fun mirror game for toddlers. Learn to copy moves and dance along with Rangeela Rhymes! #Shorts #KidsRhymes #Cartoon #Preschool",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Shorts",
+  "Toddler Learning",
+  "Chintu Elephant",
+  "Mirror Game",
+  "Preschool Fun",
+  "Nursery Rhymes",
+  "Funny Animation",
+  "Kids Dance",
+  "Interactive Play"
+ ],
+ "learning": "Imitation and motor skill development through interactive mirror play.",
+ "scenes": [
+  {
+   "text": "अरे! ये आइना किसका है, who is standing here?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D Chintu the orange elephant standing in front of a shiny magical mirror in a colorful playroom, sparkly eyes, high quality CGI."
+  },
+  {
+   "text": "Chintu raises his trunk, up and down, wave wave!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu the orange elephant with a blue scarf waving his trunk happily, bright sunny nursery background, 3D style."
+  },
+  {
+   "text": "मिठू ने भी पंख हिलाए, flap flap flap!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Mithu the tiny green parrot with a red cap flapping wings excitedly, close up, vibrant colors, 3D CGI."
+  },
+  {
+   "text": "Now jump, jump, jump, chhota sa hop!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu and Mithu jumping together in the air, joyous expressions, dynamic motion blur, bright playroom setting."
+  },
+  {
+   "text": "हाथ घुमाओ, गोल गोल, spin spin spin!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu spinning around with his trunk curled, motion lines, high energy, preschool CGI style."
+  },
+  {
+   "text": "Big wide smile, giggle and clap, clap, clap!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, close up on Chintu and Mithu laughing and clapping, eyes full of wonder, soft lighting, 3D character design."
+  },
+  {
+   "text": "Wah! Hum toh bilkul match karte hain!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu and Mithu hugging each other happily, celebratory atmosphere, confetti background, 3D render."
+  },
+  {
+   "text": "Ruko! Mirror game phir se shuru karte hain!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu pointing his trunk at the camera playfully, transition blur effect, bright and inviting."
+  }
+ ]
+}
