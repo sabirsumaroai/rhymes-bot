@@ -31,7 +31,8 @@
   "Chintu's Magic Umbrella!",
   "Brush Your Teeth - Chintu & Mithu",
   "Tiny Caterpillar's Snack Time",
-  "Mirror Game! Funny Chintu & Mithu"
+  "Mirror Game! Funny Chintu & Mithu",
+  "Chintu's Missing Shoe"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -65,21 +66,18 @@
   "Mr. Elephant’s Big Umbrella",
   "Brush Your Teeth with Zoom-Zoom",
   "The Tiny Caterpillar’s Snack Time",
-  "Mirror Mirror, Copy Me!"
+  "Mirror Mirror, Copy Me!",
+  "Where is My Left Shoe?"
  ],
  "ideas": [
-  {
-   "topic": "Where is My Left Shoe?",
-   "format": "Problem solving/Song"
-  },
   {
    "topic": "Moonlight Blanket Lullaby",
    "format": "Lullaby"
   }
  ],
  "missed": 0,
- "runs": 31,
- "last_run": "2026-11-11T03:19:10+00:00",
+ "runs": 32,
+ "last_run": "2026-11-12T03:18:32+00:00",
  "voiced": [],
- "counter": 32
+ "counter": 33
 }

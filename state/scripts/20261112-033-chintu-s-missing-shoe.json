@@ -1,0 +1,73 @@
+{
+ "id": "20261112-033-chintu-s-missing-shoe",
+ "topic": "Where is My Left Shoe?",
+ "format": "Problem solving/Song",
+ "title_hi": "चिंटू का खोया जूता",
+ "title_en": "Chintu's Missing Shoe",
+ "thumb_text_hi": "जूता कहाँ गया?",
+ "thumb_text_en": "Where is it?",
+ "description": "Chintu the elephant is looking for his missing shoe in this fun, interactive kids song! Join Chintu and Mithu for a playful learning adventure. #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "KidsShorts",
+  "RangeelaRhymes",
+  "ToddlerLearning",
+  "ChintuElephant",
+  "NurseryRhymes",
+  "FunnyKids",
+  "HindiRhymes",
+  "PreschoolAnimation",
+  "MissingShoe",
+  "EducationalFun"
+ ],
+ "learning": "Problem solving and spatial awareness for preschoolers.",
+ "scenes": [
+  {
+   "text": "Arrey! Chintu ka left shoe kahan gaya?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close-up 3D render of Chintu the orange baby elephant with a blue scarf looking confused at his bare foot, bright sunny background, vertical 9:16, high quality CGI."
+  },
+  {
+   "text": "Mithu, help me find it, quick, quick, quick!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the green parrot with a red cap flying excitedly around Chintu, indoor playroom setting, colorful toys scattered, 3D animation style."
+  },
+  {
+   "text": "Bed ke neeche dekho, tap tap tap!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu looking under a colorful wooden bed, only his round bottom visible, funny perspective, vibrant room colors."
+  },
+  {
+   "text": "Not here, not there, hop hop hop!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu jumping over a pile of blocks, looking joyful, Mithu pointing a wing towards a pile of books."
+  },
+  {
+   "text": "Aha! Toy box ke peeche, peek-a-boo!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu pulling his blue shoe out from behind a large colorful toy box, wide grin, sparkling eyes."
+  },
+  {
+   "text": "Yay! Chintu ne pehna apna shoe!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu wearing his shiny shoe, doing a happy dance, confetti falling, bright lighting."
+  },
+  {
+   "text": "Chintu and Mithu are dancing with joy, haha!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu high-fiving, big celebratory expressions, colorful garden background, super cute 3D render."
+  },
+  {
+   "text": "Ruko! Ek aur shoe kho gaya, phir se dekho!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu looking back at the camera with a surprised face, one foot up, looping transition style, clean background."
+  }
+ ]
+}
