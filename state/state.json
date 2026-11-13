@@ -32,7 +32,8 @@
   "Brush Your Teeth - Chintu & Mithu",
   "Tiny Caterpillar's Snack Time",
   "Mirror Game! Funny Chintu & Mithu",
-  "Chintu's Missing Shoe"
+  "Chintu's Missing Shoe",
+  "Moonlight Magic Blanket Lullaby"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -67,17 +68,13 @@
   "Brush Your Teeth with Zoom-Zoom",
   "The Tiny Caterpillar’s Snack Time",
   "Mirror Mirror, Copy Me!",
-  "Where is My Left Shoe?"
+  "Where is My Left Shoe?",
+  "Moonlight Blanket Lullaby"
  ],
- "ideas": [
-  {
-   "topic": "Moonlight Blanket Lullaby",
-   "format": "Lullaby"
-  }
- ],
+ "ideas": [],
  "missed": 0,
- "runs": 32,
- "last_run": "2026-11-12T03:18:32+00:00",
+ "runs": 33,
+ "last_run": "2026-11-13T03:16:52+00:00",
  "voiced": [],
- "counter": 33
+ "counter": 34
 }

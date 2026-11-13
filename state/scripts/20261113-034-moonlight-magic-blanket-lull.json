@@ -1,0 +1,73 @@
+{
+ "id": "20261113-034-moonlight-magic-blanket-lull",
+ "topic": "Moonlight Blanket Lullaby",
+ "format": "Lullaby",
+ "title_hi": "चाँद की जादुई चादर",
+ "title_en": "Moonlight Magic Blanket Lullaby",
+ "thumb_text_hi": "जादुई चादर!",
+ "thumb_text_en": "MAGIC BLANKET!",
+ "description": "Chintu the elephant and Mithu the parrot find a magical glowing blanket. Join them for a soothing moonlight lullaby adventure!",
+ "tags": [
+  "KidsRhymes",
+  "Shorts",
+  "Lullaby",
+  "BedtimeStories",
+  "CuteAnimation",
+  "RangeelaRhymes",
+  "ToddlerSongs",
+  "MoonlightMagic",
+  "ChintuAndMithu",
+  "CartoonForKids"
+ ],
+ "learning": "Encouraging nighttime routine and calmness through rhythmic Hindi-English storytelling.",
+ "scenes": [
+  {
+   "text": "अरे! ये चमकती हुई चादर किसकी है?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, a mysterious glowing silver blanket floating in a night garden, sparkling dust particles, soft bokeh moonlight, cute whimsical style."
+  },
+  {
+   "text": "Look! It is so soft and cozy!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu the orange baby elephant with blue scarf reaching out with his trunk to touch the shimmering silver blanket, starry night background."
+  },
+  {
+   "text": "धीरे से छुओ, tap, tap, tap!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Mithu the tiny green parrot with red cap landing softly on the blanket, glowing stars popping up around them, joyful expression."
+  },
+  {
+   "text": "Wrap it around, hug, hug, hug!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu and Mithu snuggled together under the glowing magical blanket, very cozy and warm, soft moonbeams illuminating their faces."
+  },
+  {
+   "text": "चाँद मामा आए, झूम झूम झूम!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu and Mithu floating slightly in the air under the blanket, the blanket turning into a soft night sky pattern, whimsical animation."
+  },
+  {
+   "text": "Twinkle, sparkle, sleep, sleep, sleep!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu closing his big sparkly eyes in delight, Mithu tucking his head under his wing, the blanket glowing with gentle golden light."
+  },
+  {
+   "text": "कितनी प्यारी लोरी, giggle giggle!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu and Mithu laughing happily in their sleep under the blanket, moonlight reflections on their faces, ultra cute."
+  },
+  {
+   "text": "Ruko! Magic blanket phir se dekho...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, the blanket starts folding itself into a neat square shape again, inviting the viewer to touch it, glowing mystery aesthetic."
+  }
+ ]
+}
