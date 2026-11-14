@@ -1,0 +1,73 @@
+{
+ "id": "20261114-035-chintu-s-magic-surprise",
+ "topic": "Chintu ka chhota surprise (Tap tap tap karo)",
+ "format": "bouncy sensory sound rhyme (clap, pop, boing, freeze!)",
+ "title_hi": "चिंटू का जादुई सरप्राइज!",
+ "title_en": "Chintu's Magic Surprise!",
+ "thumb_text_hi": "जादुई डिब्बा!",
+ "thumb_text_en": "MAGIC BOX!",
+ "description": "Join Chintu and Mithu for a fun, bouncy surprise reveal in this colorful kids' rhyme. Perfect for toddlers and preschoolers to dance along!",
+ "tags": [
+  "KidsRhymes",
+  "Shorts",
+  "ChintuElephant",
+  "MithuParrot",
+  "ToddlerFun",
+  "NurseryRhymes",
+  "MagicBox",
+  "AnimatedKids",
+  "RangeelaRhymes",
+  "PreschoolLearning"
+ ],
+ "learning": "Teaches sensory anticipation, counting, and simple interactive Hindi-English vocabulary.",
+ "scenes": [
+  {
+   "text": "Arrey! Is magic box mein kya chhupa hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D cartoon CGI, small round orange baby elephant Chintu with blue scarf looking curiously at a sparkling floating wooden box, vibrant meadow background, 9:16 portrait."
+  },
+  {
+   "text": "Tap tap tap, chalo milke karte hain knock!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu the elephant using his trunk to tap on the glowing box, Mithu the green parrot with a red cap hovering excitedly nearby, bright sunny day."
+  },
+  {
+   "text": "One, two, three, ab dekho surprise!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Close up on the box lid starting to pop open with golden sparkles floating out, Chintu and Mithu leaning in with big wide sparkly eyes."
+  },
+  {
+   "text": "Boing boing hop, nikla ek pyara balloon!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A giant bouncy colorful balloon popping out of the box, Chintu jumping in joy, dynamic action shot."
+  },
+  {
+   "text": "Pop pop pop, let's dance to the tune!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu dancing around the floating balloon, confetti falling, very high energy, happy expressions."
+  },
+  {
+   "text": "Freeze! Ab ruko aur dekho kya hua?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu standing perfectly still in a funny pose, the balloon hovering above them, whimsical magical lighting."
+  },
+  {
+   "text": "Wow! Chintu ka surprise toh bahut bada hai!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu laughing and clapping his feet, Mithu fluttering wings, bright rainbow in the background, pure toddler joy."
+  },
+  {
+   "text": "Ruko! Magic box mein phir se dekho...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The magic box starts glowing again, Chintu looking directly at the camera with a playful wink, seamless transition setup."
+  }
+ ]
+}
