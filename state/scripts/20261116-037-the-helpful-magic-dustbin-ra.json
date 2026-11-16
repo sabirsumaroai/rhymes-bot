@@ -1,0 +1,73 @@
+{
+ "id": "20261116-037-the-helpful-magic-dustbin-ra",
+ "topic": "The Helpful Little Dustbin",
+ "format": "Habit/Educational",
+ "title_hi": "कूड़ेदान का जादू! - Rangeela Rhymes",
+ "title_en": "The Helpful Magic Dustbin! - Rangeela Rhymes",
+ "thumb_text_hi": "जादुई डिब्बा!",
+ "thumb_text_en": "MAGIC BIN!",
+ "description": "Learn to keep things clean with Chintu and Mithu in this fun musical rhyme. Watch as the magic dustbin turns trash into sparkles! #Shorts #KidsRhymes #Cartoon #CleanHabits",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Songs",
+  "Preschool Learning",
+  "Clean Up Song",
+  "Hindi Rhymes",
+  "Toddler Education",
+  "Animated Stories",
+  "Funny Cartoon",
+  "Good Habits",
+  "Chintu and Mithu"
+ ],
+ "learning": "Teaching toddlers the importance of throwing trash in the dustbin through a magical, engaging visual reward.",
+ "scenes": [
+  {
+   "text": "Arrey! Magic dustbin mein kya chhupa hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 CGI shot of a cute orange baby elephant Chintu looking shocked at a colorful, glowing, dancing dustbin in a garden."
+  },
+  {
+   "text": "Pick up the paper, tap tap tap!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the green parrot holding a piece of paper with his beak, flying down towards the dustbin, bright 3D render."
+  },
+  {
+   "text": "Kachra dalo, clack clack clack!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu the elephant using his trunk to toss a crumpled paper into the happy, open-mouthed dustbin."
+  },
+  {
+   "text": "One, two, three, magic dekho!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close up of the dustbin glowing with colorful sparkles and stars erupting from inside."
+  },
+  {
+   "text": "Boing boing hop, trash is gone!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "The dustbin jumping with joy, sparkles everywhere, clean surroundings, happy atmosphere."
+  },
+  {
+   "text": "Sab kuch chamke, shine shine shine!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu high-fiving in a clean, glittering room, looking very happy."
+  },
+  {
+   "text": "Hahaha! Clean India, happy India!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu laughing and hugging the magic dustbin, full of joy and bright colors."
+  },
+  {
+   "text": "Ruko! Magic bin mein phir se dekho!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The magic dustbin looking directly at the camera with wide curious eyes, ready to loop."
+  }
+ ]
+}

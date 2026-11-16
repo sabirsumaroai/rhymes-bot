@@ -35,7 +35,8 @@
   "Chintu's Missing Shoe",
   "Moonlight Magic Blanket Lullaby",
   "Chintu's Magic Surprise!",
-  "Chintu and Mithu's Funny Bunny Jump"
+  "Chintu and Mithu's Funny Bunny Jump",
+  "The Helpful Magic Dustbin! - Rangeela Rhymes"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -73,13 +74,10 @@
   "Where is My Left Shoe?",
   "Moonlight Blanket Lullaby",
   "Chintu ka chhota surprise (Tap tap tap karo)",
-  "Funny Baby Bunny Jump (Boing boing hop hop)"
+  "Funny Baby Bunny Jump (Boing boing hop hop)",
+  "The Helpful Little Dustbin"
  ],
  "ideas": [
-  {
-   "topic": "The Helpful Little Dustbin",
-   "format": "Habit/Educational"
-  },
   {
    "topic": "Counting My Ten Little Toes",
    "format": "Counting/Action"
@@ -106,8 +104,8 @@
   }
  ],
  "missed": 0,
- "runs": 35,
- "last_run": "2026-11-15T03:15:24+00:00",
+ "runs": 36,
+ "last_run": "2026-11-16T10:01:25+00:00",
  "voiced": [],
- "counter": 36
+ "counter": 37
 }
