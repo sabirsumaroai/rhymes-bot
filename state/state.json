@@ -36,7 +36,8 @@
   "Moonlight Magic Blanket Lullaby",
   "Chintu's Magic Surprise!",
   "Chintu and Mithu's Funny Bunny Jump",
-  "The Helpful Magic Dustbin! - Rangeela Rhymes"
+  "The Helpful Magic Dustbin! - Rangeela Rhymes",
+  "My Ten Little Toes - Counting Rhyme"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -75,13 +76,10 @@
   "Moonlight Blanket Lullaby",
   "Chintu ka chhota surprise (Tap tap tap karo)",
   "Funny Baby Bunny Jump (Boing boing hop hop)",
-  "The Helpful Little Dustbin"
+  "The Helpful Little Dustbin",
+  "Counting My Ten Little Toes"
  ],
  "ideas": [
-  {
-   "topic": "Counting My Ten Little Toes",
-   "format": "Counting/Action"
-  },
   {
    "topic": "The Grumpy Cloud's Raindrop Dance",
    "format": "Story/Nature"
@@ -104,8 +102,8 @@
   }
  ],
  "missed": 0,
- "runs": 36,
- "last_run": "2026-11-16T10:01:25+00:00",
+ "runs": 37,
+ "last_run": "2026-11-17T10:59:34+00:00",
  "voiced": [],
- "counter": 37
+ "counter": 38
 }

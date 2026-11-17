@@ -1,0 +1,73 @@
+{
+ "id": "20261117-038-my-ten-little-toes-counting-",
+ "topic": "Counting My Ten Little Toes",
+ "format": "Counting/Action",
+ "title_hi": "मेरे दस नन्हे पैर - गिनती सीखें",
+ "title_en": "My Ten Little Toes - Counting Rhyme",
+ "thumb_text_hi": "दस उंगलियां!",
+ "thumb_text_en": "TEN TOES!",
+ "description": "Learn to count to ten with Chintu the Elephant and Mithu the Parrot! A fun, educational song for toddlers and preschoolers. #Shorts #KidsRhymes #Cartoon #Counting",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Songs",
+  "Counting for kids",
+  "Toddler Learning",
+  "Chintu and Mithu",
+  "Nursery Rhymes Hindi",
+  "Preschool Education",
+  "Fun Rhymes",
+  "Educational Animation",
+  "Kids Counting"
+ ],
+ "learning": "Teaching children numbers 1 to 10 through interactive toe counting.",
+ "scenes": [
+  {
+   "text": "Arrey! Chintu ke pairo mein kya chhupa hai?!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D CGI, Chintu the orange baby elephant looking down at his feet with sparkly curious eyes, white background, high resolution, vibrant colors."
+  },
+  {
+   "text": "Wiggle, wiggle, one and two!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D CGI, Chintu wiggling his two front toes, Mithu the parrot flying above giggling, bright sunny playroom background."
+  },
+  {
+   "text": "Three and four, look at you!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D CGI, close up on Chintu's toes, Mithu pointing with his wing at the toes, cheerful expression, soft lighting."
+  },
+  {
+   "text": "Paanch aur chhe, let’s count more!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D CGI, Chintu jumping happily, counting on his feet, dynamic motion blur, vibrant playroom."
+  },
+  {
+   "text": "Seven, eight, hop on the floor!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D CGI, Chintu and Mithu jumping together on a colorful mat, big smiles, sparkles around them."
+  },
+  {
+   "text": "Nau aur das! We are done!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D CGI, Chintu showing all ten toes, Mithu holding a sign with the number 10, confetti in the air."
+  },
+  {
+   "text": "Hahaha! Counting toes is so much fun!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D CGI, Chintu and Mithu hugging, wide laughing expressions, happy atmosphere, bright yellow background."
+  },
+  {
+   "text": "Ruko! Kya tumne phir se gina?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, cute 3D CGI, Chintu looking directly into the camera with a playful wink, index finger on chin, mysterious and inviting pose."
+  }
+ ]
+}
