@@ -1,0 +1,73 @@
+{
+ "id": "20261118-039-the-grumpy-cloud-s-magic-dan",
+ "topic": "The Grumpy Cloud's Raindrop Dance",
+ "format": "Story/Nature",
+ "title_hi": "नाराज़ बादल का जादुई डांस",
+ "title_en": "The Grumpy Cloud's Magic Dance",
+ "thumb_text_hi": "जादुई बादल!",
+ "thumb_text_en": "MAGIC CLOUD!",
+ "description": "Watch Chintu and Mithu turn a grumpy rain cloud into a fun dance party! Perfect for kids to learn about nature and rhythm. #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Shorts",
+  "Preschool Learning",
+  "Chintu Elephant",
+  "Mithu Parrot",
+  "Nursery Rhymes",
+  "Rain Dance",
+  "Funny Cartoon",
+  "Toddler Fun",
+  "Hindi Kids Video"
+ ],
+ "learning": "Teaches children about weather, emotions, and rhythm through music.",
+ "scenes": [
+  {
+   "text": "Arrey! Dekho, ye gussa cloud kya kar raha hai?!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 portrait, cute 3D CGI grumpy grey cloud with lightning bolts, Chintu elephant and Mithu parrot looking curious, sunny forest background."
+  },
+  {
+   "text": "Oh no! He is raining and sad, Splash Splash Splash!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 portrait, 3D CGI grumpy cloud crying blue raindrops, Chintu holding an umbrella, bright colors."
+  },
+  {
+   "text": "Chintu, dance karo! Thumak thumak, step karo!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 portrait, 3D CGI Chintu elephant doing a funny dance step, forest floor with grass, joyful expression."
+  },
+  {
+   "text": "Mithu, hop hop! Twist and jump, keep it up!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 portrait, 3D CGI Mithu parrot jumping in the air, wearing a tiny red cap, action lines for movement."
+  },
+  {
+   "text": "Badal ab hasne laga, dekho magic ho gaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 portrait, 3D CGI cloud face transforming from grumpy to big happy smile, rainbows appearing in the sky."
+  },
+  {
+   "text": "Spin, spin, dance! Raindrop rhythm, take a chance!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 portrait, Chintu and Mithu spinning under the happy cloud, colorful flowers popping up from the ground."
+  },
+  {
+   "text": "Yay! Sab log khush hain! Big happy dance!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 portrait, Chintu and Mithu hugging, happy cloud confetti showering, bright high-energy celebration."
+  },
+  {
+   "text": "Ruko! Kya cloud phir se gussa hone wala hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16 portrait, Chintu and Mithu looking back at the cloud with wide eyes, mystery atmosphere, seamless loop transition."
+  }
+ ]
+}
