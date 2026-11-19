@@ -1,0 +1,73 @@
+{
+ "id": "20261119-040-what-is-in-my-tiffin",
+ "topic": "Shapes in My Tiffin Box",
+ "format": "Colors/Objects",
+ "title_hi": "टिफ़िन में क्या है?",
+ "title_en": "What is in my Tiffin?",
+ "thumb_text_hi": "जादुई डिब्बा!",
+ "thumb_text_en": "MAGIC BOX!",
+ "description": "Join Chintu and Mithu as they discover yummy shapes hidden inside their magical tiffin box. Fun, educational, and perfect for toddlers to learn shapes in English and Hindi! #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "Kids Learning",
+  "Shapes for Toddlers",
+  "Rangeela Rhymes",
+  "Chintu and Mithu",
+  "Animated Shorts",
+  "Nursery Rhymes",
+  "Hindi for Kids",
+  "Preschool Education",
+  "Fun Animation",
+  "Shapes Song"
+ ],
+ "learning": "Identifying shapes (Circle, Square, Triangle) through a fun, interactive food discovery.",
+ "scenes": [
+  {
+   "text": "Arrey! Chintu ke tiffin box mein kya chhupa hai?!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, close-up of a cute orange baby elephant Chintu looking surprised at a sparkling, glowing yellow lunch box, bright colorful background, 9:16 vertical."
+  },
+  {
+   "text": "Look! A yummy round roti, Circle shape, yummy yummy!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu holding a perfectly round roti, glowing golden light around the roti, cheerful 3D animation style, bright studio lighting."
+  },
+  {
+   "text": "Mithu, tap tap tap! Yahan kya hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A tiny green parrot Mithu with a red cap hopping on the lunch box, tapping the lid with his beak, curious expression."
+  },
+  {
+   "text": "Square sandwich! Boing boing hop!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A delicious square-shaped sandwich jumping out of the tiffin box, colorful confetti flying, 3D style."
+  },
+  {
+   "text": "Dekho, one, two, three! Triangle cheese!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A triangular piece of cheese floating in the air, Chintu and Mithu watching with wide sparkly eyes, vibrant 3D environment."
+  },
+  {
+   "text": "Wow! Shapes are everywhere, yay!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu doing a joyful dance together, shapes floating around them in the air like bubbles, happy atmosphere."
+  },
+  {
+   "text": "Hahaha! Tiffin ho gaya magic box!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close up of Chintu laughing heartily, holding his tummy, sparkles emerging from the half-open lunch box."
+  },
+  {
+   "text": "Ruko! Magic box mein phir se dekho...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The lunch box closing slowly, Mithu looking at the camera with a playful wink, blurred background."
+  }
+ ]
+}
