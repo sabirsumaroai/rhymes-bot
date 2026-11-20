@@ -1,0 +1,73 @@
+{
+ "id": "20261120-041-chintu-and-mithu-s-magic-for",
+ "topic": "The Quiet Forest Lullaby",
+ "format": "Lullaby/Calm",
+ "title_hi": "चिंटू और मिठू का जादुई जंगल!",
+ "title_en": "Chintu and Mithu's Magic Forest!",
+ "thumb_text_hi": "क्या छुपा है?",
+ "thumb_text_en": "WHAT'S HIDDEN?",
+ "description": "Join Chintu elephant and Mithu parrot in their magical forest adventure. A soothing, high-energy lullaby animation for toddlers to enjoy! #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "RangeelaRhymes",
+  "KidsShorts",
+  "BabyRhymes",
+  "HindiRhymes",
+  "CuteAnimation",
+  "ForestLullaby",
+  "ChintuAndMithu",
+  "ToddlerLearning",
+  "MagicBox",
+  "NurseryRhymes"
+ ],
+ "learning": "Encourages observational skills and rhythm recognition through repetitive interactive sequences.",
+ "scenes": [
+  {
+   "text": "अरे! ये चमकता हुआ पेड़ क्या है?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, a magical glowing tree in a colorful fantasy forest, curious orange baby elephant Chintu with blue scarf looking at it, wide shot, bright pastel colors."
+  },
+  {
+   "text": "Look! Chintu is tiptoeing, shh!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu the orange baby elephant walking on tiptoes, finger on mouth for silence, expressive sparkly eyes, soft forest background, cinematic lighting."
+  },
+  {
+   "text": "मिठू ने बजाया छोटा सा ड्रम, ढप ढप ढप!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Mithu the green parrot with a red cap hitting a tiny wooden drum with sticks, happy expression, yellow tummy visible, close-up."
+  },
+  {
+   "text": "Hop hop hop, jump with joy!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu jumping happily in the air, sparkles around, colorful mushrooms and flowers in the background, high energy, dynamic angle."
+  },
+  {
+   "text": "पेड़ के पीछे देखो, कौन है वहां?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu and Mithu peering behind a large, friendly-looking glowing tree trunk, anticipation on their faces, soft sunset forest lighting."
+  },
+  {
+   "text": "One, two, three, surprise reveal!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, a giant magical glowing butterfly flying out from behind the tree, Chintu and Mithu laughing with mouths wide open, vibrant colors."
+  },
+  {
+   "text": "वाह! कितना प्यारा जादुई जंगल!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu and Mithu hugging each other in front of the glowing butterfly, sparkles everywhere, joyful atmosphere, extreme close-up."
+  },
+  {
+   "text": "Ruko! Magic tree mein phir se dekho!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "3D render, vertical 9:16, Chintu pointing back towards the magical tree entrance, inviting the audience to look again, bright and cheerful finish, loop-ready composition."
+  }
+ ]
+}
