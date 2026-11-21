@@ -1,0 +1,73 @@
+{
+ "id": "20261121-042-chintu-and-mithu-s-musical-c",
+ "topic": "Animal Sound Musical Chairs",
+ "format": "Action/Animals",
+ "title_hi": "चिंटू और मिठू का जादुई म्यूजिकल चेयर",
+ "title_en": "Chintu and Mithu's Musical Chairs Magic",
+ "thumb_text_hi": "कौन जीतेगा?",
+ "thumb_text_en": "WHO WINS?",
+ "description": "Watch Chintu the elephant and Mithu the parrot play a fun musical chairs game with animal sounds. Perfect for toddlers to learn animal noises and have fun! #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Shorts",
+  "Toddler Learning",
+  "Chintu and Mithu",
+  "Animal Sounds",
+  "Musical Chairs",
+  "Preschool Fun",
+  "Hindi Rhymes",
+  "Cute Animation",
+  "Baby Songs"
+ ],
+ "learning": "Teaches animal sound identification and rhythm through interactive play.",
+ "scenes": [
+  {
+   "text": "Arrey! Musical chairs par kaun baitha hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, 3D render of a cute orange baby elephant Chintu and green parrot Mithu looking confused at a spinning musical chair, bright colorful playroom background, high detail, vibrant."
+  },
+  {
+   "text": "Music starts, tap tap tap! Let's go!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu the elephant dancing rhythmically while wiggling his ears, bright yellow floor, soft studio lighting, cute expression."
+  },
+  {
+   "text": "Mithu udta hai, peep peep peep!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Mithu the green parrot with a red cap flapping wings around a chair, flying motion blur, sparkling magical particles around him."
+  },
+  {
+   "text": "Chintu ghume, boom boom stomp!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu the elephant stomping his feet excitedly in a circle, dust particles floating, cheerful atmosphere, 3D CGI."
+  },
+  {
+   "text": "Music stops! Baitho, sit down fast!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, a single chair in the middle, Chintu and Mithu diving towards the chair with surprised funny faces, high-quality 3D render."
+  },
+  {
+   "text": "Chintu sits, Roar! Elephant wins!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu sitting triumphantly on the chair, Mithu laughing beside him, confetti falling, bright celebration."
+  },
+  {
+   "text": "Haha! Sab saath milkar dance karo!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, Chintu and Mithu high-fiving and dancing together, wide shot, joy and excitement, vibrant colors."
+  },
+  {
+   "text": "Ruko! Magic chair phir se bajne wali hai...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Vertical 9:16, close up on Chintu and Mithu winking at the camera, a musical chair in the background starting to glow, loop transition ready."
+  }
+ ]
+}

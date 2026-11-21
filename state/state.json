@@ -40,7 +40,8 @@
   "My Ten Little Toes - Counting Rhyme",
   "The Grumpy Cloud's Magic Dance",
   "What is in my Tiffin?",
-  "Chintu and Mithu's Magic Forest!"
+  "Chintu and Mithu's Magic Forest!",
+  "Chintu and Mithu's Musical Chairs Magic"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -83,21 +84,18 @@
   "Counting My Ten Little Toes",
   "The Grumpy Cloud's Raindrop Dance",
   "Shapes in My Tiffin Box",
-  "The Quiet Forest Lullaby"
+  "The Quiet Forest Lullaby",
+  "Animal Sound Musical Chairs"
  ],
  "ideas": [
-  {
-   "topic": "Animal Sound Musical Chairs",
-   "format": "Action/Animals"
-  },
   {
    "topic": "Chintu's Magical Kite Adventure",
    "format": "Story/Colors"
   }
  ],
  "missed": 0,
- "runs": 40,
- "last_run": "2026-11-20T10:18:37+00:00",
+ "runs": 41,
+ "last_run": "2026-11-21T10:03:17+00:00",
  "voiced": [],
- "counter": 41
+ "counter": 42
 }
