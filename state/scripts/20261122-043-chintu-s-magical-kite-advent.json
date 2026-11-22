@@ -1,0 +1,73 @@
+{
+ "id": "20261122-043-chintu-s-magical-kite-advent",
+ "topic": "Chintu's Magical Kite Adventure",
+ "format": "Story/Colors",
+ "title_hi": "चिंटू और जादुई पतंग",
+ "title_en": "Chintu's Magical Kite Adventure",
+ "thumb_text_hi": "जादुई पतंग!",
+ "thumb_text_en": "MAGIC KITE!",
+ "description": "Join Chintu the elephant and Mithu the parrot on a colorful magical kite adventure! A fun learning video for toddlers.",
+ "tags": [
+  "KidsVideo",
+  "RangeelaRhymes",
+  "ToddlerFun",
+  "ChintuElephant",
+  "MagicKite",
+  "KidsCartoon",
+  "PreschoolLearning",
+  "HindiRhymes",
+  "ColorsForKids",
+  "ShortsForKids"
+ ],
+ "learning": "Teaching colors and excitement through magical kite flying.",
+ "scenes": [
+  {
+   "text": "Arrey! Dekho, ye magic kite kahan se aayi?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D CGI render, vertical 9:16, close up of a cute round orange baby elephant Chintu looking surprised at a sparkling glowing kite floating in the sky, bright sunny park background, soft cinematic lighting."
+  },
+  {
+   "text": "Mithu, catch the magic kite! Fly high!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "3D CGI render, vertical 9:16, tiny green parrot Mithu with a red cap flapping wings fast, chasing a glittering golden kite, dynamic motion blur, vibrant blue sky."
+  },
+  {
+   "text": "Wow! Chintu ne pakdi rang-birangi dori!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D CGI render, vertical 9:16, Chintu elephant holding a colorful string attached to the magic kite, he is wearing a blue scarf, happy expressive face, grassy field."
+  },
+  {
+   "text": "Zoom zoom, up up! Chalo udte hain!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D CGI render, vertical 9:16, Chintu and Mithu dancing and jumping with excitement, the magic kite sparkling in the air above them, colorful flowers around."
+  },
+  {
+   "text": "Red, Blue, Yellow! Kite changes colors!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "3D CGI render, vertical 9:16, the kite in mid-air changing colors rapidly, Chintu pointing his trunk at the kite in wonder, bright colorful park setting."
+  },
+  {
+   "text": "Spin, spin, spin! Magic magic ho gaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D CGI render, vertical 9:16, Chintu spinning in joy with Mithu flying around his head, magical sparkles trailing from the kite, toddler-friendly cute art style."
+  },
+  {
+   "text": "Haha! Kitna maza aaya, kite dance!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D CGI render, vertical 9:16, Chintu elephant laughing out loud with wide sparkly eyes, Mithu parrot sitting on his shoulder, both very happy, sunny day."
+  },
+  {
+   "text": "Ruko! Magic kite phir se wapas aayi!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "3D CGI render, vertical 9:16, Chintu looking directly at the camera with wide eyes and a surprised expression, the kite floating back into the frame, high energy."
+  }
+ ]
+}
