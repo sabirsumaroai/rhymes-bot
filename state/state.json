@@ -89,7 +89,36 @@
   "Animal Sound Musical Chairs",
   "Chintu's Magical Kite Adventure"
  ],
- "ideas": [],
+ "ideas": [
+  {
+   "topic": "The Clever Chintu and The Raindrop Race",
+   "format": "Story/Action"
+  },
+  {
+   "topic": "Counting Shapes at the Magical Tea Party",
+   "format": "Counting/Learning"
+  },
+  {
+   "topic": "Mithu the Parrot Learns New Colors",
+   "format": "Colors/Interaction"
+  },
+  {
+   "topic": "Wake Up, Sun! A Morning Routine Song",
+   "format": "Habit/Musical"
+  },
+  {
+   "topic": "The Animal Alphabet Parade",
+   "format": "Education/Action"
+  },
+  {
+   "topic": "Wash Your Hands, Save the Earth!",
+   "format": "Hygiene/Action"
+  },
+  {
+   "topic": "Starlight Lullaby for Little Dreamers",
+   "format": "Lullaby"
+  }
+ ],
  "missed": 0,
  "runs": 42,
  "last_run": "2026-11-22T10:04:00+00:00",
