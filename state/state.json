@@ -42,7 +42,8 @@
   "What is in my Tiffin?",
   "Chintu and Mithu's Magic Forest!",
   "Chintu and Mithu's Musical Chairs Magic",
-  "Chintu's Magical Kite Adventure"
+  "Chintu's Magical Kite Adventure",
+  "Chintu and Mithu's Raindrop Race"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -87,13 +88,10 @@
   "Shapes in My Tiffin Box",
   "The Quiet Forest Lullaby",
   "Animal Sound Musical Chairs",
-  "Chintu's Magical Kite Adventure"
+  "Chintu's Magical Kite Adventure",
+  "The Clever Chintu and The Raindrop Race"
  ],
  "ideas": [
-  {
-   "topic": "The Clever Chintu and The Raindrop Race",
-   "format": "Story/Action"
-  },
   {
    "topic": "Counting Shapes at the Magical Tea Party",
    "format": "Counting/Learning"
@@ -120,8 +118,8 @@
   }
  ],
  "missed": 0,
- "runs": 42,
- "last_run": "2026-11-22T10:04:00+00:00",
+ "runs": 43,
+ "last_run": "2026-11-23T11:01:25+00:00",
  "voiced": [],
- "counter": 43
+ "counter": 44
 }

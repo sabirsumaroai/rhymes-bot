@@ -1,0 +1,73 @@
+{
+ "id": "20261123-044-chintu-and-mithu-s-raindrop-",
+ "topic": "The Clever Chintu and The Raindrop Race",
+ "format": "Story/Action",
+ "title_hi": "चिंटू और मिट्ठू की बारिश वाली दौड़",
+ "title_en": "Chintu and Mithu's Raindrop Race",
+ "thumb_text_hi": "तेज़ दौड़!",
+ "thumb_text_en": "FAST RACE!",
+ "description": "Watch Chintu the elephant and Mithu the parrot in a super fast raindrop race! Perfect fun for toddlers and preschoolers. #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "RangeelaRhymes",
+  "KidsShorts",
+  "BabyRhymes",
+  "HindiKids",
+  "ChintuElephant",
+  "FunForKids",
+  "PreschoolLearning",
+  "CuteAnimation",
+  "RaindropRace",
+  "ToddlerVideos"
+ ],
+ "learning": "Teaches competitive spirit, counting, and nature observation through cheerful interaction.",
+ "scenes": [
+  {
+   "text": "अरे! ये बारिश की बूंदें कहाँ दौड़ रही हैं?!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close up, 3D animated orange elephant Chintu with blue scarf looking amazed at rain falling on a vibrant green leaf, sunny garden background, 9:16 vertical, high quality."
+  },
+  {
+   "text": "Look! Mithu is ready, one.. two.. three!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Cute green parrot Mithu with a red cap perched on a branch, flapping wings excitedly, raindrops falling around, 9:16 vertical."
+  },
+  {
+   "text": "टप-टप-टप! देखो, कौन सी बूंद सबसे तेज़ है?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Animated raindrops racing down a bright window pane, Chintu pointing his trunk at them, expressive joyful face, 9:16 vertical."
+  },
+  {
+   "text": "Zoom! Chintu is running, go go go!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu the elephant running happily in a garden splashing in small puddles, colorful flowers, vibrant lighting, 9:16 vertical."
+  },
+  {
+   "text": "हॉप-हॉप-हॉप! मिट्ठू हवा में उड़ गया!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Mithu the parrot flying through the rain drops in the sky, motion blur effect, bright cheerful colors, 9:16 vertical."
+  },
+  {
+   "text": "Splash! Raindrop race is so much fun!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu high-fiving near a big puddle, water splashing, happy expressions, 9:16 vertical."
+  },
+  {
+   "text": "हा हा हा! हम दोनों जीत गए!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu laughing together, big smiles, sunny rainbow appearing in the background, 9:16 vertical."
+  },
+  {
+   "text": "रुको! एक और जादुई दौड़ बाकी है!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close up of Chintu looking directly at the camera with a playful wink, finger on nose, blurred background, 9:16 vertical."
+  }
+ ]
+}
