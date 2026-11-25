@@ -1,0 +1,73 @@
+{
+ "id": "20261125-045-rangeela-rhymes-magical-shap",
+ "topic": "Counting Shapes at the Magical Tea Party",
+ "format": "Counting/Learning",
+ "title_hi": "रंगीला राइम्स: जादुई आकृतियों वाली चाय पार्टी",
+ "title_en": "Rangeela Rhymes: Magical Shapes Tea Party",
+ "thumb_text_hi": "जादुई डिब्बा!",
+ "thumb_text_en": "MAGIC BOX!",
+ "description": "Join Chintu and Mithu for a magical tea party filled with learning shapes. Perfect for toddlers to learn counting and geometry in a fun way! #Shorts #KidsRhymes #Cartoon",
+ "tags": [
+  "Rangeela Rhymes",
+  "Shapes for kids",
+  "Learning shapes",
+  "Preschool learning",
+  "Chintu and Mithu",
+  "Educational shorts",
+  "Toddler rhymes",
+  "Hindi rhymes for kids",
+  "Counting shapes",
+  "3D animation for kids"
+ ],
+ "learning": "Counting and identifying basic shapes (Circle, Square, Triangle)",
+ "scenes": [
+  {
+   "text": "अरे! Magic box में क्या छिपा है?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Cute 3D CGI baby elephant Chintu with a blue scarf looking curiously at a sparkling glowing floating magic box, bright vibrant tea party background, 9:16 vertical."
+  },
+  {
+   "text": "One, Two, Three! Let’s open it, wow!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu the parrot with a red cap jumping with excitement as the magic box pops open, colorful magical sparkles flying out, 9:16 vertical."
+  },
+  {
+   "text": "देखो, ये है एक गोल-गोल Circle!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A glowing golden circle shape floating in the air, Chintu pointing at it with his trunk, happy tea party table in background, 9:16 vertical."
+  },
+  {
+   "text": "Tap tap tap, two Squares are here!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the parrot flying around two blue square-shaped cookies dancing on a plate, very cheerful expression, 9:16 vertical."
+  },
+  {
+   "text": "Boing boing! तीन प्यारे Triangle!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Three colorful triangle-shaped sandwiches bouncing on a table, Chintu laughing and clapping his hands, 9:16 vertical."
+  },
+  {
+   "text": "Shapes are fun! Ab party shuru!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu sitting at a table with shape-themed treats, enjoying the magical tea party, 9:16 vertical."
+  },
+  {
+   "text": "Yay! Sab shapes मिल गए!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu doing a happy dance, confetti in the air, bright and high-energy atmosphere, 9:16 vertical."
+  },
+  {
+   "text": "Ruko! Magic box में फिर से देखो!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The magic box closing slightly while Chintu and Mithu look back at it with wide curious eyes, seamless loop transition style, 9:16 vertical."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "20261125-046-rangeela-mithu-and-magical-c",
+ "topic": "Mithu the Parrot Learns New Colors",
+ "format": "Colors/Interaction",
+ "title_hi": "रंगीला मिथु और जादुई रंग!",
+ "title_en": "Rangeela Mithu and Magical Colors!",
+ "thumb_text_hi": "जादुई डिब्बा!",
+ "thumb_text_en": "MAGIC BOX!",
+ "description": "Join Mithu the parrot and Chintu the elephant on a colorful adventure to learn new colors. This fun video helps toddlers identify vibrant colors with magical surprises!",
+ "tags": [
+  "KidsLearning",
+  "RangeelaRhymes",
+  "ToddlerEducation",
+  "ColorsForKids",
+  "MithuParrot",
+  "ChintuElephant",
+  "HindiForKids",
+  "PreschoolLearning",
+  "FunShorts",
+  "AnimatedRhymes"
+ ],
+ "learning": "Teaching toddlers to identify colors Red, Blue, and Yellow through interactive play.",
+ "scenes": [
+  {
+   "text": "Arrey! Magic box mein kya chupa hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close-up 3D render of a colorful glowing magic box on a playground, Chintu the elephant and Mithu the parrot looking curious, 9:16 vertical."
+  },
+  {
+   "text": "Chalo dekhte hain! One, two, three!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the green parrot with a red cap flapping wings excitedly, Chintu the orange elephant tapping his trunk on the magic box, bright 3D garden background."
+  },
+  {
+   "text": "Wow! Ye toh hai RED colour!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "The magic box opens to reveal a shiny red apple, Mithu and Chintu looking surprised with sparkles around them."
+  },
+  {
+   "text": "Jump jump! Blue colour aaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Mithu and Chintu jumping around a floating blue balloon, vibrant blue sky background, cute 3D animation style."
+  },
+  {
+   "text": "Twist and turn, Yellow is fun!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu and Chintu dancing with a yellow sunflower, cheerful expressions, high quality 3D render."
+  },
+  {
+   "text": "Clap your hands for all these colors!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu and Chintu clapping their hands together, a rainbow arching in the background, very happy mood."
+  },
+  {
+   "text": "Haha! Kitna maza aaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close-up of Mithu and Chintu laughing together, bright and colorful scene, cinematic lighting."
+  },
+  {
+   "text": "Ruko! Magic box mein phir se dekho...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Mithu pointing his wing back toward the closed magic box, Chintu looking directly at the camera, loop-ready composition."
+  }
+ ]
+}

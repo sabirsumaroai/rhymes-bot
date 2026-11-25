@@ -43,7 +43,9 @@
   "Chintu and Mithu's Magic Forest!",
   "Chintu and Mithu's Musical Chairs Magic",
   "Chintu's Magical Kite Adventure",
-  "Chintu and Mithu's Raindrop Race"
+  "Chintu and Mithu's Raindrop Race",
+  "Rangeela Rhymes: Magical Shapes Tea Party",
+  "Rangeela Mithu and Magical Colors!"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -89,17 +91,11 @@
   "The Quiet Forest Lullaby",
   "Animal Sound Musical Chairs",
   "Chintu's Magical Kite Adventure",
-  "The Clever Chintu and The Raindrop Race"
+  "The Clever Chintu and The Raindrop Race",
+  "Counting Shapes at the Magical Tea Party",
+  "Mithu the Parrot Learns New Colors"
  ],
  "ideas": [
-  {
-   "topic": "Counting Shapes at the Magical Tea Party",
-   "format": "Counting/Learning"
-  },
-  {
-   "topic": "Mithu the Parrot Learns New Colors",
-   "format": "Colors/Interaction"
-  },
   {
    "topic": "Wake Up, Sun! A Morning Routine Song",
    "format": "Habit/Musical"
@@ -117,9 +113,9 @@
    "format": "Lullaby"
   }
  ],
- "missed": 1,
- "runs": 44,
- "last_run": "2026-11-24T12:51:22+00:00",
+ "missed": 0,
+ "runs": 45,
+ "last_run": "2026-11-25T11:37:15+00:00",
  "voiced": [],
- "counter": 44
+ "counter": 46
 }
