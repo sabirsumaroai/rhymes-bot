@@ -1,0 +1,73 @@
+{
+ "id": "20261127-048-chintu-and-mithu-animal-alph",
+ "topic": "The Animal Alphabet Parade",
+ "format": "Education/Action",
+ "title_hi": "चिंटू और मिठू का जादुई वर्णमाला परेड",
+ "title_en": "Chintu and Mithu Animal Alphabet Parade",
+ "thumb_text_hi": "क्या है अंदर?",
+ "thumb_text_en": "WHAT'S INSIDE?",
+ "description": "Chintu the elephant and Mithu the parrot explore the magical animal alphabet parade! Join the fun for toddlers to learn letters through dance.",
+ "tags": [
+  "RangeelaRhymes",
+  "ToddlerLearning",
+  "AnimalAlphabet",
+  "KidsShorts",
+  "PreschoolFun",
+  "ChintuAndMithu",
+  "EducationalVideo",
+  "HindiKidsSongs",
+  "3DAnimation",
+  "AlphabetSongs"
+ ],
+ "learning": "Learning the alphabet through identifying animals in a magical parade setting.",
+ "scenes": [
+  {
+   "text": "Arrey! Magic box mein kya chhupa hai?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close-up of a vibrant, floating, sparkling magical box in a 3D jungle setting. Chintu the orange baby elephant with a blue scarf is looking at it with wide, curious eyes. Bright, cheerful lighting, 9:16 vertical orientation."
+  },
+  {
+   "text": "Tap tap tap, open the lid!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the green parrot with a red cap is flying over the box, tapping it with his tiny beak. Vibrant tropical flowers in the background, 3D CGI style."
+  },
+  {
+   "text": "Dekho, A for Alligator aaya!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "A cute cartoon alligator wearing a party hat pops out of the magic box. Chintu is dancing joyfully next to it, 3D render, high contrast colors."
+  },
+  {
+   "text": "Boing boing hop, B for Bear!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A fluffy teddy bear jumps out of the box and bounces on a cloud. Mithu is cheering and flapping wings, bright sunny environment."
+  },
+  {
+   "text": "Wow! C for Cat, dance with us!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "A cute kitten wearing a bow tie performs a silly dance move. Chintu is swaying his trunk to the music, toddler-friendly animation."
+  },
+  {
+   "text": "One, two, three, dance with glee!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu, Mithu, the alligator, bear, and kitten are all forming a parade line, walking in a happy circle. Playful atmosphere, soft depth of field."
+  },
+  {
+   "text": "Kitna mazaa aaya! Yay!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "All characters laughing and jumping in a group hug. Confetti is falling from the sky, vibrant 3D animation style, big happy faces."
+  },
+  {
+   "text": "Ruko! Magic box mein phir se dekho...",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu pointing back at the closed, glowing magic box, inviting the viewer to watch again. The scene is perfectly set to loop back to the start."
+  }
+ ]
+}

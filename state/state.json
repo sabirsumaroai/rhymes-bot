@@ -46,7 +46,8 @@
   "Chintu and Mithu's Raindrop Race",
   "Rangeela Rhymes: Magical Shapes Tea Party",
   "Rangeela Mithu and Magical Colors!",
-  "Wake Up Sun! - Chintu & Mithu Morning Song"
+  "Wake Up Sun! - Chintu & Mithu Morning Song",
+  "Chintu and Mithu Animal Alphabet Parade"
  ],
  "used_topics": [
   "Pyaari titli aur phool",
@@ -95,13 +96,10 @@
   "The Clever Chintu and The Raindrop Race",
   "Counting Shapes at the Magical Tea Party",
   "Mithu the Parrot Learns New Colors",
-  "Wake Up, Sun! A Morning Routine Song"
+  "Wake Up, Sun! A Morning Routine Song",
+  "The Animal Alphabet Parade"
  ],
  "ideas": [
-  {
-   "topic": "The Animal Alphabet Parade",
-   "format": "Education/Action"
-  },
   {
    "topic": "Wash Your Hands, Save the Earth!",
    "format": "Hygiene/Action"
@@ -112,8 +110,8 @@
   }
  ],
  "missed": 0,
- "runs": 46,
- "last_run": "2026-11-26T11:16:56+00:00",
+ "runs": 47,
+ "last_run": "2026-11-27T11:10:33+00:00",
  "voiced": [],
- "counter": 47
+ "counter": 48
 }
