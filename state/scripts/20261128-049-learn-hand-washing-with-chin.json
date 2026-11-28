@@ -1,0 +1,73 @@
+{
+ "id": "20261128-049-learn-hand-washing-with-chin",
+ "topic": "Wash Your Hands, Save the Earth!",
+ "format": "Hygiene/Action",
+ "title_hi": "हाथ धोना सीखें चिनटू और मीटू के साथ",
+ "title_en": "Learn Hand Washing with Chintu & Mithu",
+ "thumb_text_hi": "जादुई साबुन!",
+ "thumb_text_en": "MAGIC SOAP!",
+ "description": "Chintu the elephant and Mithu the parrot teach toddlers how to wash hands and stay healthy. Join the fun and learn good habits with Rangeela Rhymes!",
+ "tags": [
+  "Rangeela Rhymes",
+  "Kids Hygiene",
+  "Hand Wash Song",
+  "Chintu and Mithu",
+  "Toddler Learning",
+  "Preschool Animation",
+  "Healthy Kids",
+  "Save Earth",
+  "Educational Shorts",
+  "Hindi Nursery Rhymes"
+ ],
+ "learning": "Teaching children proper hand-washing habits through fun, high-energy animation.",
+ "scenes": [
+  {
+   "text": "Arrey! Chintu ke haath itne gande kyun hain?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Close-up 3D render of Chintu the baby orange elephant looking at his muddy palms with a surprised, worried expression, vertical 9:16."
+  },
+  {
+   "text": "Mithu says, let's wash them clean and green!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the green parrot with a red cap flying in and pointing excitedly at a sparkling blue soap bubble, 3D style."
+  },
+  {
+   "text": "Tap tap tap, water flows fast!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu standing under a cheerful splashing water faucet, laughing as water hits his trunk, bright bathroom background."
+  },
+  {
+   "text": "Sabun lagao, bubbles banao, gande germs bhagao!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu rubbing his hands together creating giant colorful soap bubbles, very happy expression, sparkles everywhere."
+  },
+  {
+   "text": "Rub-a-dub, scrub-a-dub, wash away the mud!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Mithu the parrot using a small sponge to scrub Chintu's toes, vibrant colors, clean and shiny atmosphere."
+  },
+  {
+   "text": "Save water, save Earth, keep planet green!",
+   "lang": "en",
+   "chorus": false,
+   "image_prompt": "Chintu and Mithu standing together holding a small globe, both looking proud and clean, green nature background."
+  },
+  {
+   "text": "Wow! Mere haath toh chamak rahe hain!",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu showing his sparkling clean hands to the camera with a big joyful smile, Mithu dancing on his shoulder."
+  },
+  {
+   "text": "Ruko! Fir se haath gande kaise ho gaye?",
+   "lang": "hi",
+   "chorus": false,
+   "image_prompt": "Chintu looking at his hands again with a funny, shocked look as a tiny bit of mud appears, loop setup, high energy."
+  }
+ ]
+}
